@@ -18,7 +18,6 @@ export default function TAIR() {
       <table>
         <thead>
           <tr>
-            <th>Genomic location</th>
             <th>Short name</th>
             <th>Full name</th>
           </tr>

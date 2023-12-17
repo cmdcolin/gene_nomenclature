@@ -19,13 +19,15 @@ export default function TAIR() {
             .readFileSync("./mouse_genes.csv", "utf8")
             .split("\n")
             .filter((f) => !f.startsWith("#"))
-            .map((line, idx) => (
-              <tr key={`${line}-${idx}`}>
-                {line.split("\t").map((r, idx) => (
-                  <td key={`${r}-${idx}`}>{r}</td>
-                ))}
-              </tr>
-            ))}
+            .map((line, idx) => {
+              const [symbol, name] = line.split("\t");
+              return (
+                <tr key={`${line}-${idx}`}>
+                  <td>{symbol}</td>
+                  <td>{name}</td>
+                </tr>
+              );
+            })}
         </tbody>
       </table>
     </div>
