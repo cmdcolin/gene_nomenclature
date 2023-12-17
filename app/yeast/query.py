@@ -7,9 +7,11 @@ service = Service("http://production-intermine-app.alliancegenome.org:8080/allia
 
 query = service.new_query("Gene")
 
-query.add_view("symbol", "name")
+query.add_view("primaryIdentifier", "symbol", "name")
+
+query.add_sort_order("Gene.symbol", "ASC")
 
 query.add_constraint("organism.shortName", "=", "S. cerevisiae S288C", code="A")
 
 for row in query.rows():
-    print(row["symbol"], row["name"])
+    print(row["primaryIdentifier"], row["symbol"], row["name"])

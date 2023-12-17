@@ -19,13 +19,19 @@ export default function TAIR() {
             .readFileSync("./zfin_genes.csv", "utf8")
             .split("\n")
             .filter((f) => !f.startsWith("#"))
-            .map((line, idx) => (
-              <tr key={`${line}-${idx}`}>
-                {line.split("\t").map((r, idx) => (
-                  <td key={`${r}-${idx}`}>{r}</td>
-                ))}
-              </tr>
-            ))}
+            .map((line, idx) => {
+              const [dbxref, symbol, name] = line.split("\t");
+              return (
+                <tr key={`${line}-${idx}`}>
+                  <td>
+                    <a href={`https://zfin.org/${dbxref.replace("ZFIN:", "")}`}>
+                      {symbol}
+                    </a>
+                  </td>
+                  <td>{name}</td>
+                </tr>
+              );
+            })}
         </tbody>
       </table>
     </div>

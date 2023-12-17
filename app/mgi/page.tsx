@@ -20,10 +20,16 @@ export default function TAIR() {
             .split("\n")
             .filter((f) => !f.startsWith("#"))
             .map((line, idx) => {
-              const [symbol, name] = line.split("\t");
+              const [dbxref, symbol, name] = line.split("\t");
               return (
                 <tr key={`${line}-${idx}`}>
-                  <td>{symbol}</td>
+                  <td>
+                    <a
+                      href={`https://www.informatics.jax.org/marker/key/${dbxref}`}
+                    >
+                      {symbol}
+                    </a>
+                  </td>
                   <td>{name}</td>
                 </tr>
               );

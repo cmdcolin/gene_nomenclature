@@ -4,14 +4,14 @@ import "./styles.css";
 export default function TAIR() {
   return (
     <div>
-      <h1>Yeast - gene names extracted from AllianceMine</h1>
-      <p>Downloaded Dec 17, 2023</p>
+      <h1>Yeast genes</h1>
+      <p>Downloaded Dec 16, 2023 from YeastMine</p>
 
       <table>
         <thead>
           <tr>
-            <th>Short name</th>
-            <th>Full name</th>
+            <th>Gene symbol</th>
+            <th>Gene name</th>
           </tr>
         </thead>
         <tbody>
@@ -19,13 +19,15 @@ export default function TAIR() {
             .readFileSync("./yeast_genes.csv", "utf8")
             .split("\n")
             .filter((f) => !f.startsWith("#"))
-            .map((line, idx) => (
-              <tr key={`${line}-${idx}`}>
-                {line.split("\t").map((r, idx) => (
-                  <td key={`${r}-${idx}`}>{r}</td>
-                ))}
-              </tr>
-            ))}
+            .map((line, idx) => {
+              const [dbxref, symbol, name] = line.split("\t");
+              return (
+                <tr key={`${line}-${idx}`}>
+                  <td><a href={`https://www.yeastgenome.org/locus/${dbxref}`}>{symbol}</a></td>
+                  <td>{name}</td>
+                </tr>
+              );
+            })}
         </tbody>
       </table>
     </div>
