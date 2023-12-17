@@ -26,6 +26,9 @@ export default async function Page() {
         <li>
           <Link href="mgi">M. musculus genes (MouseMine/MGI)</Link>
         </li>
+        <li>
+          <Link href="zfin">D. rerio (ZFIN)</Link>
+        </li>
       </ul>
       <a href="https://github.com/cmdcolin/genes">Github</a>
     </div>
