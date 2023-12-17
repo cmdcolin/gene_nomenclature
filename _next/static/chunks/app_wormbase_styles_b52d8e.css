@@ -1,0 +1,10 @@
+/* [project]/app/wormbase/styles.css [app-client] (css) */
+table, 
+td, 
+th {
+  border: 1px solid;
+}
+table {
+  border-collapse: collapse;
+}
+/*# sourceMappingURL=app_wormbase_styles_b52d8e.css.map*/
