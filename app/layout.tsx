@@ -1,6 +1,8 @@
+import Link from "next/link";
+
 export const metadata = {
-  title: "My blog",
-  description: "Full of cool stuff",
+  title: "Gene nomenclature",
+  description: "For various organisms",
 };
 
 export default function RootLayout({
@@ -10,7 +12,10 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <body>
+        <Link href="/">Home</Link>
+        {children}
+      </body>
     </html>
   );
 }

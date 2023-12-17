@@ -1,4 +1,5 @@
-## Next.js 'app' directory static site blog
+## weird genes
 
-See https://cmdcolin.github.io/posts/2023-04-08-nextjs-appdir-blog on how to
-make
+continued from https://github.com/cmdcolin/oddgenes
+
+bulk downloaded lots of genes

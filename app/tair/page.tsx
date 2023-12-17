@@ -10,10 +10,13 @@ export default function TAIR() {
         <li>
           <a href="https://www.arabidopsis.org/portals/nomenclature/guidelines.jsp">
             Guidelines for TAIR gene nomenclature
-          </a>
+          </a>{" "}
+          notably, genes are named for &quot;Gene Product&quot; or &quot;Mutant
+          Phenotype&quot;
         </li>
 
         <li>
+          This list downloaded from{" "}
           <a href="https://www.arabidopsis.org/servlets/processor?type=genesymbol&update_action=view_symbol&symbol_type=all&startwith=all">
             All symbols
           </a>
@@ -24,6 +27,7 @@ export default function TAIR() {
           <tr>
             <th>Symbol</th>
             <th>Full name</th>
+            <th>Gene Product (G) or Mutant Phenotype (P)</th>
           </tr>
         </thead>
         <tbody>
@@ -32,7 +36,7 @@ export default function TAIR() {
             .split("\n")
             .map((line, idx) => (
               <tr key={`${line}-${idx}`}>
-                {line.split(",").map((r, idx) => (
+                {line.split("\t").map((r, idx) => (
                   <td key={`${r}-${idx}`}>{r}</td>
                 ))}
               </tr>

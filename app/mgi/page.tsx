@@ -4,19 +4,19 @@ import "./styles.css";
 export default function TAIR() {
   return (
     <div>
-      <h1>WormBase - gene classes from WormBase</h1>
-      <p>Downloaded Dec 16, 2023 from WormMine</p>
+      <h1>Mouse genes</h1>
+      <p>Downloaded Dec 16, 2023 from MouseMine</p>
 
       <table>
         <thead>
           <tr>
-            <th>Gene class</th>
-            <th>Description</th>
+            <th>Gene symbol</th>
+            <th>Gene description</th>
           </tr>
         </thead>
         <tbody>
           {fs
-            .readFileSync("./wormbase_genes.csv", "utf8")
+            .readFileSync("./mouse_genes.csv", "utf8")
             .split("\n")
             .filter((f) => !f.startsWith("#"))
             .map((line, idx) => (
