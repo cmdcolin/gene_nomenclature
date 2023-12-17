@@ -18,7 +18,10 @@ export default async function Page() {
           <Link href="tair">A. thaliana genes (TAIR)</Link>
         </li>
         <li>
-          <Link href="flybase">D. melanogaster genes (FlyBase)</Link>
+          <Link href="flybase">
+            D. melanogaster genes (FlyBase) [probably has the most
+            &quot;weird&quot; gene names]
+          </Link>
         </li>
         <li>
           <Link href="wormbase">C. elegans genes (WormBase)</Link>

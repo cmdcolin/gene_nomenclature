@@ -5,7 +5,7 @@ export default function TAIR() {
   return (
     <div>
       <h1>Mouse genes</h1>
-      <p>Downloaded Dec 16, 2023 from MouseMine</p>
+      <p>Downloaded Dec 16, 2023 from AllianceMine</p>
 
       <table>
         <thead>
@@ -25,7 +25,7 @@ export default function TAIR() {
                 <tr key={`${line}-${idx}`}>
                   <td>
                     <a
-                      href={`https://www.informatics.jax.org/marker/key/${dbxref}`}
+                      href={`https://www.informatics.jax.org/marker/${dbxref}`}
                     >
                       {symbol}
                     </a>

@@ -5,7 +5,7 @@ export default function TAIR() {
   return (
     <div>
       <h1>Yeast genes</h1>
-      <p>Downloaded Dec 16, 2023 from YeastMine</p>
+      <p>Downloaded Dec 16, 2023 from AllianceMine</p>
 
       <table>
         <thead>
@@ -23,7 +23,11 @@ export default function TAIR() {
               const [dbxref, symbol, name] = line.split("\t");
               return (
                 <tr key={`${line}-${idx}`}>
-                  <td><a href={`https://www.yeastgenome.org/locus/${dbxref}`}>{symbol}</a></td>
+                  <td>
+                    <a href={`https://www.yeastgenome.org/locus/${dbxref}`}>
+                      {symbol}
+                    </a>
+                  </td>
                   <td>{name}</td>
                 </tr>
               );

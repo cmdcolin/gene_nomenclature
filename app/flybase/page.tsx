@@ -4,16 +4,8 @@ import "./styles.css";
 export default function TAIR() {
   return (
     <div>
-      <h1>
-        FlyBase - gene names symbols extracted from dmel GFF, filtered out
-        various sort of uninteresting symbols
-      </h1>
-      <p>
-        Downloaded Dec 16, 2023 from{" "}
-        <a href="http://ftp.flybase.net/releases/current/dmel_r6.55/gff/">
-          http://ftp.flybase.net/releases/current/dmel_r6.55/gff/
-        </a>
-      </p>
+      <h1>FlyBase</h1>
+      <p>Downloaded Dec 16, 2023 from AllianceMine</p>
 
       <table>
         <thead>
@@ -27,13 +19,24 @@ export default function TAIR() {
             .readFileSync("./flybase_genes.csv", "utf8")
             .split("\n")
             .filter((f) => !f.startsWith("#"))
-            .map((line, idx) => (
-              <tr key={`${line}-${idx}`}>
-                {line.split("\t").map((r, idx) => (
-                  <td key={`${r}-${idx}`}>{r}</td>
-                ))}
-              </tr>
-            ))}
+            .map((line, idx) => {
+              const [dbxref, symbol, name] = line.split("\t");
+              return (
+                <tr key={`${line}-${idx}`}>
+                  <td>
+                    <a
+                      href={`http://flybase.org/reports/${dbxref.replace(
+                        "FB:",
+                        "",
+                      )}`}
+                    >
+                      {symbol}
+                    </a>
+                  </td>
+                  <td>{name}</td>
+                </tr>
+              );
+            })}
         </tbody>
       </table>
     </div>
