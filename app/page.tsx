@@ -10,8 +10,8 @@ export default async function Page() {
       <p>
         In order to create these pages, I downloaded gene lists using different
         methods from model organism databases and then filtered out sort of
-        uninteresting terms to try to enrich for &quot;human created&quot; or
-        interesting gene symbol names.
+        uninteresting terms, removed duplicates, etc to try to mostly filter out
+        the uniquely interesting gene symbols and names.
       </p>
       <ul>
         <li>
@@ -27,7 +27,10 @@ export default async function Page() {
           <Link href="mgi">M. musculus genes (MouseMine/MGI)</Link>
         </li>
         <li>
-          <Link href="zfin">D. rerio (ZFIN)</Link>
+          <Link href="zfin">D. rerio (ZFIN/AllianceMine)</Link>
+        </li>
+        <li>
+          <Link href="yeast">S. cerevisiae (Yeast/AllianceMine)</Link>
         </li>
       </ul>
       <a href="https://github.com/cmdcolin/genes">Github</a>
