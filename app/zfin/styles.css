@@ -5,5 +5,12 @@ th {
 }
 
 table {
+  table-layout: fixed;
+}
+.subject {
+  width: 70%;
+}
+
+table {
   border-collapse: collapse;
 }

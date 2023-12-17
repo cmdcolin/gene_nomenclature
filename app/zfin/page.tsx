@@ -10,7 +10,7 @@ export default function TAIR() {
       <table>
         <thead>
           <tr>
-            <th>Short name</th>
+            <th className="subject">Short name (aliases)</th>
             <th>Full name</th>
           </tr>
         </thead>
@@ -20,13 +20,14 @@ export default function TAIR() {
             .split("\n")
             .filter((f) => !f.startsWith("#"))
             .map((line, idx) => {
-              const [dbxref, symbol, name] = line.split("\t");
+              const [dbxref, symbol, name, aliases] = line.split("\t");
               return (
                 <tr key={`${line}-${idx}`}>
                   <td>
                     <a href={`https://zfin.org/${dbxref.replace("ZFIN:", "")}`}>
                       {symbol}
                     </a>
+                    {aliases?.length ? ` (${aliases})` : ""}
                   </td>
                   <td>{name}</td>
                 </tr>
