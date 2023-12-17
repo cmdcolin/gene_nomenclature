@@ -12,6 +12,9 @@ export default async function Page() {
         <li>
           <Link href="flybase">FlyBase genes</Link>
         </li>
+        <li>
+          <Link href="wormbase">WormBase genes</Link>
+        </li>
       </ul>
     </div>
   );
