@@ -11,7 +11,7 @@ export default async function Page() {
         In order to create these pages, I downloaded gene lists using different
         methods from model organism databases and then filtered out sort of
         uninteresting terms to try to enrich for &quot;human created&quot; or
-        interesting gene symbol names. Note: there is a sort
+        interesting gene symbol names.
       </p>
       <ul>
         <li>
