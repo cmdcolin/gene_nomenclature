@@ -83,13 +83,13 @@ FB:FBgn0015580	4.1	4.1
 FB:FBgn0069066	4B7-11	4B7-11
 FB:FBgn0052016	4E-T	eIF4E-Transporter
 FB:FBgn0027538	?4GalNAcTA	beta1,4-N-acetylgalactosaminyltransferase A
-FB:FBgn0039258	?4GalT7	beta-4-galactosyltransferase
-FB:FBgn0031491	?4GT1	alpha1,4-galactosyltransferase
+FB:FBgn0039258	?4GalT7	beta-4-galactosyltransferase 7
+FB:FBgn0031491	?4GT1	alpha1,4-galactosyltransferase 1
 FB:FBgn0044336	5-68	5-68
 FB:FBgn0061471	5.8SrRNA	5.8SrRNA
 FB:FBgn0250731	5.8SrRNA:CR40454	5.8SrRNA:CR40454
 FB:FBgn0267499	5.8SrRNA:CR45839	5.8S ribosomal RNA:CR45839
-FB:FBgn0004168	5-HT1A	5-hydroxytryptamine (serotonin) receptor
+FB:FBgn0004168	5-HT1A	5-hydroxytryptamine (serotonin) receptor 1A
 FB:FBgn0000002	5SrRNA	5S ribosomal RNA
 FB:FBgn0053353	5SrRNA:CR33353	5SrRNA:CR33353
 FB:FBgn0053354	5SrRNA:CR33354	5SrRNA:CR33354
@@ -212,7 +212,7 @@ FB:FBgn0044331	936	936
 FB:FBgn0008641	94Che	94Che
 FB:FBgn0070035	966	966
 FB:FBgn0000008	a	arc
-FB:FBgn0011293	a10	antennal protein
+FB:FBgn0011293	a10	antennal protein 10
 FB:FBgn0025723	A122	A122
 FB:FBgn0067327	A23	A23
 FB:FBgn0020515	A3	A3
@@ -224,7 +224,7 @@ FB:FBgn0023130	a6	a6
 FB:FBgn0000010	aa	anarista
 FB:FBgn0082611	aact	anti-activin
 FB:FBgn0013379	aagp	armadillo-associated glycoprotein
-FB:FBgn0031791	AANATL2	Arylalkylamine N-acetyltransferase-like
+FB:FBgn0031791	AANATL2	Arylalkylamine N-acetyltransferase-like 2
 FB:FBgn0027780	Aasdh	Aminoadipate-semialdehyde dehydrogenase
 FB:FBgn0023129	aay	astray
 FB:FBgn0264442	ab	abrupt
@@ -241,10 +241,10 @@ FB:FBgn0000019	abr	abero
 FB:FBgn0015331	abs	abstrakt
 FB:FBgn0067854	abz	abruzzi
 FB:FBgn0000022	ac	achaete
-FB:FBgn0004852	Ac76E	Adenylyl cyclase
+FB:FBgn0004852	Ac76E	Adenylyl cyclase 76E
 FB:FBgn0011273	Acam	Androcam
-FB:FBgn0029969	Acat1	Acetyl-CoA acetyltransferase
-FB:FBgn0010387	Acbp2	Acyl-CoA binding protein
+FB:FBgn0029969	Acat1	Acetyl-CoA acetyltransferase 1
+FB:FBgn0010387	Acbp2	Acyl-CoA binding protein 2
 FB:FBgn0000023	acclinal-wing	acclinal wing
 FB:FBgn0012034	AcCoAS	Acetyl Coenzyme A synthase
 FB:FBgn0024256	acd(2)5N30	auditory courtship defective 5N30
@@ -260,26 +260,26 @@ FB:FBgn0013385	acj9	abnormal-chemosensory-jump-9
 FB:FBgn0028484	Ack	Activated Cdc42 kinase
 FB:FBgn0263198	Acn	Acinus
 FB:FBgn0024502	Aco	Accordion
-FB:FBgn0027572	ACOX1	acyl-CoA oxidase
+FB:FBgn0027572	ACOX1	acyl-CoA oxidase 1
 FB:FBgn0034628	Acox57D-p	acyl-Coenzyme A oxidase at 57D proximal
 FB:FBgn0000029	AcpB	Accessory gland protein B
-FB:FBgn0000032	Acph-1	Acid phosphatase
+FB:FBgn0000032	Acph-1	Acid phosphatase 1
 FB:FBgn0000041	act	actidione-sensitive
 FB:FBgn0024913	Act?	Activin-beta
-FB:FBgn0000042	Act5C	Actin
+FB:FBgn0000042	Act5C	Actin 5C
 FB:FBgn0025115	Acyp	Acylphosphatase
 FB:FBgn0000048	ad	arcoid
-FB:FBgn0030891	Ada3	transcriptional Adaptor
+FB:FBgn0030891	Ada3	transcriptional Adaptor 3
 FB:FBgn0029791	AdamTS-B	ADAM metallopeptidase with thrombospondin type 1 motif B
 FB:FBgn0026086	Adar	Adenosine deaminase acting on RNA
-FB:FBgn0035039	Adck1	aarF domain containing kinase
-FB:FBgn0026573	ADD1	ADD domain-containing protein
-FB:FBgn0000051	ade1	adenosine
+FB:FBgn0035039	Adck1	aarF domain containing kinase 1
+FB:FBgn0026573	ADD1	ADD domain-containing protein 1
+FB:FBgn0000051	ade1	adenosine 1
 FB:FBgn0041172	ade4	ade4
-FB:FBgn0284249	Adf1	Adh transcription factor
+FB:FBgn0284249	Adf1	Adh transcription factor 1
 FB:FBgn0000055	Adh	Alcohol dehydrogenase
 FB:FBgn0000056	Adhr	Adh-related
-FB:FBgn0052068	Adi1	Acireductone dioxygenase
+FB:FBgn0052068	Adi1	Acireductone dioxygenase 1
 FB:FBgn0038984	AdipoR	Adiponectin receptor
 FB:FBgn0004969	ado	adolescent
 FB:FBgn0000057	adp	adipose
@@ -287,17 +287,17 @@ FB:FBgn0004719	ads	all discs small
 FB:FBgn0027493	Adss	Adenylosuccinate synthetase
 FB:FBgn0004614	Adv	Additional veins
 FB:FBgn0005578	Ae	Aechna
-FB:FBgn0036043	Ae2	Anion exchanger
-FB:FBgn0005694	Aef1	Adult enhancer factor
+FB:FBgn0036043	Ae2	Anion exchanger 2
+FB:FBgn0005694	Aef1	Adult enhancer factor 1
 FB:FBgn0066314	Aexon.s	Aexon.s
-FB:FBgn0036702	Afg3l2	AFG3 like matrix AAA peptidase subunit
+FB:FBgn0036702	Afg3l2	AFG3 like matrix AAA peptidase subunit 2
 FB:FBgn0019909	afl	autosomal female lethal
 FB:FBgn0026309	aft	adrift
 FB:FBgn0038223	Afti	Aftiphilin
 FB:FBgn0000059	ag	agametic
 FB:FBgn0015010	Ag5r	Antigen 5-related
 FB:FBgn0086718	aga	angina
-FB:FBgn0260998	AGAR-11	Autosomal general anesthetic resistant
+FB:FBgn0260998	AGAR-11	Autosomal general anesthetic resistant 11
 FB:FBgn0053138	AGBE	1,4-Alpha-Glucan Branching Enzyme
 FB:FBgn0026308	agee	antenno-glial expressed
 FB:FBgn0069300	agho	aghino
@@ -306,8 +306,8 @@ FB:FBgn0004943	agl	angle winglike
 FB:FBgn0029813	AgmNAT	Agmatine N-acetyltransferase
 FB:FBgn0041171	ago	archipelago
 FB:FBgn0262739	AGO1	Argonaute-1
-FB:FBgn0087035	AGO2	Argonaute
-FB:FBgn0026718	Agpat2	1-Acylglycerol-3-phosphate O-acyltransferase
+FB:FBgn0087035	AGO2	Argonaute 2
+FB:FBgn0026718	Agpat2	1-Acylglycerol-3-phosphate O-acyltransferase 2
 FB:FBgn0033983	Agps	Alkylglycerone phosphate synthase
 FB:FBgn0004944	agq	atrophie gonadique
 FB:FBgn0024912	agt	O-6-alkylguanine-DNA alkyltransferase
@@ -316,12 +316,12 @@ FB:FBgn0014031	Agxt	Alanine-glyoxylate aminotransferase
 FB:FBgn0084556	aha	angsthase
 FB:FBgn0014455	Ahcy	Adenosylhomocysteinase
 FB:FBgn0024254	aim	aimless
-FB:FBgn0033351	AIMP1	aaRS-interacting multifunctional protein
+FB:FBgn0033351	AIMP1	aaRS-interacting multifunctional protein 1
 FB:FBgn0019908	air	aircraft
 FB:FBgn0036754	ais	aramis
-FB:FBgn0022709	Ak1	Adenylate kinase
+FB:FBgn0022709	Ak1	Adenylate kinase 1
 FB:FBgn0015847	akaal	akaal
-FB:FBgn0027932	Akap200	A kinase anchor protein
+FB:FBgn0027932	Akap200	A kinase anchor protein 200
 FB:FBgn0004552	Akh	Adipokinetic hormone
 FB:FBgn0082598	akirin	akirin
 FB:FBgn0010379	Akt	Akt kinase
@@ -332,8 +332,8 @@ FB:FBgn0027094	AlaRS	Alanyl-tRNA synthetase
 FB:FBgn0020764	Alas	Aminolevulinate synthase
 FB:FBgn0000062	alb	alberich
 FB:FBgn0260972	alc	alicorn
-FB:FBgn0000064	Ald1	Aldolase
-FB:FBgn0000065	Aldox89A	Aldehyde oxidase at
+FB:FBgn0000064	Ald1	Aldolase 1
+FB:FBgn0000065	Aldox89A	Aldehyde oxidase at 89A
 FB:FBgn0000067	ale	almond eye
 FB:FBgn0020609	alf	aloof
 FB:FBgn0038552	Alg1	ALG1, chitobiosyldiphosphodolichol beta-mannosyltransferase
@@ -354,21 +354,21 @@ FB:FBgn0086346	ALiX	ALG-2 interacting protein X
 FB:FBgn0040505	Alk	Anaplastic lymphoma kinase
 FB:FBgn0033558	alka	alkaliphile
 FB:FBgn0065035	AlkB	AlkB
-FB:FBgn0025387	Alms1b	Alstrom syndrome
+FB:FBgn0025387	Alms1b	Alstrom syndrome 1b
 FB:FBgn0035179	aln	allnighter
 FB:FBgn0000068	alo	alopecia
-FB:FBgn0016123	Alp4	Alkaline phosphatase
+FB:FBgn0016123	Alp4	Alkaline phosphatase 4
 FB:FBgn0086361	alph	alphabet
 FB:FBgn0031068	Alr	Augmenter of liver regeneration
 FB:FBgn0039332	alrm	astrocytic leucine-rich repeat molecule
 FB:FBgn0020881	als	alae sublatae
-FB:FBgn0037116	Als2	Amyotrophic lateral sclerosis
+FB:FBgn0037116	Als2	Amyotrophic lateral sclerosis 2
 FB:FBgn0038535	alt	aluminum tubes
 FB:FBgn0004935	Altered-abdomen	Altered abdomen
 FB:FBgn0000070	Alu	Alula
 FB:FBgn0004372	aly	always early
 FB:FBgn0000071	Ama	Amalgam
-FB:FBgn0000072	Ama-1	alpha Amanitin-resistant
+FB:FBgn0000072	Ama-1	alpha Amanitin-resistant 1
 FB:FBgn0032881	Amacr	Alpha-methylacyl-CoA racemase
 FB:FBgn0041773	amanda	amanda
 FB:FBgn0000074	amb	amber
@@ -394,7 +394,7 @@ FB:FBgn0000078	Amy-d	Amylase distal
 FB:FBgn0066057	amz	amazon
 FB:FBgn0000080	an	ancon
 FB:FBgn0011746	ana	anachronism
-FB:FBgn0027513	ana2	anastral spindle
+FB:FBgn0027513	ana2	anastral spindle 2
 FB:FBgn0012037	Ance	Angiotensin converting enzyme
 FB:FBgn0032535	Ance-2	Ance-2
 FB:FBgn0032536	Ance-3	Ance-3
@@ -951,32 +951,32 @@ FB:FBgn0000096	ants	antennas
 FB:FBgn0000083	AnxB9	Annexin B9
 FB:FBgn0000097	aop	anterior open
 FB:FBgn0004569	aos	argos
-FB:FBgn0029512	Aos1	Activator of SUMO
+FB:FBgn0029512	Aos1	Activator of SUMO 1
 FB:FBgn0267978	ap	apterous
 FB:FBgn0010380	AP-1-2?	Adaptor Protein complex 1/2, beta subunit
 FB:FBgn0004976	Apart	Apart
 FB:FBgn0000101	apb	apterblister
 FB:FBgn0015589	Apc	APC-like
-FB:FBgn0026598	Apc2	Adenomatous polyposis coli
-FB:FBgn0029879	APC7	Anaphase Promoting Complex subunit
+FB:FBgn0026598	Apc2	Adenomatous polyposis coli 2
+FB:FBgn0029879	APC7	Anaphase Promoting Complex subunit 7
 FB:FBgn0026150	ApepP	Aminopeptidase P
 FB:FBgn0019638	ApII	Apurinic/apyrimidinic endonuclease II
 FB:FBgn0261854	aPKC	atypical protein kinase C
 FB:FBgn0042178	Apl	Apollo
-FB:FBgn0040281	Aplip1	APPL-interacting protein
+FB:FBgn0040281	Aplip1	APPL-interacting protein 1
 FB:FBgn0038132	apn	apnoia
 FB:FBgn0004472	apo	altered pattern orientation
 FB:FBgn0087002	apolpp	apolipophorin
 FB:FBgn0032136	Apoltp	Apolipoprotein lipid transfer particle
 FB:FBgn0260941	app	approximated
 FB:FBgn0264628	appaloosa	appaloosa
-FB:FBgn0261112	APP-BP1	beta-Amyloid precursor protein binding protein
+FB:FBgn0261112	APP-BP1	beta-Amyloid precursor protein binding protein 1
 FB:FBgn0000108	Appl	beta amyloid protein precursor-like
 FB:FBgn0066315	APP.s	APP.s
 FB:FBgn0000109	Aprt	Adenine phosphoribosyltransferase
 FB:FBgn0036111	Aps	Aps pyrophosphatase
 FB:FBgn0015903	apt	apontic
-FB:FBgn0042138	Apt1	Acyl-protein thioesterase
+FB:FBgn0042138	Apt1	Acyl-protein thioesterase 1
 FB:FBgn0000110	apx	apexless
 FB:FBgn0033807	AQP	aquaporin
 FB:FBgn0039598	aqrs	aquarius
@@ -986,30 +986,30 @@ FB:FBgn0015904	ara	araucan
 FB:FBgn0028646	aralar1	aralar1
 FB:FBgn0066375	arap	arap
 FB:FBgn0064193	arbl	arborless
-FB:FBgn0033926	Arc1	Activity-regulated cytoskeleton associated protein
-FB:FBgn0038742	Arc42	Activator-recruited cofactor subunit
+FB:FBgn0033926	Arc1	Activity-regulated cytoskeleton associated protein 1
+FB:FBgn0038742	Arc42	Activator-recruited cofactor subunit 42
 FB:FBgn0000113	arch	arch
 FB:FBgn0289108	Archease	Archease
-FB:FBgn0020655	ArfGAP1	ADP-ribosylation factor GTPase activating protein
+FB:FBgn0020655	ArfGAP1	ADP-ribosylation factor GTPase activating protein 1
 FB:FBgn0037884	Arfip	Arfaptin
 FB:FBgn0023535	arg	arginase
-FB:FBgn0000116	Argk1	Arginine kinase
+FB:FBgn0000116	Argk1	Arginine kinase 1
 FB:FBgn0027093	ArgRS	Arginyl-tRNA synthetase
-FB:FBgn0017418	ari-1	ariadne
+FB:FBgn0017418	ari-1	ariadne 1
 FB:FBgn0066374	arl	arleekin
-FB:FBgn0000115	Arl1	ADP ribosylation factor-like
+FB:FBgn0000115	Arl1	ADP ribosylation factor-like 1
 FB:FBgn0000117	arm	armadillo
 FB:FBgn0041164	armi	armitage
-FB:FBgn0001961	Arpc1	Actin-related protein 2/3 complex, subunit
+FB:FBgn0001961	Arpc1	Actin-related protein 2/3 complex, subunit 1
 FB:FBgn0000119	arr	arrow
-FB:FBgn0000120	Arr1	Arrestin
+FB:FBgn0000120	Arr1	Arrestin 1
 FB:FBgn0000122	Ars	Arylsulfatase
-FB:FBgn0033062	Ars2	Arsenic resistance protein
+FB:FBgn0033062	Ars2	Arsenic resistance protein 2
 FB:FBgn0004475	art	aristatarsia
 FB:FBgn0000135	arth	arthritic
 FB:FBgn0042177	Arts	Artemis
 FB:FBgn0029095	aru	arouser
-FB:FBgn0052442	Arv1	ACAT-related protein required for viability
+FB:FBgn0052442	Arv1	ACAT-related protein required for viability 1
 FB:FBgn0036826	arx	asterix
 FB:FBgn0058064	ARY	Aldo-keto reductase on Y
 FB:FBgn0000136	as	ascute
@@ -1018,9 +1018,9 @@ FB:FBgn0039908	Asator	Asator
 FB:FBgn0035407	Asciz	ASCIZ zinc finger protein
 FB:FBgn0000141	ascutex	ascutex
 FB:FBgn0000137	ase	asense
-FB:FBgn0029094	asf1	anti-silencing factor
-FB:FBgn0000139	ash2	absent, small, or homeotic discs
-FB:FBgn0014006	Ask1	Apoptotic signal-regulating kinase
+FB:FBgn0029094	asf1	anti-silencing factor 1
+FB:FBgn0000139	ash2	absent, small, or homeotic discs 2
+FB:FBgn0014006	Ask1	Apoptotic signal-regulating kinase 1
 FB:FBgn0261004	asl	asterless
 FB:FBgn0034177	AsnRS-m	Asparaginyl-tRNA synthetase, mitochondrial
 FB:FBgn0270926	AsnS	Asparagine synthetase
@@ -1031,7 +1031,7 @@ FB:FBgn0031089	aspr	asperous
 FB:FBgn0002069	AspRS	Aspartyl-tRNA synthetase
 FB:FBgn0034793	asrij	asrij
 FB:FBgn0263619	asRNA:ASTR	Antisense transcript of Rga
-FB:FBgn0004911	asRNA:Eig63F-2	antisense RNA:Ecdysone-induced gene 63F
+FB:FBgn0004911	asRNA:Eig63F-2	antisense RNA:Ecdysone-induced gene 63F 2
 FB:FBgn0026565	Ass	Argininosuccinate synthase
 FB:FBgn0015905	ast	asteroid
 FB:FBgn0015591	AstA	Allatostatin A
@@ -1041,15 +1041,15 @@ FB:FBgn0000143	at	arctus oculus
 FB:FBgn0026610	AT21	AT21
 FB:FBgn0028549	AT76-2A	AT76-2A
 FB:FBgn0004977	Ata	Arista
-FB:FBgn0031876	Atac1	Ada2a-containing complex component
+FB:FBgn0031876	Atac1	Ada2a-containing complex component 1
 FB:FBgn0265516	Atal	Atal
 FB:FBgn0035989	Atat	alpha-tubulin acetylase
 FB:FBgn0039946	ATbp	(A+T)-stretch binding protein
-FB:FBgn0025720	Ate1	Arginyltransferase
+FB:FBgn0025720	Ate1	Arginyltransferase 1
 FB:FBgn0020762	Atet	ABC transporter expressed in trachea
-FB:FBgn0028550	Atf3	Activating transcription factor
+FB:FBgn0028550	Atf3	Activating transcription factor 3
 FB:FBgn0033010	Atf6	Atf6
-FB:FBgn0029943	Atg5	Autophagy-related
+FB:FBgn0029943	Atg5	Autophagy-related 5
 FB:FBgn0032194	ath	athos
 FB:FBgn0032422	atilla	atilla
 FB:FBgn0036995	atk	artichoke
@@ -1061,7 +1061,7 @@ FB:FBgn0010433	ato	atonal
 FB:FBgn0033638	atos	atossa
 FB:FBgn0052446	Atox1	Antioxidant 1 copper chaperone
 FB:FBgn0002921	Atp?	Na pump alpha subunit
-FB:FBgn0037671	ATP6AP2	ATPase H+ transporting accessory protein
+FB:FBgn0037671	ATP6AP2	ATPase H+ transporting accessory protein 2
 FB:FBgn0030343	ATP7	ATP7
 FB:FBgn0010217	ATPsyn?	ATP synthase, beta subunit
 FB:FBgn0012042	AttA	Attacin-A
@@ -1072,7 +1072,7 @@ FB:FBgn0000144	Attenuated	Attenuated
 FB:FBgn0067782	att-ORFB	alternative testis transcripts open reading frame B
 FB:FBgn0019637	Atu	Another transcription unit
 FB:FBgn0015906	atx	abortex
-FB:FBgn0029907	Atx-1	Ataxin
+FB:FBgn0029907	Atx-1	Ataxin 1
 FB:FBgn0041188	Atx2	Ataxin-2
 FB:FBgn0028959	Au	Auricular
 FB:FBgn0000146	aub	aubergine
@@ -1087,11 +1087,11 @@ FB:FBgn0066373	avg	avgust
 FB:FBgn0000148	aw	awry
 FB:FBgn0013751	Awh	Arrowhead
 FB:FBgn0000151	awu	augenwulst
-FB:FBgn0014126	ax	axed on
+FB:FBgn0014126	ax	axed on 2
 FB:FBgn0035708	axed	axundead
 FB:FBgn0026597	Axn	Axin
 FB:FBgn0262870	axo	axotactin
-FB:FBgn0261647	Axud1	AXIN1 up-regulated
+FB:FBgn0261647	Axud1	AXIN1 up-regulated 1
 FB:FBgn0041163	aya	aya
 FB:FBgn0025185	az2	az2
 FB:FBgn0033238	azot	ahuizotl
@@ -1102,7 +1102,7 @@ FB:FBgn0024897	b6	b6
 FB:FBgn0067324	B71	B71
 FB:FBgn0038342	B9d1	B9d1
 FB:FBgn0261683	B9d2	B9d2
-FB:FBgn0004870	bab1	bric a brac
+FB:FBgn0004870	bab1	bric a brac 1
 FB:FBgn0011300	babo	baboon
 FB:FBgn0034724	babos	babos
 FB:FBgn0017416	bac	backwards
@@ -1138,8 +1138,8 @@ FB:FBgn0000164	bb	bobbed
 FB:FBgn0020557	bb-?	bb-Psi
 FB:FBgn0033844	bbc	bb in a boxcar
 FB:FBgn0034512	Bbd	Bombardier
-FB:FBgn0260237	BBIP1	BBSome interacting protein
-FB:FBgn0031255	BBS8	Bardet-Biedl syndrome
+FB:FBgn0260237	BBIP1	BBSome interacting protein 1
+FB:FBgn0031255	BBS8	Bardet-Biedl syndrome 8
 FB:FBgn0024251	bbx	bobby sox
 FB:FBgn0041578	BC1	BC1
 FB:FBgn0040239	bc10	bc10
@@ -1156,7 +1156,7 @@ FB:FBgn0084555	bda	belinda
 FB:FBgn0038857	Bdbt	Bride of doubletime
 FB:FBgn0034049	bdg	bedraggled
 FB:FBgn0028482	bdl	borderless
-FB:FBgn0032512	Bdp1	B double prime
+FB:FBgn0032512	Bdp1	B double prime 1
 FB:FBgn0038472	bdwf	bedwarfed
 FB:FBgn0052594	be	ben
 FB:FBgn0000243	Beadexoid	Beadexoid
@@ -1173,9 +1173,9 @@ FB:FBgn0025109	Bem46	Bem46
 FB:FBgn0000173	ben	bendless
 FB:FBgn0000174	ber	berrytail
 FB:FBgn0032897	bero	belly roll
-FB:FBgn0035696	Best2	Bestrophin
+FB:FBgn0035696	Best2	Bestrophin 2
 FB:FBgn0011212	bet	betel
-FB:FBgn0260857	Bet1	Blocked early in transport
+FB:FBgn0260857	Bet1	Blocked early in transport 1
 FB:FBgn0066306	Bexon.s	Bexon.s
 FB:FBgn0000175	bf	brief
 FB:FBgn0035196	Bfc	Booster for Crq
@@ -1250,8 +1250,8 @@ FB:FBgn0014133	bif	bifocal
 FB:FBgn0039509	bigmax	bigmax
 FB:FBgn0039282	Bili	Band4.1 inhibitor LRP interactor
 FB:FBgn0045759	bin	biniou
-FB:FBgn0024491	Bin1	Bicoid interacting protein
-FB:FBgn0263144	bin3	bicoid-interacting protein
+FB:FBgn0024491	Bin1	Bicoid interacting protein 1
+FB:FBgn0263144	bin3	bicoid-interacting protein 3
 FB:FBgn0004061	bip	bipolar oocyte
 FB:FBgn0026263	bip1	bip1
 FB:FBgn0024141	Bip-p150	Bcd interacting protein p150
@@ -1280,7 +1280,7 @@ FB:FBgn0021756	blis	blisterwing
 FB:FBgn0002906	Blm	Bloom syndrome helicase
 FB:FBgn0004570	blnd	bland
 FB:FBgn0000198	blo	bloated
-FB:FBgn0036105	Blos4	Biogenesis of lysosome-related organelles complex 1, subunit
+FB:FBgn0036105	Blos4	Biogenesis of lysosome-related organelles complex 1, subunit 4
 FB:FBgn0004133	blow	blown fuse
 FB:FBgn0028643	bls	bractless
 FB:FBgn0004062	blt	ballet
@@ -1306,20 +1306,20 @@ FB:FBgn0011203	boc	bocce
 FB:FBgn0004132	boca	boca
 FB:FBgn0037719	bocks	bocksbeutel
 FB:FBgn0000203	bod	bowed
-FB:FBgn0039560	BOD1	Biorientation Defective
-FB:FBgn0032354	Boh2	Buddy of Hmr
+FB:FBgn0039560	BOD1	Biorientation Defective 1
+FB:FBgn0032354	Boh2	Buddy of Hmr 2
 FB:FBgn0029730	boil	boilerman
 FB:FBgn0011206	bol	boule
 FB:FBgn0050362	boly	borrelly
 FB:FBgn0012043	Bom	Bombyxin
-FB:FBgn0025583	BomS2	Bomanin Short
+FB:FBgn0025583	BomS2	Bomanin Short 2
 FB:FBgn0023097	bon	bonus
 FB:FBgn0260942	bond	james bond
 FB:FBgn0026261	bonsai	bonsai
 FB:FBgn0033374	Boot	Bootlegger
 FB:FBgn0069247	bop	brontops
 FB:FBgn0287225	bor	belphegor
-FB:FBgn0030346	BORCS5	BLOC-1 related complex subunit
+FB:FBgn0030346	BORCS5	BLOC-1 related complex subunit 5
 FB:FBgn0000204	bord	bordered
 FB:FBgn0032105	borr	borealin-related
 FB:FBgn0000205	bos	bordosteril
@@ -1360,7 +1360,7 @@ FB:FBgn0013755	Bro	Brother
 FB:FBgn0000215	broadened	broadened
 FB:FBgn0259246	brp	bruchpilot
 FB:FBgn0263599	Brr2	Brr2 U5 snRNP complex subunit
-FB:FBgn0000114	bru1	bruno
+FB:FBgn0000114	bru1	bruno 1
 FB:FBgn0266717	Bruce	BIR repeat containing ubiquitin-conjugating enzyme
 FB:FBgn0261787	brun	brunelleschi
 FB:FBgn0036874	brv1	brivido-1
@@ -1374,11 +1374,11 @@ FB:FBgn0000225	Bsb	Blunt short bristle
 FB:FBgn0000226	bsc	bent scutellars
 FB:FBgn0027504	bsd	back seat driver
 FB:FBgn0261822	Bsg	Basigin
-FB:FBgn0004064	Bsg95C	Blastoderm-specific transcript
+FB:FBgn0004064	Bsg95C	Blastoderm-specific transcript 95C
 FB:FBgn0000529	bsh	brain-specific homeobox
 FB:FBgn0000229	bsk	basket
 FB:FBgn0067780	bsl	boussole
-FB:FBgn0030228	BTBD9	BTB (POZ) domain containing
+FB:FBgn0030228	BTBD9	BTB (POZ) domain containing 9
 FB:FBgn0263108	BtbVII	BTB-protein-VII
 FB:FBgn0000233	btd	buttonhead
 FB:FBgn0030501	BthD	BthD selenoprotein
@@ -1400,7 +1400,7 @@ FB:FBgn0086713	bubbles	bubbles
 FB:FBgn0263855	BubR1	Bub1-related kinase
 FB:FBgn0040491	Buffy	Buffy
 FB:FBgn0034050	bug	bunker gear
-FB:FBgn0032248	Bug22	Basal body up regulated gene
+FB:FBgn0032248	Bug22	Basal body up regulated gene 22
 FB:FBgn0000237	bul	bulge
 FB:FBgn0264633	bulgy	bulgy
 FB:FBgn0035703	Bulli	Bulli
@@ -1449,7 +1449,7 @@ FB:FBgn0001991	Ca-?1D	Ca[2+]-channel protein alpha[[1]] subunit D
 FB:FBgn0022704	Ca-3	Carbonic anhydrase-3
 FB:FBgn0000248	cab	cabbage
 FB:FBgn0261869	caboose	caboose
-FB:FBgn0025678	CaBP1	calcium-binding protein
+FB:FBgn0025678	CaBP1	calcium-binding protein 1
 FB:FBgn0004628	CabP23	Calcium-binding protein 23kD
 FB:FBgn0263111	cac	cacophony
 FB:FBgn0000250	cact	cactus
@@ -1462,7 +1462,7 @@ FB:FBgn0262018	CadN2	Cadherin-N2
 FB:FBgn0053653	Cadps	Calcium-dependent secretion activator
 FB:FBgn0017414	cag	cag
 FB:FBgn0000252	cal	coal
-FB:FBgn0020226	Calp14B	Calpain
+FB:FBgn0020226	Calp14B	Calpain 14B
 FB:FBgn0012051	CalpA	Calpain-A
 FB:FBgn0015612	Calpastatin	Calpastatin
 FB:FBgn0025866	CalpB	Calpain-B
@@ -1478,7 +1478,7 @@ FB:FBgn0034210	Camp	Cathelicidin-like antimicrobial protein
 FB:FBgn0011569	can	cannonball
 FB:FBgn0040233	cana	CENP-ana
 FB:FBgn0010014	CanB	Calcineurin B
-FB:FBgn0027568	Cand1	Cullin-associated and neddylation-dissociated
+FB:FBgn0027568	Cand1	Cullin-associated and neddylation-dissociated 1
 FB:FBgn0010013	Canp	Ca[2+]-activated neutral protease
 FB:FBgn0015918	cant	cat of nine tails
 FB:FBgn0033504	CAP	CAP
@@ -1507,25 +1507,25 @@ FB:FBgn0000262	cau	cauliflower
 FB:FBgn0015919	caup	caupolican
 FB:FBgn0026257	cav	caravaggio
 FB:FBgn0285954	caz	cabeza
-FB:FBgn0015616	Cazip1	Caz-interacting protein
+FB:FBgn0015616	Cazip1	Caz-interacting protein 1
 FB:FBgn0000263	cb	club
 FB:FBgn0033842	cbc	crowded by cid
 FB:FBgn0000267	cbf	clubfoot
-FB:FBgn0024819	Cbf-1	copia binding factor
+FB:FBgn0024819	Cbf-1	copia binding factor 1
 FB:FBgn0020224	Cbl	Cbl proto-oncogene
 FB:FBgn0026144	CBP	sarcoplasmic calcium-binding protein
-FB:FBgn0004580	Cbp53E	Calbindin
-FB:FBgn0022942	Cbp80	cap binding protein
-FB:FBgn0000254	Cbp82F	Calmodulin-binding protein
+FB:FBgn0004580	Cbp53E	Calbindin 53E
+FB:FBgn0022942	Cbp80	cap binding protein 80
+FB:FBgn0000254	Cbp82F	Calmodulin-binding protein 82F
 FB:FBgn0043364	cbt	cabut
 FB:FBgn0067317	Cby	Chibby
 FB:FBgn0039007	CCAP	Crustacean cardioactive peptide
 FB:FBgn0000270	ccd	central complex deranged
-FB:FBgn0031979	CCDC53	Coiled-coil domain containing
+FB:FBgn0031979	CCDC53	Coiled-coil domain containing 53
 FB:FBgn0038199	CCHa1	CCHamide-1
 FB:FBgn0033058	CCHa2-R	CCHamide-2 receptor
 FB:FBgn0030954	CCKLR-17D3	Cholecystokinin-like receptor at 17D3
-FB:FBgn0038331	Ccm3	Cerebral cavernous malformation
+FB:FBgn0038331	Ccm3	Cerebral cavernous malformation 3
 FB:FBgn0052183	Ccn	Ccn
 FB:FBgn0004783	Ccp84Aa	Ccp84Aa
 FB:FBgn0004782	Ccp84Ab	Ccp84Ab
@@ -1535,22 +1535,22 @@ FB:FBgn0004779	Ccp84Ae	Ccp84Ae
 FB:FBgn0004778	Ccp84Af	Ccp84Af
 FB:FBgn0004777	Ccp84Ag	Ccp84Ag
 FB:FBgn0010531	Ccs	Copper chaperone for superoxide dismutase
-FB:FBgn0003676	CCT1	Chaperonin containing TCP1 subunit
+FB:FBgn0003676	CCT1	Chaperonin containing TCP1 subunit 1
 FB:FBgn0031367	c-cup	calcutta cup
 FB:FBgn0000271	ccw	concave wing
 FB:FBgn0267592	CCY	Coiled-Coils Y
-FB:FBgn0035470	Ccz1	Caffeine, calcium, zinc sensitivity
+FB:FBgn0035470	Ccz1	Caffeine, calcium, zinc sensitivity 1
 FB:FBgn0263986	cd	cardinal
 FB:FBgn0026560	CD98	CD98
 FB:FBgn0039774	CDase	Ceramidase
 FB:FBgn0013435	Cdc2rk	Cdc2-related kinase
-FB:FBgn0010341	Cdc42	Cell division cycle
+FB:FBgn0010341	Cdc42	Cell division cycle 42
 FB:FBgn0028360	Cdc7	Cdc7 kinase
 FB:FBgn0265082	Cdep	Chondrocyte-derived ezrin-like domain containing protein
 FB:FBgn0032821	CdGAPr	Cd GTPase activating protein-related
 FB:FBgn0004876	cdi	center divider
-FB:FBgn0004106	Cdk1	Cyclin-dependent kinase
-FB:FBgn0030269	CDK2AP1	CDK2-associated protein
+FB:FBgn0004106	Cdk1	Cyclin-dependent kinase 1
+FB:FBgn0030269	CDK2AP1	CDK2-associated protein 1
 FB:FBgn0027491	Cdk5?	Cdk5 activator-like protein
 FB:FBgn0086224	Cdl-1	CID delocalization-1
 FB:FBgn0261532	cdm	cadmus
@@ -1562,24 +1562,24 @@ FB:FBgn0032409	Ced-12	Ced-12
 FB:FBgn0029092	ced-6	ced-6
 FB:FBgn0000282	cel	celibate
 FB:FBgn0032876	Cen	Centrocortin
-FB:FBgn0028509	CenG1A	Centaurin gamma
+FB:FBgn0028509	CenG1A	Centaurin gamma 1A
 FB:FBgn0266916	Cenp-C	Centromeric protein-C
 FB:FBgn0041762	centrin	centrin
-FB:FBgn0030716	Cep164	centrosomal protein
+FB:FBgn0030716	Cep164	centrosomal protein 164
 FB:FBgn0034443	cer	crammer
 FB:FBgn0027569	cert	ceramide transfer protein
 FB:FBgn0030657	cerv	cervantes
 FB:FBgn0000284	cf	cleft
-FB:FBgn0000286	Cf2	Chorion factor
+FB:FBgn0000286	Cf2	Chorion factor 2
 FB:FBgn0022945	CFDD	Common regulatory Factor for DNA replication and DREF genes
 FB:FBgn0000288	cff	control of female fertility
 FB:FBgn0043046	cfo	centrosome fall off
-FB:FBgn0030121	Cfp1	CXXC finger protein
+FB:FBgn0030121	Cfp1	CXXC finger protein 1
 FB:FBgn0039207	Cftr	CF transmembrane conductance regulator
 FB:FBgn0000289	cg	combgap
 FB:FBgn0086610	CG33342	HDC15381
 FB:FBgn0000300	cgd	congested
-FB:FBgn0034047	cGlr1	cGAS-like receptor
+FB:FBgn0034047	cGlr1	cGAS-like receptor 1
 FB:FBgn0000301	ch	chubby
 FB:FBgn0000302	cha	chaff
 FB:FBgn0000312	chaetae	chaetae
@@ -1591,12 +1591,12 @@ FB:FBgn0000303	ChAT	Choline acetyltransferase
 FB:FBgn0000305	ch-b	chilblained b
 FB:FBgn0021760	chb	chromosome bows
 FB:FBgn0000319	Chc	Clathrin heavy chain
-FB:FBgn0010808	Chchd3	Coiled-coil-helix-coiled-coil-helix domain containing
-FB:FBgn0250786	Chd1	Chromodomain-helicase-DNA-binding protein
+FB:FBgn0010808	Chchd3	Coiled-coil-helix-coiled-coil-helix domain containing 3
+FB:FBgn0250786	Chd1	Chromodomain-helicase-DNA-binding protein 1
 FB:FBgn0023395	Chd3	Chd3
 FB:FBgn0035499	Chd64	Chd64
 FB:FBgn0000306	che	cherub
-FB:FBgn0029948	CheA7a	Chemosensory protein A
+FB:FBgn0029948	CheA7a	Chemosensory protein A 7a
 FB:FBgn0014140	chec	che caos
 FB:FBgn0002175	chem	chem
 FB:FBgn0014141	cher	cheerio
@@ -1613,37 +1613,37 @@ FB:FBgn0033095	chk	chaski
 FB:FBgn0039328	CHKov2	CHK domain ov2
 FB:FBgn0000309	chl	chaetelle
 FB:FBgn0028387	chm	chameau
-FB:FBgn0035589	CHMP2B	Charged multivesicular body protein
+FB:FBgn0035589	CHMP2B	Charged multivesicular body protein 2b
 FB:FBgn0015371	chn	charlatan
 FB:FBgn0029709	CHOp24	CHOp24
 FB:FBgn0267435	chp	chaoptin
 FB:FBgn0004990	chr	chrome
-FB:FBgn0020222	Chr2	Chloroform resistant
+FB:FBgn0020222	Chr2	Chloroform resistant 2
 FB:FBgn0036165	chrb	charybde
 FB:FBgn0044324	Chro	Chromator
 FB:FBgn0026727	chs	chaos
-FB:FBgn0029091	Chs2	Chitin synthase
+FB:FBgn0029091	Chs2	Chitin synthase 2
 FB:FBgn0030662	Chsy	Chondroitin sulfate synthase
-FB:FBgn0022700	Cht4	Chitinase
+FB:FBgn0022700	Cht4	Chitinase 4
 FB:FBgn0004991	chy	chunky
 FB:FBgn0066369	chyo	chyorny
 FB:FBgn0004859	ci	cubitus interruptus
 FB:FBgn0083094	cia	ciambella
 FB:FBgn0039689	CIA30	Complex I intermediate-associated protein, 30 kDa
 FB:FBgn0033972	Ciao1	Ciao1
-FB:FBgn0001977	CIAPIN1	Cytokine induced apoptosis inhibitor
+FB:FBgn0001977	CIAPIN1	Cytokine induced apoptosis inhibitor 1
 FB:FBgn0026084	cib	ciboulot
-FB:FBgn0034558	Cib2	Calcium and integrin binding family member
+FB:FBgn0034558	Cib2	Calcium and integrin binding family member 2
 FB:FBgn0262582	cic	capicua
 FB:FBgn0040477	cid	centromere identifier
 FB:FBgn0000316	cin	cinnamon
 FB:FBgn0264635	cincher	cincher
 FB:FBgn0027598	cindr	CIN85 and CD2AP related
-FB:FBgn0035533	Cip4	Cdc42-interacting protein
+FB:FBgn0035533	Cip4	Cdc42-interacting protein 4
 FB:FBgn0024483	Cir	Cir
 FB:FBgn0260042	circ	circe
 FB:FBgn0033313	Cirl	Calcium-independent receptor for alpha-latrotoxin
-FB:FBgn0062442	Cisd2	CDGSH iron sulfur domain
+FB:FBgn0062442	Cisd2	CDGSH iron sulfur domain 2
 FB:FBgn0027567	Ciz1	Ciz1 zinc finger protein
 FB:FBgn0000317	ck	crinkled
 FB:FBgn0044323	Cka	Connector of kinase to AP-1
@@ -1662,7 +1662,7 @@ FB:FBgn0015921	cleo	cleopatra
 FB:FBgn0015373	clg	clootie dumpling
 FB:FBgn0085071	clh	cliffhanger
 FB:FBgn0004993	Cli	Clipped wings
-FB:FBgn0020503	CLIP-190	Cytoplasmic linker protein
+FB:FBgn0020503	CLIP-190	Cytoplasmic linker protein 190
 FB:FBgn0023076	Clk	Clock
 FB:FBgn0000324	clm	clumpy marginals
 FB:FBgn0015922	cln	clown
@@ -1675,9 +1675,9 @@ FB:FBgn0032229	ClpP	Caseinolytic protease proteolytic subunit
 FB:FBgn0039360	CLS	Cardiolipin synthase
 FB:FBgn0000326	clt	cricklet
 FB:FBgn0034087	clu	clueless
-FB:FBgn0031196	Cluap1	Clusterin associated protein
+FB:FBgn0031196	Cluap1	Clusterin associated protein 1
 FB:FBgn0026255	clumsy	clumsy
-FB:FBgn0000327	clv-1	cloven thorax
+FB:FBgn0000327	clv-1	cloven thorax 1
 FB:FBgn0000329	clw	clubwing
 FB:FBgn0000330	cm	carmine
 FB:FBgn0000332	Cma	Comma
@@ -1686,15 +1686,15 @@ FB:FBgn0000333	cmd	carminoid
 FB:FBgn0040232	cmet	CENP-meta
 FB:FBgn0000334	cml	caramel
 FB:FBgn0000335	cmp	crumpled
-FB:FBgn0028833	Cmpk	Cytidine/uridine monophosphate kinase
+FB:FBgn0028833	Cmpk	Cytidine/uridine monophosphate kinase 1
 FB:FBgn0037015	cmpy	crimpy
 FB:FBgn0000336	cmt	comet
-FB:FBgn0029693	Cmtr1	Cap methyltransferase
+FB:FBgn0029693	Cmtr1	Cap methyltransferase 1
 FB:FBgn0000337	cn	cinnabar
 FB:FBgn0035295	Cnb	Centrobin
 FB:FBgn0034802	CNBP	CCHC-type zinc finger nucleic acid binding protein
 FB:FBgn0262975	cnc	cap-n-collar
-FB:FBgn0036090	Cnep1r2	CTD nuclear envelope phosphatase 1 regulatory subunit
+FB:FBgn0036090	Cnep1r2	CTD nuclear envelope phosphatase 1 regulatory subunit 2
 FB:FBgn0261612	CngA	Cyclic nucleotide-gated ion channel subunit A
 FB:FBgn0000339	cni	cornichon
 FB:FBgn0034988	cN-IIIB	cytosolic 5'-nucleotidase IIIB
@@ -1704,17 +1704,17 @@ FB:FBgn0013765	cnn	centrosomin
 FB:FBgn0259212	cno	canoe
 FB:FBgn0036847	CNPYb	Canopy b
 FB:FBgn0022738	cnr	censor
-FB:FBgn0025709	CNT2	Concentrative nucleoside transporter
-FB:FBgn0015622	Cnx99A	Calnexin
+FB:FBgn0025709	CNT2	Concentrative nucleoside transporter 2
+FB:FBgn0015622	Cnx99A	Calnexin 99A
 FB:FBgn0000341	Coa	Coarse
 FB:FBgn0005685	cob	cobblestone
 FB:FBgn0000342	coc	collapsed ocelli
 FB:FBgn0036496	cocoon	cocoon
 FB:FBgn0028385	cod	capodimonte
-FB:FBgn0026634	Cog2	Component of oligomeric golgi complex
+FB:FBgn0026634	Cog2	Component of oligomeric golgi complex 2
 FB:FBgn0000343	coi	coitus interruptus
 FB:FBgn0033265	coil	coilin
-FB:FBgn0000299	Col4a1	Collagen type IV alpha
+FB:FBgn0000299	Col4a1	Collagen type IV alpha 1
 FB:FBgn0050363	cola	comas sola
 FB:FBgn0031268	cold	coiled
 FB:FBgn0019830	colt	congested-like trachea
@@ -1764,15 +1764,15 @@ FB:FBgn0029939	Cph	Chronophage
 FB:FBgn0000362	cpl	cupola
 FB:FBgn0261714	Cpn	Calphotin
 FB:FBgn0263995	cpo	couch potato
-FB:FBgn0028871	Cpr35B	Cuticular protein
-FB:FBgn0024698	Cpsf160	Cleavage and polyadenylation specificity factor
+FB:FBgn0028871	Cpr35B	Cuticular protein 35B
+FB:FBgn0024698	Cpsf160	Cleavage and polyadenylation specificity factor 160
 FB:FBgn0000364	Cpt	Clipt
-FB:FBgn0035383	CPT2	Carnitine palmitoyltransferase
+FB:FBgn0035383	CPT2	Carnitine palmitoyltransferase 2
 FB:FBgn0000365	cpw	canopy wing
 FB:FBgn0041605	cpx	complexin
 FB:FBgn0004515	CR	Compensatory Response
-FB:FBgn0004996	Cr-2	Cream
-FB:FBgn0000366	cr-3	cream
+FB:FBgn0004996	Cr-2	Cream 2
+FB:FBgn0000366	cr-3	cream 3
 FB:FBgn0000367	cra	crack
 FB:FBgn0259685	crb	crumbs
 FB:FBgn0000370	crc	cryptocephal
@@ -1797,7 +1797,7 @@ FB:FBgn0014143	croc	crocodile
 FB:FBgn0000375	crooked-setae	crooked setae
 FB:FBgn0004670	Crown	Crown
 FB:FBgn0001994	crp	cropped
-FB:FBgn0020220	Crp22	Chromatin decondensation protein
+FB:FBgn0020220	Crp22	Chromatin decondensation protein 22
 FB:FBgn0004793	crpe	crepe
 FB:FBgn0015924	crq	croquemort
 FB:FBgn0005000	crs	cru sterile
@@ -1808,10 +1808,10 @@ FB:FBgn0005664	Crys	Crystallin
 FB:FBgn0013767	Crz	Corazonin
 FB:FBgn0000380	cs	creased
 FB:FBgn0052220	Csas	CMP-sialic acid synthase
-FB:FBgn0022213	Cse1	Chromosome segregation
+FB:FBgn0022213	Cse1	Chromosome segregation 1
 FB:FBgn0032346	Csl4	Csl4
 FB:FBgn0045859	csn	casanova
-FB:FBgn0027053	CSN5	COP9 signalosome subunit
+FB:FBgn0027053	CSN5	COP9 signalosome subunit 5
 FB:FBgn0004179	Csp	Cysteine string protein
 FB:FBgn0011574	Csr	Chaser
 FB:FBgn0069245	cst	croissant
@@ -1832,8 +1832,8 @@ FB:FBgn0030521	CtsB	Cathepsin B
 FB:FBgn0000386	ctt	contorted
 FB:FBgn0083918	CTTbp	CTT DNA binding protein
 FB:FBgn0064187	ctu	count-up
-FB:FBgn0032793	Ctu2	Cytosolic thiouridylase subunit
-FB:FBgn0015029	CU61	Cible d'Ubx
+FB:FBgn0032793	Ctu2	Cytosolic thiouridylase subunit 2
+FB:FBgn0015029	CU61	Cible d'Ubx 61
 FB:FBgn0015375	cub	currant bun
 FB:FBgn0000264	Cubl	Curled blistered
 FB:FBgn0052702	Cubn	Cubilin
@@ -1841,7 +1841,7 @@ FB:FBgn0011235	cuc	cuckold
 FB:FBgn0011204	cue	cueball
 FB:FBgn0260932	cuff	cutoff
 FB:FBgn0000391	cui	curvi
-FB:FBgn0015509	Cul1	Cullin
+FB:FBgn0015509	Cul1	Cullin 1
 FB:FBgn0035880	Culd	CUB and LDLa domain
 FB:FBgn0000392	cup	cup
 FB:FBgn0000393	cur	curvoid
@@ -1852,7 +1852,7 @@ FB:FBgn0083093	curta	curta
 FB:FBgn0015376	cutlet	cutlet
 FB:FBgn0005001	cu-X	curled on X
 FB:FBgn0000394	cv	crossveinless
-FB:FBgn0000399	cvl-5	crossveinless-like
+FB:FBgn0000399	cvl-5	crossveinless-like 5
 FB:FBgn0000400	cvw	convexwing
 FB:FBgn0031452	Cwc25	Cwc25
 FB:FBgn0259938	cwo	clockwork orange
@@ -1862,7 +1862,7 @@ FB:FBgn0023094	cyc	cycle
 FB:FBgn0000404	CycA	Cyclin A
 FB:FBgn0005002	Cyd	Curlyoid
 FB:FBgn0032210	CYLD	Cylindromatosis
-FB:FBgn0004432	Cyp1	Cyclophilin
+FB:FBgn0004432	Cyp1	Cyclophilin 1
 FB:FBgn0028382	cyp33	cyclophilin-33
 FB:FBgn0044501	Cyp450_U5csm	Cyp450_U5csm
 FB:FBgn0033303	Cyp6a15?	Cyp6a15Psi
@@ -1890,7 +1890,7 @@ FB:FBgn0023507	D2hgdh	D-2-hydroxyglutaric acid dehydrogenase
 FB:FBgn0033015	d4	d4
 FB:FBgn0020494	D59	D59
 FB:FBgn0025641	DAAM	Dishevelled Associated Activator of Morphogenesis
-FB:FBgn0031860	Daao2	D-amino acid oxidase
+FB:FBgn0031860	Daao2	D-amino acid oxidase 2
 FB:FBgn0000414	Dab	Disabled
 FB:FBgn0005677	dac	dachshund
 FB:FBgn0262029	dachs	dachs
@@ -1906,9 +1906,9 @@ FB:FBgn0069244	daltonian	daltonian
 FB:FBgn0011585	dame	daughterless maternal enhancer
 FB:FBgn0028862	dao	down and out
 FB:FBgn0010316	dap	dacapo
-FB:FBgn0023388	Dap160	Dynamin associated protein
+FB:FBgn0023388	Dap160	Dynamin associated protein 160
 FB:FBgn0082821	Dar	Defender against reaper
-FB:FBgn0259103	dar4	dendritic arbor reduction
+FB:FBgn0259103	dar4	dendritic arbor reduction 4
 FB:FBgn0005021	Darkened-eye	Darkened eye
 FB:FBgn0005003	darkener-of-white-eosin	darkener of white-eosin
 FB:FBgn0262636	dati	datilografo
@@ -1922,17 +1922,17 @@ FB:FBgn0020305	dbe	dribble
 FB:FBgn0287630	dbf	doublefault
 FB:FBgn0000420	dbl	dichaete beadex lethal
 FB:FBgn0040230	dbo	diablo
-FB:FBgn0010220	Dbp45A	DEAD box protein
-FB:FBgn0004556	Dbp73D	Dead box protein
+FB:FBgn0010220	Dbp45A	DEAD box protein 45A
+FB:FBgn0004556	Dbp73D	Dead box protein 73D
 FB:FBgn0067779	dbr	debra
 FB:FBgn0261723	Dbx	Dbx
 FB:FBgn0022336	dc	dosach
 FB:FBgn0082830	DC238	DC238
-FB:FBgn0037980	DCAF12	DDB1 and CUL4 associated factor
+FB:FBgn0037980	DCAF12	DDB1 and CUL4 associated factor 12
 FB:FBgn0035169	Dci	Dodecenoyl-CoA delta-isomerase
 FB:FBgn0085380	dcma	decima
 FB:FBgn0010501	Dcp-1	Death caspase-1
-FB:FBgn0034921	DCP1	Decapping protein
+FB:FBgn0034921	DCP1	Decapping protein 1
 FB:FBgn0039016	Dcr-1	Dicer-1
 FB:FBgn0034246	Dcr-2	Dicer-2
 FB:FBgn0001108	DCTN1-p150	Dynactin 1, p150 subunit
@@ -1940,14 +1940,14 @@ FB:FBgn0038089	d-cup	davis-cup
 FB:FBgn0259099	DCX-EMAP	Doublecortin-domain-containing echinoderm-microtubule-associated protein
 FB:FBgn0029067	Dd	Dullard
 FB:FBgn0067303	DDB2	DDB2
-FB:FBgn0021584	DdbP3	Damage-specific DNA-binding protein
+FB:FBgn0021584	DdbP3	Damage-specific DNA-binding protein 3
 FB:FBgn0284444	ddbt	deadbeat
 FB:FBgn0000422	Ddc	Dopa decarboxylase
 FB:FBgn0000423	ddl	displaced-like
 FB:FBgn0053531	Ddr	Discoidin domain receptor
-FB:FBgn0038868	Ddrgk1	DDRGK domain containing
+FB:FBgn0038868	Ddrgk1	DDRGK domain containing 1
 FB:FBgn0015075	Ddx1	Dead-box-1
-FB:FBgn0001565	Ddx56	DEAD-box helicase
+FB:FBgn0001565	Ddx56	DEAD-box helicase 56
 FB:FBgn0000424	de	deacon
 FB:FBgn0000425	DebA	Developmental embryonic A
 FB:FBgn0000427	dec	defective chorion
@@ -1960,7 +1960,7 @@ FB:FBgn0026533	Dek	Dek
 FB:FBgn0086251	del	deadlock
 FB:FBgn0000463	Delta	Delta
 FB:FBgn0000431	den	denervated
-FB:FBgn0033716	Den1	Deneddylase
+FB:FBgn0033716	Den1	Deneddylase 1
 FB:FBgn0030802	DENR	Density regulated protein
 FB:FBgn0005005	Dented	Dented
 FB:FBgn0000432	dep	depressed
@@ -1973,11 +1973,11 @@ FB:FBgn0000434	der	deranged
 FB:FBgn0267972	Der-1	Derlin-1
 FB:FBgn0038438	Der-2	Derlin-2
 FB:FBgn0033735	Dera	Deoxyribose-phosphate aldolase
-FB:FBgn0043043	Desat2	Desaturase
+FB:FBgn0043043	Desat2	Desaturase 2
 FB:FBgn0037832	Desi	Desiccate
 FB:FBgn0264291	Det	Deterin
 FB:FBgn0013804	Dew	Dew
-FB:FBgn0022893	Df31	Decondensation factor
+FB:FBgn0022893	Df31	Decondensation factor 31
 FB:FBgn0000438	dfa	deformed antennae
 FB:FBgn0015928	dfc	defaced
 FB:FBgn0000439	Dfd	Deformed
@@ -1985,15 +1985,15 @@ FB:FBgn0014146	dfk	distal of forkhead
 FB:FBgn0000441	dfw	deflected wing
 FB:FBgn0034072	Dg	Dystroglycan
 FB:FBgn0000444	dg-a	degenerated spermatheca
-FB:FBgn0033215	Dgat2	Diacylglycerol O-acyltransferase
+FB:FBgn0033215	Dgat2	Diacylglycerol O-acyltransferase 2
 FB:FBgn0020930	Dgk?	Diacyl glycerol kinase epsilon
 FB:FBgn0086898	dgo	diego
 FB:FBgn0027836	Dgp-1	Dgp-1
 FB:FBgn0037384	dgrn	degringolade
-FB:FBgn0026085	dgt4	dim gamma-tubulin
-FB:FBgn0012344	Dh44	Diuretic hormone
+FB:FBgn0026085	dgt4	dim gamma-tubulin 4
+FB:FBgn0012344	Dh44	Diuretic hormone 44
 FB:FBgn0023092	dh62	dh62
-FB:FBgn0013810	Dhc36C	Dynein heavy chain at
+FB:FBgn0013810	Dhc36C	Dynein heavy chain at 36C
 FB:FBgn0011761	dhd	deadhead
 FB:FBgn0029980	Dhdds	Dehydrodolichyl diphosphate synthase subunit
 FB:FBgn0004087	Dhfr	Dihydrofolate reductase
@@ -2002,15 +2002,15 @@ FB:FBgn0000447	Dhod	Dihydroorotate dehydrogenase
 FB:FBgn0004492	DhpO	Dihydropterin oxidase
 FB:FBgn0035964	Dhpr	Dihydropteridine reductase
 FB:FBgn0035854	Dhps	Deoxyhypusine synthase
-FB:FBgn0035588	Dhrs4	Dehydrogenase/reductase
-FB:FBgn0033160	Dhx15	DEAH-box helicase
+FB:FBgn0035588	Dhrs4	Dehydrogenase/reductase 4
+FB:FBgn0033160	Dhx15	DEAH-box helicase 15
 FB:FBgn0011202	dia	diaphanous
-FB:FBgn0005397	Dia1	Diaphorase
+FB:FBgn0005397	Dia1	Diaphorase 1
 FB:FBgn0066367	diana	diana
-FB:FBgn0015247	Diap2	Death-associated inhibitor of apoptosis
+FB:FBgn0015247	Diap2	Death-associated inhibitor of apoptosis 2
 FB:FBgn0000449	dib	disembodied
 FB:FBgn0000450	dic	dicephalic
-FB:FBgn0027610	Dic1	Dicarboxylate carrier
+FB:FBgn0027610	Dic1	Dicarboxylate carrier 1
 FB:FBgn0261519	did	diminished discs
 FB:FBgn0261400	didy	disjunction dysfunction
 FB:FBgn0039666	Diedel	Diedel
@@ -2027,13 +2027,13 @@ FB:FBgn0005007	dimorphos	dimorphos
 FB:FBgn0005010	Din	Dinty
 FB:FBgn0286828	dind	diamond
 FB:FBgn0031725	DIP-?	Dpr-interacting protein eta
-FB:FBgn0024806	DIP2	DISCO Interacting Protein
+FB:FBgn0024806	DIP2	DISCO Interacting Protein 2
 FB:FBgn0000454	Dip-B	Dipeptidase B
 FB:FBgn0260018	diplomatico	diplomatico
 FB:FBgn0005011	Dipp	Defective in phototaxis plasticity
 FB:FBgn0024798	Dipr	Distal into proximal
 FB:FBgn0000458	dis	distorted eye
-FB:FBgn0035111	Dis3l2	Dis3 like 3'-5' exoribonuclease
+FB:FBgn0035111	Dis3l2	Dis3 like 3'-5' exoribonuclease 2
 FB:FBgn0000459	disco	disconnected
 FB:FBgn0285879	disco-r	disco-related
 FB:FBgn0005680	disf	disordered facets
@@ -2046,8 +2046,8 @@ FB:FBgn0083908	DJ817	DJ817
 FB:FBgn0083738	Dje	Dje
 FB:FBgn0005022	dkl	darker legs
 FB:FBgn0014148	dkn	deathknell
-FB:FBgn0001624	dlg1	discs large
-FB:FBgn0032363	Dlg5	Discs large
+FB:FBgn0001624	dlg1	discs large 1
+FB:FBgn0032363	Dlg5	Discs large 5
 FB:FBgn0034264	Dlish	Dachs ligand with SH3s
 FB:FBgn0024433	Dl-l	Delta-like
 FB:FBgn0000157	Dll	Distal-less
@@ -2060,10 +2060,11 @@ FB:FBgn0082810	Dmc	dymeclin
 FB:FBgn0010497	dmGlut	Dietary and metabolic glutamate transporter
 FB:FBgn0011261	Dmnd	Dimethylnitrosamine demethylase
 FB:FBgn0033486	dmpd	dampened
-FB:FBgn0030477	dmrt11E	doublesex-Mab related
+FB:FBgn0030477	dmrt11E	doublesex-Mab related 11E
 FB:FBgn0278604	dmt	dalmatian
 FB:FBgn0037443	Dmtn	Dementin
-FB:FBgn0035581	Dnah3	dynein, axonemal, heavy chain
+FB:FBgn0000475	dn	""
+FB:FBgn0035581	Dnah3	dynein, axonemal, heavy chain 3
 FB:FBgn0263106	DnaJ-1	DnaJ-like-1
 FB:FBgn0260775	DnaJ-60	DnaJ-like-60
 FB:FBgn0032474	DnaJ-H	DnaJ homolog
@@ -2071,10 +2072,10 @@ FB:FBgn0000477	DNaseII	Deoxyribonuclease II
 FB:FBgn0000479	dnc	dunce
 FB:FBgn0038916	dnd	dead end
 FB:FBgn0022338	dnk	deoxyribonucleoside kinase
-FB:FBgn0260866	dnr1	defense repressor
+FB:FBgn0260866	dnr1	defense repressor 1
 FB:FBgn0018737	Dns	Dense
-FB:FBgn0024245	dnt	doughnut on
-FB:FBgn0027453	Dnz1	DNZDHHC/NEW1 zinc finger protein
+FB:FBgn0024245	dnt	doughnut on 2
+FB:FBgn0027453	Dnz1	DNZDHHC/NEW1 zinc finger protein 11
 FB:FBgn0265998	Doa	Darkener of apricot
 FB:FBgn0030607	dob	doppelganger von brummer
 FB:FBgn0028789	Doc1	Dorsocross1
@@ -2087,7 +2088,7 @@ FB:FBgn0034141	Dolk	Dolichol kinase
 FB:FBgn0020306	dom	domino
 FB:FBgn0043903	dome	domeless
 FB:FBgn0004490	don-giovanni	don giovanni
-FB:FBgn0011582	Dop1R1	Dopamine 1-like receptor
+FB:FBgn0011582	Dop1R1	Dopamine 1-like receptor 1
 FB:FBgn0035538	DopEcR	Dopamine/Ecdysteroid receptor
 FB:FBgn0000482	dor	deep orange
 FB:FBgn0085430	Dora	Dorado
@@ -2096,19 +2097,19 @@ FB:FBgn0000483	dotted	dotted
 FB:FBgn0000484	double	double
 FB:FBgn0000485	dow	downy
 FB:FBgn0011763	Dp	DP transcription factor
-FB:FBgn0027835	Dp1	Dodeca-satellite-binding protein
+FB:FBgn0027835	Dp1	Dodeca-satellite-binding protein 1
 FB:FBgn0015929	dpa	disc proliferation abnormal
 FB:FBgn0037469	Dpck	Dephospho-CoA kinase
 FB:FBgn0067783	DPCoAC	Dephosphocoenzyme A carrier
 FB:FBgn0024558	Dph5	Diphthamide methyltransferase
 FB:FBgn0005023	dpl	duplicated legs
-FB:FBgn0032799	Dpm1	Dolichyl-phosphate mannosyltransferase subunit
+FB:FBgn0032799	Dpm1	Dolichyl-phosphate mannosyltransferase subunit 1
 FB:FBgn0010109	dpn	deadpan
 FB:FBgn0000490	dpp	decapentaplegic
-FB:FBgn0031835	Dpp10	Dipeptidyl peptidase
+FB:FBgn0031835	Dpp10	Dipeptidyl peptidase 10
 FB:FBgn0004240	DptA	Diptericin A
 FB:FBgn0053196	dpy	dumpy
-FB:FBgn0032293	Dpy-30L1	Dpy-30-like
+FB:FBgn0032293	Dpy-30L1	Dpy-30-like 1
 FB:FBgn0000492	Dr	Drop
 FB:FBgn0041761	dra	drache
 FB:FBgn0260006	drd	drop dead
@@ -2119,7 +2120,7 @@ FB:FBgn0069243	driceless	driceless
 FB:FBgn0015872	Drip	Drip
 FB:FBgn0004638	drk	downstream of receptor kinase
 FB:FBgn0015380	drl	derailed
-FB:FBgn0033791	Drl-2	Derailed
+FB:FBgn0033791	Drl-2	Derailed 2
 FB:FBgn0024244	drm	drumstick
 FB:FBgn0082596	drmo-o57	drymouth o57
 FB:FBgn0266410	drn	doctor no
@@ -2131,11 +2132,11 @@ FB:FBgn0026722	drosha	drosha
 FB:FBgn0005026	drp	droop wings
 FB:FBgn0027594	drpr	draper
 FB:FBgn0283461	Drs	Drosomycin
-FB:FBgn0035434	Drsl5	Drosomycin-like
+FB:FBgn0035434	Drsl5	Drosomycin-like 5
 FB:FBgn0066366	dru	drujok
 FB:FBgn0284247	ds	dachsous
 FB:FBgn0035290	dsb	debris buster
-FB:FBgn0033159	Dscam1	Down syndrome cell adhesion molecule
+FB:FBgn0033159	Dscam1	Down syndrome cell adhesion molecule 1
 FB:FBgn0039528	dsd	distracted
 FB:FBgn0015381	dsf	dissatisfaction
 FB:FBgn0000499	dsh	dishevelled
@@ -2146,7 +2147,7 @@ FB:FBgn0067905	Dso2	Daisho2
 FB:FBgn0010269	Dsor1	Downstream of raf1
 FB:FBgn0000501	dsp	dispersed
 FB:FBgn0000502	dsr	disrupted
-FB:FBgn0015931	dsRNABP5	ds-RNA binding protein
+FB:FBgn0015931	dsRNABP5	ds-RNA binding protein 5
 FB:FBgn0000503	dss	disturbed segmentation
 FB:FBgn0045840	?DsubFC4	lambdaDsubFC4
 FB:FBgn0000504	dsx	doublesex
@@ -2167,14 +2168,14 @@ FB:FBgn0044490	DTD46.8	DTD46.8
 FB:FBgn0013910	Dtf-1	Dtf-1
 FB:FBgn0038071	Dtg	Dpp target gene
 FB:FBgn0262730	dtn	detonator
-FB:FBgn0037492	Dtwd2	DTW domain containing
+FB:FBgn0037492	Dtwd2	DTW domain containing 2
 FB:FBgn0000511	du	dunkel
 FB:FBgn0033738	DUBAI	Deubiquitinating apoptotic inhibitor
 FB:FBgn0024893	dud	dud
 FB:FBgn0005025	dumpyoidy	dumpyoidy
 FB:FBgn0283531	Duox	Dual oxidase
-FB:FBgn0250832	Dup99B	Ductus ejaculatorius peptide
-FB:FBgn0030554	Dus2	Dihydrouridine synthase
+FB:FBgn0250832	Dup99B	Ductus ejaculatorius peptide 99B
+FB:FBgn0030554	Dus2	Dihydrouridine synthase 2
 FB:FBgn0000526	dusky-body	dusky body
 FB:FBgn0013350	dUTPase-i	Deoxyuridine triphosphatase-inhibitor
 FB:FBgn0000512	dv	divergent
@@ -2186,7 +2187,7 @@ FB:FBgn0000523	dwx	dwarfex
 FB:FBgn0000524	dx	deltex
 FB:FBgn0033739	Dyb	Dystrobrevin
 FB:FBgn0066365	dyl	dusky-like
-FB:FBgn0016930	Dyrk2	Dual-specificity tyrosine phosphorylation-regulated kinase
+FB:FBgn0016930	Dyrk2	Dual-specificity tyrosine phosphorylation-regulated kinase 2
 FB:FBgn0041258	DyrkH	DyrkH
 FB:FBgn0036152	Dyro	Dpt-YFP repressor by overexpression
 FB:FBgn0260003	Dys	Dystrophin
@@ -2198,16 +2199,16 @@ FB:FBgn0000527	e	ebony
 FB:FBgn0000531	E103	E103
 FB:FBgn0000532	E111	E111
 FB:FBgn0020446	E-1a	E-1a
-FB:FBgn0011766	E2f1	E2F transcription factor
+FB:FBgn0011766	E2f1	E2F transcription factor 1
 FB:FBgn0041255	E3	E3
 FB:FBgn0008646	E5	E5
 FB:FBgn0016637	E64	E64
 FB:FBgn0000528	E81	E81
 FB:FBgn0000533	ea	easter
-FB:FBgn0026438	Eaat2	Excitatory amino acid transporter
+FB:FBgn0026438	Eaat2	Excitatory amino acid transporter 2
 FB:FBgn0000534	E(ade2)	Enhancer of ade2
 FB:FBgn0033166	Eaf	ELL-associated factor
-FB:FBgn0035624	Eaf6	Esa1-associated factor
+FB:FBgn0035624	Eaf6	Esa1-associated factor 6
 FB:FBgn0000535	eag	ether a go-go
 FB:FBgn0014955	ealk	easterlike
 FB:FBgn0026441	ear	ENL/AF9-related
@@ -2221,7 +2222,7 @@ FB:FBgn0083248	EB2	EB2
 FB:FBgn0083247	EB3	EB3
 FB:FBgn0083246	EB4	EB4
 FB:FBgn0083245	EB5	EB5
-FB:FBgn0035153	ebd1	earthbound
+FB:FBgn0035153	ebd1	earthbound 1
 FB:FBgn0263933	ebi	ebi
 FB:FBgn0266572	ebo	ellipsoid body open
 FB:FBgn0004181	Ebp	Ejaculatory bulb protein
@@ -2236,7 +2237,7 @@ FB:FBgn0069444	E(br)65	E(br)65
 FB:FBgn0069443	E(br)72	E(br)72
 FB:FBgn0000542	ec	echinus
 FB:FBgn0024764	EC19	EC19
-FB:FBgn0004085	Ec3	Ecysone-induced RNA
+FB:FBgn0004085	Ec3	Ecysone-induced RNA 3
 FB:FBgn0024763	EC33	EC33
 FB:FBgn0024762	EC66	EC66
 FB:FBgn0024761	EC69	EC69
@@ -2247,7 +2248,7 @@ FB:FBgn0024757	EC88	EC88
 FB:FBgn0024756	EC91	EC91
 FB:FBgn0069242	eca	eclair
 FB:FBgn0000543	ecd	ecdysoneless
-FB:FBgn0033879	Echs1	Enoyl-CoA hydratase, short chain
+FB:FBgn0033879	Echs1	Enoyl-CoA hydratase, short chain 1
 FB:FBgn0000544	ecl	echinus-like
 FB:FBgn0035766	eco	Establishment of cohesion
 FB:FBgn0019819	ecp	eclipse
@@ -2255,11 +2256,11 @@ FB:FBgn0000546	EcR	Ecdysone receptor
 FB:FBgn0028436	ECSIT	ECSIT
 FB:FBgn0041256	E(csw)3B	E(csw)3B
 FB:FBgn0000451	ect	ectodermal
-FB:FBgn0260746	Ect3	Ectoderm-expressed
+FB:FBgn0260746	Ect3	Ectoderm-expressed 3
 FB:FBgn0000547	ed	echinoid
 FB:FBgn0017403	eddy	eddy
-FB:FBgn0023511	Edem1	ER degradation enhancer, mannosidase alpha-like
-FB:FBgn0000549	Edg43A	Ecdysone-dependent gene at
+FB:FBgn0023511	Edem1	ER degradation enhancer, mannosidase alpha-like 1
+FB:FBgn0000549	Edg43A	Ecdysone-dependent gene at 43A
 FB:FBgn0052185	edin	elevated during infection
 FB:FBgn0023214	edl	ETS-domain lacking
 FB:FBgn0025011	E(dpp)55A	E(dpp)55A
@@ -2268,10 +2269,10 @@ FB:FBgn0000553	e(dpy<sup>v</sup>)	enhancer of dumpy-vortex
 FB:FBgn0027506	EDTP	Egg-derived tyrosine phosphatase
 FB:FBgn0013932	E(DTW)	E(DTW)
 FB:FBgn0028747	E(E2f)2B	E(E2f)2B
-FB:FBgn0000557	eEF1?2	eukaryotic translation elongation factor 1 alpha
+FB:FBgn0000557	eEF1?2	eukaryotic translation elongation factor 1 alpha 2
 FB:FBgn0024240	eel	eel
 FB:FBgn0005030	ef	elfin
-FB:FBgn0051158	Efa6	Exchange factor for Arf
+FB:FBgn0051158	Efa6	Exchange factor for Arf 6
 FB:FBgn0041760	efe	efendi
 FB:FBgn0011217	eff	effete
 FB:FBgn0030691	Efhc1.1	EF-hand domain containing 1.1
@@ -2298,13 +2299,13 @@ FB:FBgn0086908	egg	eggless
 FB:FBgn0023088	eggroll	eggroll
 FB:FBgn0001404	egh	egghead
 FB:FBgn0000562	egl	egalitarian
-FB:FBgn0034882	Eglp1	Entomoglyceroporin
+FB:FBgn0034882	Eglp1	Entomoglyceroporin 1
 FB:FBgn0086712	Egm	Enigma
 FB:FBgn0082376	E(GMR-wIR)A28	Enhancer(GMR-wIR)A28
 FB:FBgn0033483	egr	eiger
 FB:FBgn0000564	Eh	Eclosion hormone
 FB:FBgn0019823	eH3	eH3
-FB:FBgn0034180	Ehbp1	Eps15 homology domain containing protein-binding protein
+FB:FBgn0034180	Ehbp1	Eps15 homology domain containing protein-binding protein 1
 FB:FBgn0017632	Eig12E	Eig12E
 FB:FBgn0017631	Eig17B	Eig17B
 FB:FBgn0017630	Eig19C	Eig19C
@@ -2340,19 +2341,19 @@ FB:FBgn0029178	E(Khc)ek9	E(Khc)ek9
 FB:FBgn0004857	elA	elbow A
 FB:FBgn0013949	Elal	Elastin-like
 FB:FBgn0260400	elav	embryonic lethal abnormal vision
-FB:FBgn0000227	Elba1	Early boundary activity
+FB:FBgn0000227	Elba1	Early boundary activity 1
 FB:FBgn0004084	??-element	alphagamma element
 FB:FBgn0032660	elfless	elfless
 FB:FBgn0015936	elg	elongatus
-FB:FBgn0036574	elg1	enhanced level of genomic instability
+FB:FBgn0036574	elg1	enhanced level of genomic instability 1
 FB:FBgn0011589	Elk	Eag-like K[+] channel
 FB:FBgn0064244	ELK1	ELK1
 FB:FBgn0037358	elm	ethanol sensitive with low memory
 FB:FBgn0036128	Elo68?	Elongase 68beta
 FB:FBgn0023212	EloB	Elongin B
 FB:FBgn0037762	eloF	elongase F
-FB:FBgn0037534	Elovl7	ELOVL fatty acid elongase
-FB:FBgn0015359	Elp5	Elongator complex protein
+FB:FBgn0037534	Elovl7	ELOVL fatty acid elongase 7
+FB:FBgn0015359	Elp5	Elongator complex protein 5
 FB:FBgn0000573	elr	elliptical rough
 FB:FBgn0067778	els	ellsworth
 FB:FBgn0026092	E(lt<sup>v</sup>)319	E(lt[v])319
@@ -2389,7 +2390,7 @@ FB:FBgn0000579	Eno	Enolase
 FB:FBgn0034975	enok	enoki mushroom
 FB:FBgn0037305	Enoph	Enolase-phosphatase
 FB:FBgn0264693	ens	ensconsin
-FB:FBgn0031250	Ent1	Equilibrative nucleoside transporter
+FB:FBgn0031250	Ent1	Equilibrative nucleoside transporter 1
 FB:FBgn0026434	En(tkv*)3-3	En(tkv*)3-3
 FB:FBgn0264672	Eogt	EGF-domain O-GlcNAc transferase
 FB:FBgn0019876	e(olfC)	e(olfC)
@@ -2526,7 +2527,7 @@ FB:FBgn0062637	EP950	EP950
 FB:FBgn0062636	EP995	EP995
 FB:FBgn0013933	E(Pc)17B	E(Pc)17B
 FB:FBgn0014389	e(Pc)84DE	e(Pc)84DE
-FB:FBgn0038651	Epg5	ectopic P-granules autophagy protein
+FB:FBgn0038651	Epg5	ectopic P-granules autophagy protein 5
 FB:FBgn0025936	Eph	Eph receptor tyrosine kinase
 FB:FBgn0040324	Ephrin	Ephrin
 FB:FBgn0045858	e(Pi3K92E)alpha	e(Pi3K92E)alpha
@@ -2553,7 +2554,7 @@ FB:FBgn0067777	era	errance
 FB:FBgn0028434	Ercc1	Ercc1
 FB:FBgn0000584	Erect	Erect
 FB:FBgn0035909	ergic53	ergic53
-FB:FBgn0052703	Erk7	Extracellularly regulated kinase
+FB:FBgn0052703	Erk7	Extracellularly regulated kinase 7
 FB:FBgn0031375	erm	earmuff
 FB:FBgn0043597	E(ro<sup>DOM</sup>)1065	E(ro[DOM])1065
 FB:FBgn0043596	E(ro<sup>DOM</sup>)1777	E(ro[DOM])1777
@@ -2562,7 +2563,7 @@ FB:FBgn0043594	E(ro<sup>DOM</sup>)2051	E(ro[DOM])2051
 FB:FBgn0043593	E(ro<sup>DOM</sup>)2409	E(ro[DOM])2409
 FB:FBgn0043592	E(ro<sup>DOM</sup>)3222	E(ro[DOM])3222
 FB:FBgn0043591	E(ro<sup>DOM</sup>)50	E(ro[DOM])50
-FB:FBgn0030734	ERp44	Endoplasmic reticulum protein
+FB:FBgn0030734	ERp44	Endoplasmic reticulum protein 44
 FB:FBgn0035849	ERR	estrogen-related receptor
 FB:FBgn0000585	erratic	erratic
 FB:FBgn0044128	E(rst)A5	E(rst)A5
@@ -2657,14 +2658,14 @@ FB:FBgn0015572	?-Est4	alpha-Esterase-4
 FB:FBgn0027934	?-Est4a?	alpha-Est4aPsi
 FB:FBgn0261393	?-Est5	alpha-Esterase-5
 FB:FBgn0015574	?-Est6	alpha-Esterase-6
-FB:FBgn0000592	Est-6	Esterase
+FB:FBgn0000592	Est-6	Esterase 6
 FB:FBgn0015575	?-Est7	alpha-Esterase-7
 FB:FBgn0015576	?-Est8	alpha-Esterase-8
 FB:FBgn0015577	?-Est9	alpha-Esterase-9
 FB:FBgn0020932	Est-B	Est-B
 FB:FBgn0020931	Est-E	Est-E
 FB:FBgn0015727	Est-F	Est-F
-FB:FBgn0266758	Esyt2	Extended synaptotagmin-like protein
+FB:FBgn0266758	Esyt2	Extended synaptotagmin-like protein 2
 FB:FBgn0000595	Etd	Eye tissue determiner
 FB:FBgn0039697	Etfb	Electron transfer flavoprotein beta subunit
 FB:FBgn0028738	ETH	Ecdysis triggering hormone
@@ -2697,7 +2698,7 @@ FB:FBgn0046117	E(To)9	E(To)9
 FB:FBgn0015728	Etr1	ETR-1-like
 FB:FBgn0067422	E(TS2)2	E(TS2)2
 FB:FBgn0039225	Ets96B	Ets96B
-FB:FBgn0004510	Ets97D	Ets at
+FB:FBgn0004510	Ets97D	Ets at 97D
 FB:FBgn0026880	E(Ubx)3L	E(Ubx)3L
 FB:FBgn0038665	euc	eucalyptus
 FB:FBgn0082593	eunuch	eunuch
@@ -2752,7 +2753,7 @@ FB:FBgn0025001	E(var)90	E(var)90
 FB:FBgn0025840	E(var)915	E(var)915
 FB:FBgn0013266	E(var)A1	E(var)A1
 FB:FBgn0000606	eve	even skipped
-FB:FBgn0262740	Evi5	Ecotropic viral integration site
+FB:FBgn0262740	Evi5	Ecotropic viral integration site 5
 FB:FBgn0025000	E(vvl)23	E(vvl)23
 FB:FBgn0005427	ewg	erect wing
 FB:FBgn0020059	E(w<sup>a</sup>)705	E(w[a])705
@@ -2766,13 +2767,13 @@ FB:FBgn0020052	E(w<sup>a</sup>)829	E(w[a])829
 FB:FBgn0004583	ex	expanded
 FB:FBgn0004495	exb	extreme bar
 FB:FBgn0000611	exd	extradenticle
-FB:FBgn0037901	Exd2	Exonuclease 3'-5' domain-containing
+FB:FBgn0037901	Exd2	Exonuclease 3'-5' domain-containing 2
 FB:FBgn0041156	exex	extra-extra
 FB:FBgn0004476	Exh	Epoxide hydrolase
 FB:FBgn0000612	exi	exigous
 FB:FBgn0016796	exl	exu-like
 FB:FBgn0261547	Exn	Ephexin
-FB:FBgn0266667	Exo70	Exocyst
+FB:FBgn0266667	Exo70	Exocyst 70
 FB:FBgn0033668	exp	expansion
 FB:FBgn0000614	Ext	Extras
 FB:FBgn0005049	extended	extended
@@ -2787,7 +2788,7 @@ FB:FBgn0040328	EY3-3	EY3-3
 FB:FBgn0040327	EY3-4	EY3-4
 FB:FBgn0026440	EY3-5	EY3-5
 FB:FBgn0000320	eya	eyes absent
-FB:FBgn0000624	Eye	Eyeless dominant on
+FB:FBgn0000624	Eye	Eyeless dominant on 2
 FB:FBgn0000625	eyg	eyegone
 FB:FBgn0000626	eyh	eyelisch
 FB:FBgn0000627	Eyl	Eyeluf
@@ -2806,11 +2807,11 @@ FB:FBgn0028741	fab1	fab1 kinase
 FB:FBgn0037913	fabp	fatty acid binding protein
 FB:FBgn0043902	fad	fat-head
 FB:FBgn0029172	Fad2	Fad2
-FB:FBgn0025608	Faf2	Fas-associated factor
+FB:FBgn0025608	Faf2	Fas-associated factor 2
 FB:FBgn0000631	fai	faint
 FB:FBgn0020440	Fak	Focal adhesion kinase
 FB:FBgn0028380	fal	falten
-FB:FBgn0034529	FAM21	Family with sequence similarity
+FB:FBgn0034529	FAM21	Family with sequence similarity 21
 FB:FBgn0028379	fan	farinelli
 FB:FBgn0038827	Fancd2	Fancd2
 FB:FBgn0033354	FANCI	Fanconi anemia complementation group I
@@ -2819,39 +2820,39 @@ FB:FBgn0033859	fand	fandango
 FB:FBgn0084745	fang	fangorn
 FB:FBgn0000632	fap	female abdomen pattern
 FB:FBgn0023550	FarO	Fatty acyl-CoA reductase in oenocytes
-FB:FBgn0000635	Fas2	Fasciclin
+FB:FBgn0000635	Fas2	Fasciclin 2
 FB:FBgn0026721	fat-spondin	fat-spondin
 FB:FBgn0266451	fau	fau
 FB:FBgn0014163	fax	failed axon connections
 FB:FBgn0011205	fbl	fumble
 FB:FBgn0032820	fbp	fructose-1,6-bisphosphatase
-FB:FBgn0000639	Fbp1	Fat body protein
+FB:FBgn0000639	Fbp1	Fat body protein 1
 FB:FBgn0000637	fbr	fine bristles
-FB:FBgn0031773	Fbw5	F-box and WD repeat domain containing
-FB:FBgn0030555	Fbxl4	F box and leucine-rich-repeat gene
+FB:FBgn0031773	Fbw5	F-box and WD repeat domain containing 5
+FB:FBgn0030555	Fbxl4	F box and leucine-rich-repeat gene 4
 FB:FBgn0000641	fc	faulty chaetae
 FB:FBgn0023085	fcG	fcG
 FB:FBgn0000642	fch	fragile chorion
 FB:FBgn0000643	fcl	foreclosed
 FB:FBgn0035026	Fcp1	TFIIF-interacting CTD phosphatase
-FB:FBgn0000644	Fcp3C	Follicle cell protein
+FB:FBgn0000644	Fcp3C	Follicle cell protein 3C
 FB:FBgn0028487	f-cup	flyers-cup
 FB:FBgn0000648	fd	furled
-FB:FBgn0004896	fd59A	forkhead domain
+FB:FBgn0004896	fd59A	forkhead domain 59A
 FB:FBgn0000649	fdg	fibrillar dysgenesis
 FB:FBgn0011768	Fdh	Formaldehyde dehydrogenase
-FB:FBgn0011769	Fdx1	Ferredoxin
+FB:FBgn0011769	Fdx1	Ferredoxin 1
 FB:FBgn0265047	FDY	flagrante delicto Y
 FB:FBgn0000650	febA	feeding behavior A
 FB:FBgn0266268	FeCH	Ferrochelatase
 FB:FBgn0034542	Fem-1	Fem-1
 FB:FBgn0041252	Femcoat	Femcoat
-FB:FBgn0025832	Fen1	Flap endonuclease
+FB:FBgn0025832	Fen1	Flap endonuclease 1
 FB:FBgn0030090	fend	forked end
 FB:FBgn0024239	feng	feng
 FB:FBgn0030241	feo	fascetto
 FB:FBgn0000723	FER	FER tyrosine kinase
-FB:FBgn0037475	Fer1	48 related
+FB:FBgn0037475	Fer1	48 related 1
 FB:FBgn0015221	Fer2LCH	Ferritin 2 light chain homologue
 FB:FBgn0063437	ferm	ferm
 FB:FBgn0083091	fermata	fermata
@@ -2861,7 +2862,7 @@ FB:FBgn0014164	fez	freeze
 FB:FBgn0000653	ff	fluff
 FB:FBgn0062533	ff3	ff3
 FB:FBgn0062532	ff6	ff6
-FB:FBgn0031871	Fgop2	Fibroblast growth factor receptor 1 oncogene partner
+FB:FBgn0031871	Fgop2	Fibroblast growth factor receptor 1 oncogene partner 2
 FB:FBgn0030092	fh	frataxin
 FB:FBgn0266084	Fhos	Formin homology 2 domain containing
 FB:FBgn0000655	fi	frail
@@ -2880,18 +2881,18 @@ FB:FBgn0085397	Fili	Fish-lips
 FB:FBgn0082672	Fill	Firewall
 FB:FBgn0024238	Fim	Fimbrin
 FB:FBgn0000657	fin	finer
-FB:FBgn0037255	Fip1	Factor interacting with poly(A) polymerase
-FB:FBgn0015731	Fip2	Ftz-interacting protein
+FB:FBgn0037255	Fip1	Factor interacting with poly(A) polymerase 1
+FB:FBgn0015731	Fip2	Ftz-interacting protein 2
 FB:FBgn0004829	fir	fireworks
 FB:FBgn0032405	firl	firelighter
-FB:FBgn0039969	Fis1	Fission, mitochondrial
+FB:FBgn0039969	Fis1	Fission, mitochondrial 1
 FB:FBgn0038914	fit	female-specific independent of transformer
-FB:FBgn0035498	Fit1	Fermitin
+FB:FBgn0035498	Fit1	Fermitin 1
 FB:FBgn0015938	fits	fades in the stretch
 FB:FBgn0030594	fiz	fezzik
 FB:FBgn0000658	fj	four-jointed
 FB:FBgn0020858	fj-s	four-jointed-similis
-FB:FBgn0010470	Fkbp14	FK506-binding protein
+FB:FBgn0010470	Fkbp14	FK506-binding protein 14
 FB:FBgn0000659	fkh	fork head
 FB:FBgn0067776	fkl	fraenkel
 FB:FBgn0000660	fl	fluted
@@ -2905,24 +2906,24 @@ FB:FBgn0029085	flc	fleece
 FB:FBgn0000664	fle	femaleless
 FB:FBgn0042643	flexin	flexin
 FB:FBgn0024555	flfl	falafel
-FB:FBgn0000666	fli-385	flightless
+FB:FBgn0000666	fli-385	flightless 385
 FB:FBgn0037229	flip	flippy
 FB:FBgn0041154	flk	flanker
 FB:FBgn0005051	fll	flyless
 FB:FBgn0005633	fln	flightin
 FB:FBgn0000674	flo	fiber loop
-FB:FBgn0024754	Flo1	Flotillin
+FB:FBgn0024754	Flo1	Flotillin 1
 FB:FBgn0000675	flp	flipper
 FB:FBgn0260049	flr	flare
-FB:FBgn0000677	flrd397	flight reduced
+FB:FBgn0000677	flrd397	flight reduced 397
 FB:FBgn0005052	flu	fluorouracil response
 FB:FBgn0000710	Flutter	Flutter
 FB:FBgn0000711	flw	flapwing
 FB:FBgn0286782	flz	filzig
 FB:FBgn0002702	fme	focal melanosis
 FB:FBgn0000714	fmf	factor for male fertility
-FB:FBgn0033079	Fmo-2	Flavin-containing monooxygenase
-FB:FBgn0028734	Fmr1	Fragile X messenger ribonucleoprotein
+FB:FBgn0033079	Fmo-2	Flavin-containing monooxygenase 2
+FB:FBgn0028734	Fmr1	Fragile X messenger ribonucleoprotein 1
 FB:FBgn0000715	FMRFa	FMRFamide
 FB:FBgn0011590	fms(445B)	fms(445B)
 FB:FBgn0035688	fmt	fiery mountain
@@ -2935,17 +2936,17 @@ FB:FBgn0042642	fof	failure to fuse
 FB:FBgn0024236	foi	fear-of-intimacy
 FB:FBgn0084305	foil	foiled coil
 FB:FBgn0263773	fok	fledgling of Klp38B
-FB:FBgn0066116	Fol2	Follistatin-related
+FB:FBgn0066116	Fol2	Follistatin-related 2
 FB:FBgn0032773	fon	fondue
 FB:FBgn0260025	fonseca	fonseca
 FB:FBgn0013441	fop	fop
 FB:FBgn0000721	for	foraging
 FB:FBgn0000718	Forkoid	Forkoid
-FB:FBgn0053556	form3	formin
+FB:FBgn0053556	form3	formin 3
 FB:FBgn0014165	four-play	four-play
 FB:FBgn0013445	fout	fade out
 FB:FBgn0004895	FoxL1	Forkhead box L1
-FB:FBgn0030407	Fpgs1	Folylpolyglutamate synthase
+FB:FBgn0030407	Fpgs1	Folylpolyglutamate synthase 1
 FB:FBgn0026245	fph	fast phase
 FB:FBgn0025373	Fpps	Farnesyl pyrophosphate synthase
 FB:FBgn0000724	fr	fringed
@@ -2956,7 +2957,7 @@ FB:FBgn0000726	Frd	Freckled
 FB:FBgn0016649	Frda	Frda
 FB:FBgn0041153	freshair	freshair
 FB:FBgn0026244	fret	free thinker
-FB:FBgn0036964	FRG1	FSHD region gene
+FB:FBgn0036964	FRG1	FSHD region gene 1
 FB:FBgn0000727	frh	fruh
 FB:FBgn0031815	frj	farjavit
 FB:FBgn0067770	frk	franklin
@@ -2964,12 +2965,12 @@ FB:FBgn0267795	Frl	Formin-like
 FB:FBgn0035612	frm	farmer
 FB:FBgn0029769	frma	fra mauro
 FB:FBgn0032225	Frmd5	FERM domain containing
-FB:FBgn0030897	Frq1	Frequenin
+FB:FBgn0030897	Frq1	Frequenin 1
 FB:FBgn0086698	frtz	fritz
 FB:FBgn0004652	fru	fruitless
 FB:FBgn0016081	fry	furry
 FB:FBgn0259878	Fs	Follistatin
-FB:FBgn0010324	Fs1	Female-specific
+FB:FBgn0010324	Fs1	Female-specific 1
 FB:FBgn0025181	fs(1)11-1505	fs(1)11-1505
 FB:FBgn0014166	fs(1)18Da	fs(1)18Da
 FB:FBgn0014167	fs(1)2Ca	fs(1)2Ca
@@ -3041,14 +3042,14 @@ FB:FBgn0001075	ft	fat
 FB:FBgn0011595	FTase?	Farnesyltransferase alpha subunit
 FB:FBgn0019811	ftl2	flightless-2nd
 FB:FBgn0001077	ftz	fushi tarazu
-FB:FBgn0001078	ftz-f1	ftz transcription factor
+FB:FBgn0001078	ftz-f1	ftz transcription factor 1
 FB:FBgn0001079	fu	fused
 FB:FBgn0285958	Fuca	alpha-L-fucosidase
 FB:FBgn0030327	FucT6	alpha1,6-fucosyltransferase
 FB:FBgn0032117	FucTB	alpha1,3-fucosyltransferase B
 FB:FBgn0020852	ful	fuliginosus
-FB:FBgn0029890	Fum2	Fumarase
-FB:FBgn0004509	Fur1	Furin
+FB:FBgn0029890	Fum2	Fumarase 2
+FB:FBgn0004509	Fur1	Furin 1
 FB:FBgn0015943	furrow	furrow
 FB:FBgn0023441	fus	fusilli
 FB:FBgn0031702	fusl	fuseless
@@ -3059,7 +3060,7 @@ FB:FBgn0004373	fwd	four wheel drive
 FB:FBgn0261722	fwe	flower
 FB:FBgn0001084	fy	fuzzy
 FB:FBgn0001085	fz	frizzled
-FB:FBgn0034937	fzr2	fizzy-related
+FB:FBgn0034937	fzr2	fizzy-related 2
 FB:FBgn0001086	fzy	fizzy
 FB:FBgn0001087	g	garnet
 FB:FBgn0062273	G192	G192
@@ -3069,10 +3070,10 @@ FB:FBgn0067103	G6.A	G6.A
 FB:FBgn0031463	G6P	Glucose-6-Phosphatase
 FB:FBgn0084702	G87	G87
 FB:FBgn0040372	G9a	G9a
-FB:FBgn0029818	GAA1	Glycosylphosphatidylinositol anchor attachment
+FB:FBgn0029818	GAA1	Glycosylphosphatidylinositol anchor attachment 1
 FB:FBgn0036927	Gabat	gamma-aminobutyric acid transaminase
 FB:FBgn0031495	GABPI	beta4GalNAcTB pilot
-FB:FBgn0004516	Gad1	Glutamic acid decarboxylase
+FB:FBgn0004516	Gad1	Glutamic acid decarboxylase 1
 FB:FBgn0036627	Gagr	Gag-related
 FB:FBgn0031213	galectin	galectin
 FB:FBgn0035192	galene	galene
@@ -3080,18 +3081,18 @@ FB:FBgn0263199	Galk	Galactokinase
 FB:FBgn0034543	galla-1	galla-1
 FB:FBgn0036107	galla-2	galla-2
 FB:FBgn0263200	Galt	Galactose-1-phosphate uridylyltransferase
-FB:FBgn0053145	GalT1	beta1,3-galactosyltransferase
+FB:FBgn0053145	GalT1	beta1,3-galactosyltransferase 1
 FB:FBgn0015944	gang-of-three	gang of three
-FB:FBgn0001091	Gapdh1	Glyceraldehyde 3 phosphate dehydrogenase
-FB:FBgn0030286	Gapvd1	GTPase activating protein and VPS9 domains
+FB:FBgn0001091	Gapdh1	Glyceraldehyde 3 phosphate dehydrogenase 1
+FB:FBgn0030286	Gapvd1	GTPase activating protein and VPS9 domains 1
 FB:FBgn0026241	gar	gargantua
 FB:FBgn0011824	Gar1	Gar1 ribonucleoprotein
 FB:FBgn0000053	Gart	GART trifunctional enzyme
 FB:FBgn0264560	garz	gartenzwerg
 FB:FBgn0034736	gas	gasoline
 FB:FBgn0031873	Gas41	Gas41
-FB:FBgn0029667	Gas8	Growth arrest specific protein
-FB:FBgn0022398	Gase4	Gastric serine protease
+FB:FBgn0029667	Gas8	Growth arrest specific protein 8
+FB:FBgn0022398	Gase4	Gastric serine protease 4
 FB:FBgn0026077	Gasp	Gasp
 FB:FBgn0033273	Gasz	Gasz
 FB:FBgn0039915	Gat	GABA transporter
@@ -3100,8 +3101,8 @@ FB:FBgn0038391	GATAe	GATAe
 FB:FBgn0001094	gau	gauze
 FB:FBgn0041600	gav	gav
 FB:FBgn0039487	gb	genderblind
-FB:FBgn0051148	Gba1a	Glucocerebrosidase
-FB:FBgn0034199	Gbp1	Growth-blocking peptide
+FB:FBgn0051148	Gba1a	Glucocerebrosidase 1a
+FB:FBgn0034199	Gbp1	Growth-blocking peptide 1
 FB:FBgn0037881	GCC88	GRIP and coiled-coil domain containing 88 kDa
 FB:FBgn0001095	gcd	giant cell defect
 FB:FBgn0266465	GckIII	Germinal centre kinase III
@@ -3128,10 +3129,10 @@ FB:FBgn0023081	gek	genghis khan
 FB:FBgn0020300	geko	geko
 FB:FBgn0010225	Gel	Gelsolin
 FB:FBgn0050011	gem	gemini
-FB:FBgn0011802	Gem3	Gemin
+FB:FBgn0011802	Gem3	Gemin 3
 FB:FBgn0033081	geminin	geminin
 FB:FBgn0263831	Gen	XPG-like endonuclease
-FB:FBgn0039580	Gfat2	Glutamine:fructose-6-phosphate aminotransferase
+FB:FBgn0039580	Gfat2	Glutamine:fructose-6-phosphate aminotransferase 2
 FB:FBgn0250732	gfzf	GST-containing FLYWCH zinc-finger protein
 FB:FBgn0001103	gg	goggle
 FB:FBgn0030141	Gga	Golgi-localized, gamma-adaptin ear containing, ARF binding protein
@@ -3141,9 +3142,9 @@ FB:FBgn0266124	ghi	ghiberti
 FB:FBgn0001104	G?i	G protein alpha subunit i
 FB:FBgn0001153	giantoid	giantoid
 FB:FBgn0005198	gig	gigas
-FB:FBgn0038149	GILT1	Gamma-interferon-inducible lysosomal thiol reductase
+FB:FBgn0038149	GILT1	Gamma-interferon-inducible lysosomal thiol reductase 1
 FB:FBgn0086724	GiM	Genetic interactor of Moesin
-FB:FBgn0034372	Gint3	GDI interacting protein
+FB:FBgn0034372	Gint3	GDI interacting protein 3
 FB:FBgn0011770	Gip	GIP-like
 FB:FBgn0283724	Girdin	Girdin
 FB:FBgn0250823	gish	gilgamesh
@@ -3185,8 +3186,8 @@ FB:FBgn0067769	glissade	glissade
 FB:FBgn0069215	gl-l	glass-like
 FB:FBgn0027090	GlnRS	Glutaminyl-tRNA synthetase
 FB:FBgn0259139	glo	glorund
-FB:FBgn0283450	Glo1	Glyoxalase
-FB:FBgn0027657	glob1	globin
+FB:FBgn0283450	Glo1	Glyoxalase 1
+FB:FBgn0027657	glob1	globin 1
 FB:FBgn0084970	gloin	gloin
 FB:FBgn0029686	Glos	Gaulos
 FB:FBgn0261625	GLS	Glutaminase
@@ -3204,20 +3205,20 @@ FB:FBgn0267823	Gmer	GDP-4-keto-6-deoxy-D-mannose 3,5-epimerase/4-reductase
 FB:FBgn0028894	GMF	Glia maturation factor
 FB:FBgn0001117	gn	glisten
 FB:FBgn0031296	gNac?	germinal nascent polypeptide-associated complex alpha subunit
-FB:FBgn0040321	GNBP3	Gram-negative bacteria binding protein
-FB:FBgn0034511	GNBP-like3	GNBP-like
+FB:FBgn0040321	GNBP3	Gram-negative bacteria binding protein 3
+FB:FBgn0034511	GNBP-like3	GNBP-like 3
 FB:FBgn0001118	gnd	grounded
-FB:FBgn0004913	Gnf1	Germ line transcription factor
+FB:FBgn0004913	Gnf1	Germ line transcription factor 1
 FB:FBgn0040212	Gnpat	Glyceronephosphate O-acyltransferase
 FB:FBgn0039690	Gnpnat	Glucosamine-phosphate N-acetyltransferase
 FB:FBgn0033392	Gnptab	N-acetylglucosamine-1-phosphate transferase subunits alpha and beta
 FB:FBgn0032234	gny	garnysstan
 FB:FBgn0001121	Go	Gold tip
-FB:FBgn0015231	God60D	Godzilla at
+FB:FBgn0015231	God60D	Godzilla at 60D
 FB:FBgn0027528	goe	gone early
 FB:FBgn0052227	gogo	golden goal
 FB:FBgn0004919	gol	goliath
-FB:FBgn0036614	Golgin104	Golgin
+FB:FBgn0036614	Golgin104	Golgin 104
 FB:FBgn0034854	Golgin245	Golgin-245
 FB:FBgn0039188	Golgin84	Golgin-84
 FB:FBgn0029084	gom	gomdanji
@@ -3226,19 +3227,19 @@ FB:FBgn0053052	Gorab	Golgin, RAB6 interacting
 FB:FBgn0001126	gou	gourd
 FB:FBgn0011221	goul	goulash
 FB:FBgn0001127	gp	gap
-FB:FBgn0019984	Gp14B	Glycoprotein
+FB:FBgn0019984	Gp14B	Glycoprotein 14B
 FB:FBgn0013272	Gp150	Gp150
 FB:FBgn0044056	Gpal	Gpal
 FB:FBgn0015233	Gpdh-?	Glycerol 3 phosphate dehydrogenase pseudogene
-FB:FBgn0001128	Gpdh1	Glycerol-3-phosphate dehydrogenase
+FB:FBgn0001128	Gpdh1	Glycerol-3-phosphate dehydrogenase 1
 FB:FBgn0015232	GpHLH	Glial precursor HLH protein
-FB:FBgn0022160	Gpo1	Glycerophosphate oxidase
+FB:FBgn0022160	Gpo1	Glycerophosphate oxidase 1
 FB:FBgn0264495	gpp	grappa
 FB:FBgn0024232	gprs	gprs
 FB:FBgn0001131	gr	gracile
 FB:FBgn0001132	gra	gravel
-FB:FBgn0085423	GramD1B	GRAM domain containing
-FB:FBgn0011597	grap88D	grapes at
+FB:FBgn0085423	GramD1B	GRAM domain containing 1B
+FB:FBgn0011597	grap88D	grapes at 88D
 FB:FBgn0023440	grape	Grape
 FB:FBgn0036919	Grasp65	Grasp65
 FB:FBgn0039494	grass	Gram-positive Specific Serine protease
@@ -3253,7 +3254,7 @@ FB:FBgn0026433	Grip128	Grip128
 FB:FBgn0026432	Grip163	Grip163
 FB:FBgn0032705	Grip71	Grip71
 FB:FBgn0026431	Grip75	Grip75
-FB:FBgn0001612	Grip91	Gamma-tubulin ring protein
+FB:FBgn0001612	Grip91	Gamma-tubulin ring protein 91
 FB:FBgn0001137	grk	gurken
 FB:FBgn0067768	grl	gerlache
 FB:FBgn0001138	grn	grain
@@ -3265,10 +3266,10 @@ FB:FBgn0024231	grr	grater
 FB:FBgn0040493	grsm	granny smith
 FB:FBgn0011222	gru	gruyere
 FB:FBgn0013466	grunt	grunt
-FB:FBgn0030584	Grx5	Glutaredoxin
+FB:FBgn0030584	Grx5	Glutaredoxin 5
 FB:FBgn0286567	gry	gryzun
 FB:FBgn0001141	gs	grandchildless
-FB:FBgn0001142	Gs1	Glutamine synthetase
+FB:FBgn0001142	Gs1	Glutamine synthetase 1
 FB:FBgn0287789	GS1008	GS1008
 FB:FBgn0082670	GS1061	GS1061
 FB:FBgn0287790	GS1203	GS1203
@@ -3281,11 +3282,11 @@ FB:FBgn0082668	GS3132	GS3132
 FB:FBgn0001148	gsb	gooseberry
 FB:FBgn0001147	gsb-n	gooseberry-neuro
 FB:FBgn0010323	Gsc	Goosecoid
-FB:FBgn0004065	Gsg71A	Gastrula-specific transcript
+FB:FBgn0004065	Gsg71A	Gastrula-specific transcript 71A
 FB:FBgn0046332	gskt	gasket
 FB:FBgn0001149	GstD1	Glutathione S transferase D1
 FB:FBgn0069214	gsu	goldstaub
-FB:FBgn0005102	Gt-2	Giant on
+FB:FBgn0005102	Gt-2	Giant on 2
 FB:FBgn0044066	GT49-2-4	GT49-2-4
 FB:FBgn0044065	GT7-45	GT7-45
 FB:FBgn0044064	GTD1-1.1	GTD1-1.1
@@ -3297,7 +3298,7 @@ FB:FBgn0044059	GTD74-295-1	GTD74-295-1
 FB:FBgn0044058	GTD74-61-3	GTD74-61-3
 FB:FBgn0044057	GTD74-77.3	GTD74-77.3
 FB:FBgn0022330	gtw	gtw
-FB:FBgn0003208	gua1	guanosine
+FB:FBgn0003208	gua1	guanosine 1
 FB:FBgn0260021	guantanamera	guantanamera
 FB:FBgn0031905	gudu	gudu
 FB:FBgn0010825	Gug	Grunge
@@ -3316,7 +3317,7 @@ FB:FBgn0051992	gw	gawky
 FB:FBgn0260399	gwl	greatwall
 FB:FBgn0036545	GXIVsPLA2	GXIVsPLA2
 FB:FBgn0001166	gy	gouty legs
-FB:FBgn0010197	Gyc32E	Guanylyl cyclase at
+FB:FBgn0010197	Gyc32E	Guanylyl cyclase at 32E
 FB:FBgn0039936	Gyf	Gigyf
 FB:FBgn0265191	Gyg	Glycogenin
 FB:FBgn0014185	gyn-2	gyn-2
@@ -3335,7 +3336,7 @@ FB:FBgn0067097	H71	H71
 FB:FBgn0067096	H84	H84
 FB:FBgn0001171	ha	hair bristles
 FB:FBgn0026233	hab	habanero
-FB:FBgn0032394	Hacd1	3-hydroxyacyl-CoA dehydratase
+FB:FBgn0032394	Hacd1	3-hydroxyacyl-CoA dehydratase 1
 FB:FBgn0034488	Hacl	2-hydroxyacyl-CoA lyase
 FB:FBgn0261509	haf	hattifattener
 FB:FBgn0032812	Hakai	Hakai
@@ -3379,23 +3380,23 @@ FB:FBgn0010113	heca	headcase
 FB:FBgn0261931	Hecw	Hecw ubiquitin protein ligase
 FB:FBgn0041753	hedera	hedera
 FB:FBgn0028375	heix	heixuedian
-FB:FBgn0014189	Hel25E	Helicase at
+FB:FBgn0014189	Hel25E	Helicase at 25E
 FB:FBgn0083088	hella	hella
 FB:FBgn0011771	Hem	HEM-protein
 FB:FBgn0025369	Hemagglutinin	Hemagglutinin
-FB:FBgn0031454	HemK2	HemK methyltransferase
+FB:FBgn0031454	HemK2	HemK methyltransferase 2
 FB:FBgn0262823	hemo	hemotin
 FB:FBgn0033686	Hen1	Hen1 methyltransferase
 FB:FBgn0010303	hep	hemipterous
 FB:FBgn0011224	heph	hephaestus
 FB:FBgn0001185	her	hermaphrodite
-FB:FBgn0031107	HERC2	HECT and RLD domain containing protein
+FB:FBgn0031107	HERC2	HECT and RLD domain containing protein 2
 FB:FBgn0031950	Herp	Homocysteine-induced endoplasmic reticulum protein
 FB:FBgn0030899	Hesr	HES-related
 FB:FBgn0001186	Hex-A	Hexokinase A
 FB:FBgn0041752	hexe	hexe
 FB:FBgn0038251	Hexim	Hexamethylene bisacetamide inducible
-FB:FBgn0041629	Hexo2	Hexosaminidase
+FB:FBgn0041629	Hexo2	Hexosaminidase 2
 FB:FBgn0027788	Hey	Hairy/E(spl)-related with YRPW motif
 FB:FBgn0036057	Hez	Hezron
 FB:FBgn0014000	Hf	Helical Factor
@@ -3414,12 +3415,12 @@ FB:FBgn0020652	HIF	Hypoxia Inducible Factor
 FB:FBgn0010114	hig	hikaru genki
 FB:FBgn0050147	Hil	Hillarin
 FB:FBgn0030900	Him	Holes in muscle
-FB:FBgn0031459	HINT1	histidine triad nucleotide binding protein
-FB:FBgn0036309	Hip1	Huntingtin interacting protein
-FB:FBgn0259824	Hip14	Huntingtin-interacting protein
-FB:FBgn0025929	hip7	hb-interacting protein
+FB:FBgn0031459	HINT1	histidine triad nucleotide binding protein 1
+FB:FBgn0036309	Hip1	Huntingtin interacting protein 1
+FB:FBgn0259824	Hip14	Huntingtin-interacting protein 14
+FB:FBgn0025929	hip7	hb-interacting protein 7
 FB:FBgn0036815	HipHop	HP1-HOAP-interacting protein
-FB:FBgn0037027	HIPP1	HP1 and insulator partner protein
+FB:FBgn0037027	HIPP1	HP1 and insulator partner protein 1
 FB:FBgn0029676	HIP-R	Hsc/Hsp70-interacting protein related
 FB:FBgn0001194	hir	heterochromatic recombination inducer
 FB:FBgn0022786	Hira	Hira
@@ -3537,7 +3538,7 @@ FB:FBgn0053903	His4:CG33903	His4:CG33903
 FB:FBgn0053905	His4:CG33905	His4:CG33905
 FB:FBgn0053907	His4:CG33907	His4:CG33907
 FB:FBgn0053909	His4:CG33909	His4:CG33909
-FB:FBgn0037950	HisCl1	Histamine-gated chloride channel subunit
+FB:FBgn0037950	HisCl1	Histamine-gated chloride channel subunit 1
 FB:FBgn0051614	His-?:CR31614	His-Psi:CR31614
 FB:FBgn0051615	His-?:CR31615	His-Psi:CR31615
 FB:FBgn0051616	His-?:CR31616	His-Psi:CR31616
@@ -3553,7 +3554,7 @@ FB:FBgn0030600	hiw	highwire
 FB:FBgn0263220	Hk	Hyperkinetic
 FB:FBgn0261434	hkb	huckebein
 FB:FBgn0023438	hl	halteroptera
-FB:FBgn0011276	HLH3B	Helix loop helix protein
+FB:FBgn0011276	HLH3B	Helix loop helix protein 3B
 FB:FBgn0020426	HLH44A	HLH44A
 FB:FBgn0022740	HLH54F	HLH54F
 FB:FBgn0010482	hlk	hulk
@@ -3600,13 +3601,13 @@ FB:FBgn0010228	HmgZ	HMG protein Z
 FB:FBgn0029167	Hml	Hemolectin
 FB:FBgn0023499	HmpII	HmpII
 FB:FBgn0001206	Hmr	Hybrid male rescue
-FB:FBgn0038376	Hmt-1	Heavy metal tolerance factor
+FB:FBgn0038376	Hmt-1	Heavy metal tolerance factor 1
 FB:FBgn0015737	Hmu	Hemomucin
 FB:FBgn0038607	hmw	hemingway
 FB:FBgn0264005	Hmx	H6-like-homeobox
 FB:FBgn0001208	Hn	Henna
 FB:FBgn0024229	hnc13	hnc13
-FB:FBgn0004914	Hnf4	Hepatocyte nuclear factor
+FB:FBgn0004914	Hnf4	Hepatocyte nuclear factor 4
 FB:FBgn0034599	hng1	hinge1
 FB:FBgn0037634	hng2	hinge2
 FB:FBgn0035160	hng3	hinge3
@@ -3629,20 +3630,20 @@ FB:FBgn0024228	hopR-90E	hop-responsive-90E
 FB:FBgn0030944	Hou	Houki
 FB:FBgn0264491	how	held out wings
 FB:FBgn0001212	hp	humped
-FB:FBgn0030082	HP1b	Heterochromatin Protein
+FB:FBgn0030082	HP1b	Heterochromatin Protein 1b
 FB:FBgn0001213	hpa	hyperantenna
-FB:FBgn0001214	Hpb	Hydroxyphenyl buten
+FB:FBgn0001214	Hpb	Hydroxyphenyl buten 1
 FB:FBgn0036992	Hpd	4-hydroxyphenylpyruvate dioxygenase
 FB:FBgn0264785	Hph	HIF prolyl hydroxylase
 FB:FBgn0261456	hpo	hippo
 FB:FBgn0263395	hppy	happyhour
 FB:FBgn0037382	Hpr1	Hpr1
-FB:FBgn0033973	HPS1	Hermansky-Pudlak Syndrome
-FB:FBgn0000448	Hr3	Hormone receptor
-FB:FBgn0015239	Hr78	Hormone-receptor-like in
+FB:FBgn0033973	HPS1	Hermansky-Pudlak Syndrome 1
+FB:FBgn0000448	Hr3	Hormone receptor 3
+FB:FBgn0015239	Hr78	Hormone-receptor-like in 78
 FB:FBgn0017602	Hrb3	Hrb3
 FB:FBgn0001215	Hrb98DE	Heterogeneous nuclear ribonucleoprotein at 98DE
-FB:FBgn0028475	Hrd3	HMG-coA reductase degradation
+FB:FBgn0028475	Hrd3	HMG-coA reductase degradation 3
 FB:FBgn0015949	hrg	hiiragi
 FB:FBgn0033028	hrm	hermes
 FB:FBgn0065988	hrn	heron
@@ -3655,13 +3656,13 @@ FB:FBgn0016668	Hrp70	Hrp70
 FB:FBgn0016669	Hrp75	Hrp75
 FB:FBgn0001168	hry	hairy
 FB:FBgn0024230	Hs2st	Heparan sulfate 2-O-sulfotransferase
-FB:FBgn0001216	Hsc70-1	Heat shock protein 70 cognate
-FB:FBgn0039537	Hsdl2	Hydroxysteroid dehydrogenase like
+FB:FBgn0001216	Hsc70-1	Heat shock protein 70 cognate 1
+FB:FBgn0039537	Hsdl2	Hydroxysteroid dehydrogenase like 2
 FB:FBgn0015950	hsk	helter-skelter
 FB:FBgn0034491	Hsl	Hormone-sensitive lipase
 FB:FBgn0286924	Hsp70	Heat-shock-protein-70
-FB:FBgn0263025	HSPBAP1	HSPB1 associated protein
-FB:FBgn0061198	HSPC300	Haematopoietic stem/progenitor cell protein
+FB:FBgn0263025	HSPBAP1	HSPB1 associated protein 1
+FB:FBgn0061198	HSPC300	Haematopoietic stem/progenitor cell protein 300
 FB:FBgn0001235	hth	homothorax
 FB:FBgn0085451	htk	hat-trick
 FB:FBgn0010389	htl	heartless
@@ -3678,7 +3679,7 @@ FB:FBgn0004126	hum	humilis
 FB:FBgn0005110	Humeral-patch	Humeral patch
 FB:FBgn0001237	hup	hold up
 FB:FBgn0026417	Hus1-like	Hus1-like
-FB:FBgn0030674	HUWE1	HECT, UBA and WWE domain containing E3 ubiquitin protein ligase
+FB:FBgn0030674	HUWE1	HECT, UBA and WWE domain containing E3 ubiquitin protein ligase 1
 FB:FBgn0001238	hv	heavy vein
 FB:FBgn0264542	hwt	heavyweight
 FB:FBgn0001240	Hx	Hexaptera
@@ -3690,8 +3691,8 @@ FB:FBgn0031128	hydra	hydra
 FB:FBgn0014194	hyl	hyl
 FB:FBgn0087041	Hyls1	Hyls1 centriolar and ciliogenesis associated
 FB:FBgn0069212	hyp-K	hyp-K
-FB:FBgn0022780	Hypnos-1	Hypoxia, anoxia, sensitive
-FB:FBgn0022735	hypnos-3	hypoxia, anoxia, sensitive
+FB:FBgn0022780	Hypnos-1	Hypoxia, anoxia, sensitive 1
+FB:FBgn0022735	hypnos-3	hypoxia, anoxia, sensitive 3
 FB:FBgn0041148	hypnos-P	hypnos-P
 FB:FBgn0001242	hypoA	hypoactive A
 FB:FBgn0069211	hyp-Xh	hyp-Xh
@@ -3702,7 +3703,7 @@ FB:FBgn0067090	I10	I10
 FB:FBgn0067089	I16	I16
 FB:FBgn0028429	I-2	Inhibitor-2
 FB:FBgn0261624	I-3	Inhibitor-3
-FB:FBgn0015738	I-55	screen I - clone
+FB:FBgn0015738	I-55	screen I - clone 55
 FB:FBgn0031294	IA-2	IA-2 protein tyrosine phosphatase
 FB:FBgn0065987	iab-3-2.s	iab-3-2.s
 FB:FBgn0065986	iab-4-1.s	iab-4-1.s
@@ -3720,7 +3721,7 @@ FB:FBgn0065977	iab-8E.s	iab-8E.s
 FB:FBgn0086693	iav	inactive
 FB:FBgn0265577	IBIN	Induced by Infection
 FB:FBgn0037050	ICA69	Islet cell autoantigen 69 kDa
-FB:FBgn0034853	Ice1	Interacts with the C terminus of ELL
+FB:FBgn0034853	Ice1	Interacts with the C terminus of ELL 1
 FB:FBgn0286204	ich	ichor
 FB:FBgn0029079	icln	icln
 FB:FBgn0036336	Icmt	Isoprenylcysteine carboxyl methyltransferase
@@ -3728,7 +3729,7 @@ FB:FBgn0028546	ics	icarus
 FB:FBgn0041147	ida	imaginal discs arrested
 FB:FBgn0038768	idc	identity crisis
 FB:FBgn0001247	Ide	Insulin degrading metalloproteinase
-FB:FBgn0013763	Idgf6	Imaginal disc growth factor
+FB:FBgn0013763	Idgf6	Imaginal disc growth factor 6
 FB:FBgn0001248	Idh	Isocitrate dehydrogenase
 FB:FBgn0038876	Idi	Isopentenyl-diphosphate delta isomerase
 FB:FBgn0020850	idr	indora
@@ -3736,10 +3737,10 @@ FB:FBgn0035445	Ids	Iduronate 2-sulfatase
 FB:FBgn0032343	Idua	alpha-L-iduronidase
 FB:FBgn0001250	if	inflated
 FB:FBgn0001941	ifc	infertile crescent
-FB:FBgn0004683	Ifm(2)11	Indirect flight muscle (2)
+FB:FBgn0004683	Ifm(2)11	Indirect flight muscle (2) 11
 FB:FBgn0028634	ifm(2)RU8	indirect flight muscle (2) RU8
-FB:FBgn0051694	Ifrd1	Interferon-related developmental regulator
-FB:FBgn0031550	IFT57	Intraflagellar transport
+FB:FBgn0051694	Ifrd1	Interferon-related developmental regulator 1
+FB:FBgn0031550	IFT57	Intraflagellar transport 57
 FB:FBgn0019805	ifx	iron felix
 FB:FBgn0013467	igl	igloo
 FB:FBgn0263397	Ih	I[[h]] channel
@@ -3747,14 +3748,14 @@ FB:FBgn0031872	ihog	interference hedgehog
 FB:FBgn0066363	ikar	ikar
 FB:FBgn0024222	IKK?	I-kappaB kinase beta
 FB:FBgn0027086	IleRS	Isoleucyl-tRNA synthetase
-FB:FBgn0036046	Ilp2	Insulin-like peptide
+FB:FBgn0036046	Ilp2	Insulin-like peptide 2
 FB:FBgn0001252	im	interrupted margin
 FB:FBgn0043896	im(1)179	im(1)179
 FB:FBgn0011602	IM137	IM137
 FB:FBgn0043895	im(1)457	im(1)457
-FB:FBgn0031561	IM33	Immune induced molecule
+FB:FBgn0031561	IM33	Immune induced molecule 33
 FB:FBgn0013983	imd	immune deficiency
-FB:FBgn0035227	Iml1	Increased minichromosome loss
+FB:FBgn0035227	Iml1	Increased minichromosome loss 1
 FB:FBgn0285926	Imp	IGF-II mRNA-binding protein
 FB:FBgn0001253	ImpE1	Ecdysone-inducible gene E1
 FB:FBgn0001259	in	inturned
@@ -3773,7 +3774,7 @@ FB:FBgn0035213	indra	indra
 FB:FBgn0036816	Indy	I'm not dead yet
 FB:FBgn0011603	ine	inebriated
 FB:FBgn0082591	inferno	inferno
-FB:FBgn0030945	Ing3	Inhibitor of growth family, member
+FB:FBgn0030945	Ing3	Inhibitor of growth family, member 3
 FB:FBgn0289122	Ino80	INO80 complex subunit
 FB:FBgn0025885	Inos	myo-inositol-1-phosphate synthase
 FB:FBgn0013281	Inr-Adh	Inverse-regulator-Adh
@@ -3784,20 +3785,20 @@ FB:FBgn0011674	insc	inscuteable
 FB:FBgn0031434	insv	insensitive
 FB:FBgn0039599	intr	intrepid
 FB:FBgn0001268	intro	introverted
-FB:FBgn0026679	IntS4	Integrator
+FB:FBgn0026679	IntS4	Integrator 4
 FB:FBgn0001269	inv	invected
 FB:FBgn0086359	Invadolysin	Invadolysin
-FB:FBgn0027106	Inx7	Innexin
-FB:FBgn0025366	Ip259	Intronic Protein
+FB:FBgn0027106	Inx7	Innexin 7
+FB:FBgn0025366	Ip259	Intronic Protein 259
 FB:FBgn0036053	iPLA2-VIA	calcium-independent phospholipase A2 VIA
-FB:FBgn0037894	Ipo9	Importin
-FB:FBgn0029961	Ir7a	Ionotropic receptor
+FB:FBgn0037894	Ipo9	Importin 9
+FB:FBgn0029961	Ir7a	Ionotropic receptor 7a
 FB:FBgn0011774	Irbp	Inverted repeat-binding protein
 FB:FBgn0038465	Irc	Immune-regulated catalase
 FB:FBgn0261984	Ire1	Inositol-requiring enzyme-1
 FB:FBgn0031305	Iris	Iris
-FB:FBgn0032706	Irk3	Inwardly rectifying potassium channel
-FB:FBgn0024957	Irp-1B	Iron regulatory protein
+FB:FBgn0032706	Irk3	Inwardly rectifying potassium channel 3
+FB:FBgn0024957	Irp-1B	Iron regulatory protein 1B
 FB:FBgn0001270	irreA	irregular optic chiasma A
 FB:FBgn0037653	Iru	Iruka
 FB:FBgn0001274	Is	Isis
@@ -3824,7 +3825,7 @@ FB:FBgn0037374	jagn	jagunal
 FB:FBgn0014970	jal	jalapeno
 FB:FBgn0001280	janA	janus A
 FB:FBgn0011225	jar	jaguar
-FB:FBgn0036004	Jarid2	Jumonji, AT rich interactive domain
+FB:FBgn0036004	Jarid2	Jumonji, AT rich interactive domain 2
 FB:FBgn0031104	jb	jean-baptiste
 FB:FBgn0028371	jbug	jitterbug
 FB:FBgn0027654	jdp	jdp
@@ -3835,7 +3836,7 @@ FB:FBgn0023435	jew	jewel
 FB:FBgn0010052	Jhe	Juvenile hormone esterase
 FB:FBgn0028423	JhI-4	JhI-4
 FB:FBgn0038239	Jig	Jig
-FB:FBgn0039350	jigr1	jing interacting gene regulatory
+FB:FBgn0039350	jigr1	jing interacting gene regulatory 1
 FB:FBgn0020412	JIL-1	JIL-1 kinase
 FB:FBgn0027339	jim	jim
 FB:FBgn0069430	JJF004	JJF004
@@ -3866,12 +3867,12 @@ FB:FBgn0069406	JJF237	JJF237
 FB:FBgn0067087	JK1285	JK1285
 FB:FBgn0067086	JK1469	JK1469
 FB:FBgn0010054	JmA	Ju myoA
-FB:FBgn0032671	JMJD4	Jumonji domain containing
+FB:FBgn0032671	JMJD4	Jumonji domain containing 4
 FB:FBgn0023198	JmY	Ju-myoY
 FB:FBgn0015951	jnh	jekyll and hyde
 FB:FBgn0066361	john	john
 FB:FBgn0024687	jok	just odd knobs
-FB:FBgn0001285	Jon44E	Jonah
+FB:FBgn0001285	Jon44E	Jonah 44E
 FB:FBgn0029853	Josd	Josephin domain containing
 FB:FBgn0032129	jp	junctophilin
 FB:FBgn0001291	Jra	Jun-related antigen
@@ -3894,35 +3895,35 @@ FB:FBgn0010325	K27	K27
 FB:FBgn0067085	K34	K34
 FB:FBgn0041826	KA16-II	KA16-II
 FB:FBgn0035144	Kah	Kahuli
-FB:FBgn0038837	KaiR1D	Kainate-type ionotropic glutamate receptor subunit
+FB:FBgn0038837	KaiR1D	Kainate-type ionotropic glutamate receptor subunit 1D
 FB:FBgn0030913	kairos	kairos
-FB:FBgn0039155	Kal1	Kallmann syndrome
+FB:FBgn0039155	Kal1	Kallmann syndrome 1
 FB:FBgn0065972	kali	kali
 FB:FBgn0027596	Kank	Kank
 FB:FBgn0024889	Kap-?1	karyopherin alpha1
 FB:FBgn0001296	kar	karmoisin
 FB:FBgn0030334	Karl	Karl
 FB:FBgn0040784	karr	karr
-FB:FBgn0087013	Kary?3	Karyopherin beta
+FB:FBgn0087013	Kary?3	Karyopherin beta 3
 FB:FBgn0015398	kasa	kasa
-FB:FBgn0040208	Kat60	Katanin
-FB:FBgn0037375	kat-60L1	katanin p60-like
+FB:FBgn0040208	Kat60	Katanin 60
+FB:FBgn0037375	kat-60L1	katanin p60-like 1
 FB:FBgn0001297	kay	kayak
 FB:FBgn0051357	Kaz	Katazuke
 FB:FBgn0063924	Kaz1-ORFA	Kaz1-ORFA
 FB:FBgn0063923	Kaz1-ORFB	Kaz1-ORFB
 FB:FBgn0002578	Kaz-m1	Kazal-type protease inhibitor m1
 FB:FBgn0261794	kcc	kazachoc
-FB:FBgn0037655	Kcmf1	Potassium channel modulatory factor
+FB:FBgn0037655	Kcmf1	Potassium channel modulatory factor 1
 FB:FBgn0033494	KCNQ	KCNQ potassium channel
 FB:FBgn0267330	KdelR	KDEL receptor
-FB:FBgn0031759	Kdm5	Lysine demethylase
+FB:FBgn0031759	Kdm5	Lysine demethylase 5
 FB:FBgn0261955	kdn	knockdown
 FB:FBgn0039304	Kdsr	3-ketodihydrosphingosine reductase
 FB:FBgn0001299	kdu	kudu
 FB:FBgn0038475	Keap1	Keap1
 FB:FBgn0028952	Kebab	Kinetochore and EB1 associated basic protein
-FB:FBgn0015399	kek1	kekkon
+FB:FBgn0015399	kek1	kekkon 1
 FB:FBgn0001301	kel	kelch
 FB:FBgn0011236	ken	ken and barbie
 FB:FBgn0010504	kermit	kermit
@@ -3946,13 +3947,13 @@ FB:FBgn0001310	kk	kinky
 FB:FBgn0001311	kkv	krotzkopf verkehrt
 FB:FBgn0001312	kl-1	male fertility factor kl1
 FB:FBgn0001316	klar	klarsicht
-FB:FBgn0025679	Klf15	Kruppel-like factor
+FB:FBgn0025679	Klf15	Kruppel-like factor 15
 FB:FBgn0017590	klg	klingon
-FB:FBgn0037978	KLHL18	Kelch like family member
-FB:FBgn0004378	Klp61F	Kinesin-like protein at
+FB:FBgn0037978	KLHL18	Kelch like family member 18
+FB:FBgn0004378	Klp61F	Kinesin-like protein at 61F
 FB:FBgn0013469	klu	klumpfuss
 FB:FBgn0032473	kmg	kumgang
-FB:FBgn0027259	Kmn1	kinetochore Mis12-Ndc80 network component
+FB:FBgn0027259	Kmn1	kinetochore Mis12-Ndc80 network component 1
 FB:FBgn0085412	kmr	kramer
 FB:FBgn0001319	kn	knot
 FB:FBgn0024686	knax	knobby axons
@@ -3969,7 +3970,7 @@ FB:FBgn0032683	kon	kon-tiki
 FB:FBgn0038191	Kots	Kotsubu
 FB:FBgn0026064	KP78a	KP78a
 FB:FBgn0026063	KP78b	KP78b
-FB:FBgn0028372	Kpc2	Kip1 ubiquitination-promoting complex subunit
+FB:FBgn0028372	Kpc2	Kip1 ubiquitination-promoting complex subunit 2
 FB:FBgn0001325	Kr	Kruppel
 FB:FBgn0250753	kra	krasavietz
 FB:FBgn0020545	kraken	kraken
@@ -3977,7 +3978,7 @@ FB:FBgn0035639	kri	krishah
 FB:FBgn0034098	krimp	krimper
 FB:FBgn0069209	krk	krake
 FB:FBgn0052179	Krn	Keren
-FB:FBgn0020647	KrT95D	Krueppel target at
+FB:FBgn0020647	KrT95D	Krueppel target at 95D
 FB:FBgn0040206	krz	kurtz
 FB:FBgn0040890	ksh	kish
 FB:FBgn0028632	ksh-15	ksh-15
@@ -4010,15 +4011,15 @@ FB:FBgn0000049	l(1)adl1	lethal (1) adl1
 FB:FBgn0001815	l(1)ne	nonevaginated
 FB:FBgn0083084	l(2)42Ac	l(2)42Ac
 FB:FBgn0083083	l(2)49Fn	l(2)49Fn
-FB:FBgn0020841	l(2)BV238	Blacksburg, VA
-FB:FBgn0020839	l(2)CP241	Canonsburg, PA
+FB:FBgn0020841	l(2)BV238	Blacksburg, VA 238
+FB:FBgn0020839	l(2)CP241	Canonsburg, PA 241
 FB:FBgn0013548	l(2)dtl	lethal-(2)-denticleless
-FB:FBgn0020837	l(2)F9	Florida
+FB:FBgn0020837	l(2)F9	Florida 9
 FB:FBgn0032729	L2HGDH	L-2-hydroxyglutarate dehydrogenase
 FB:FBgn0027161	l(2)KC-E	l(2)Karp and Cherbas E
 FB:FBgn0020834	l(2)Mass	Massachusetts
 FB:FBgn0020833	l(2)NA	North Amherst, Mass
-FB:FBgn0020830	l(2)PW8	Pullman, Washington
+FB:FBgn0020830	l(2)PW8	Pullman, Washington 8
 FB:FBgn0020829	l(2)SA	South Amherst, Mass
 FB:FBgn0020827	l(2)WO	Wooster, Ohio
 FB:FBgn0084437	l(3)76BDj	l(3)76BDj
@@ -4054,7 +4055,7 @@ FB:FBgn0015508	lali	lali
 FB:FBgn0002525	Lam	Lamin
 FB:FBgn0016031	lama	lamina ancestor
 FB:FBgn0032949	Lamp1	Lamp1
-FB:FBgn0026090	Lamtor5	Late endosomal/lysosomal adaptor, MAPK and MTOR activator
+FB:FBgn0026090	Lamtor5	Late endosomal/lysosomal adaptor, MAPK and MTOR activator 5
 FB:FBgn0002526	LanA	Laminin A
 FB:FBgn0261800	LanB1	LanB1
 FB:FBgn0086372	lap	like-AP180
@@ -4062,7 +4063,7 @@ FB:FBgn0033984	Lap1	Lap1
 FB:FBgn0002529	Lap-A	Leucine aminopeptidase A
 FB:FBgn0000464	Lar	Leukocyte-antigen-related-like
 FB:FBgn0011640	lark	lark
-FB:FBgn0035424	Larp4B	La-related protein
+FB:FBgn0035424	Larp4B	La-related protein 4B
 FB:FBgn0004966	larv	larvaphile
 FB:FBgn0029158	Las	Lipoic acid synthase
 FB:FBgn0066344	laska	laska
@@ -4070,8 +4071,8 @@ FB:FBgn0063485	Lasp	Lasp
 FB:FBgn0037163	laza	lazaro
 FB:FBgn0034083	lbk	lambik
 FB:FBgn0008651	lbl	ladybird late
-FB:FBgn0010240	Lcch3	Ligand-gated chloride channel homolog
-FB:FBgn0002531	Lcp1	Larval cuticle protein
+FB:FBgn0010240	Lcch3	Ligand-gated chloride channel homolog 3
+FB:FBgn0002531	Lcp1	Larval cuticle protein 1
 FB:FBgn0020646	Lcp65A?	Lcp65APsi
 FB:FBgn0020645	Lcp65Aa	Lcp65Aa
 FB:FBgn0020644	Lcp65Ab1	Lcp65Ab1
@@ -4088,7 +4089,7 @@ FB:FBgn0035838	ldbr	lariat debranching enzyme
 FB:FBgn0083956	ldd	lipid droplet defective
 FB:FBgn0001258	Ldh	Lactate dehydrogenase
 FB:FBgn0002542	lds	lodestar
-FB:FBgn0029994	Ldsdh1	Lipid droplet subset dehydrogenase
+FB:FBgn0029994	Ldsdh1	Lipid droplet subset dehydrogenase 1
 FB:FBgn0037856	Leash	Leash
 FB:FBgn0040107	lectin-21Ca	lectin-21Ca
 FB:FBgn0040106	lectin-21Cb	lectin-21Cb
@@ -4131,7 +4132,7 @@ FB:FBgn0020279	lig	lingerer
 FB:FBgn0027539	lili	lilipod
 FB:FBgn0041111	lilli	lilliputian
 FB:FBgn0027954	lim	legs incomplete and malformed
-FB:FBgn0026411	Lim1	LIM homeobox
+FB:FBgn0026411	Lim1	LIM homeobox 1
 FB:FBgn0002023	Lim3	Lim3
 FB:FBgn0029005	limber	limber
 FB:FBgn0016997	limbo	limbo
@@ -4144,15 +4145,15 @@ FB:FBgn0035626	lin-28	lin-28
 FB:FBgn0029800	lin-52	lin-52
 FB:FBgn0083081	linc	lincoyan
 FB:FBgn0033855	link	link
-FB:FBgn0030274	Lint-1	l(3)mbt interacting protein
+FB:FBgn0030274	Lint-1	l(3)mbt interacting protein 1
 FB:FBgn0024993	Lint-O	L(3)mbt interactor in ovarian somatic cells
-FB:FBgn0023495	Lip3	Lipase
+FB:FBgn0023495	Lip3	Lipase 3
 FB:FBgn0041202	Lipocalin	Lipocalin
 FB:FBgn0034720	Liprin-?	Liprin-gamma
 FB:FBgn0036376	Liprin-?	Liprin-beta
 FB:FBgn0046704	Liprin-?	Liprin-alpha
-FB:FBgn0265178	Lipt1	Lipoyltransferase
-FB:FBgn0037251	Lipt2	Lipoyl(octanoyl) transferase
+FB:FBgn0265178	Lipt1	Lipoyltransferase 1
+FB:FBgn0037251	Lipt2	Lipoyl(octanoyl) transferase 2
 FB:FBgn0066343	lis	lis
 FB:FBgn0015754	Lis-1	Lissencephaly-1
 FB:FBgn0034381	List	Lithium-inducible SLC6 transporter
@@ -4169,6 +4170,15 @@ FB:FBgn0002556	lme	lame
 FB:FBgn0085470	lmgB	lemming B
 FB:FBgn0261565	Lmpt	Limpet
 FB:FBgn0034520	lms	lateral muscles scarcer
+FB:FBgn0020556	lncRNA:bxd	bithoraxoid
+FB:FBgn0052865	lncRNA:??-element:CR32865	alphagamma-element:CR32865
+FB:FBgn0286870	lncRNA:enrr	elav noncoding regulatory RNA
+FB:FBgn0267704	lncRNA:flam	flamenco
+FB:FBgn0051451	lncRNA:mimi	mimi
+FB:FBgn0019660	lncRNA:roX2	long non-coding RNA on the X 2
+FB:FBgn0286868	lncRNA:SMRG	Scutellar Macrochaetes Regulatory Gene
+FB:FBgn0287633	lncRNA:Vinr	VSR interacting RNA
+FB:FBgn0266568	lncRNA:yar	yellow-achaete intergenic RNA
 FB:FBgn0028717	Lnk	Lnk
 FB:FBgn0033309	Lnpk	Lunapark
 FB:FBgn0036202	loaf	lost and found
@@ -4186,32 +4196,32 @@ FB:FBgn0264651	loose-caboose	loose caboose
 FB:FBgn0002558	lop	lobula plateless
 FB:FBgn0032515	loqs	loquacious
 FB:FBgn0002559	lot	lot
-FB:FBgn0002560	Lot-1	Lot
+FB:FBgn0002560	Lot-1	Lot 1
 FB:FBgn0267429	lovit	loss of visual transmission
 FB:FBgn0011646	Low	Lightener of white
-FB:FBgn0034660	Loxl2	Lysyl oxidase-like
+FB:FBgn0034660	Loxl2	Lysyl oxidase-like 2
 FB:FBgn0023196	LPA-AT	Lysophosphatidate Acyltransferase
 FB:FBgn0052699	LPCAT	Lysophosphatidylcholine acyltransferase
 FB:FBgn0014338	lphA	larval photokinesis A
 FB:FBgn0263593	Lpin	Lipin
-FB:FBgn0051092	LpR2	Lipophorin receptor
+FB:FBgn0051092	LpR2	Lipophorin receptor 2
 FB:FBgn0263667	Lpt	Lost PHDs of trr
 FB:FBgn0028582	lqf	liquid facets
 FB:FBgn0032633	Lrch	Leucine-rich-repeats and calponin homology domain protein
 FB:FBgn0069398	LRP	Low Density Lipoprotein
-FB:FBgn0030706	Lrp4	LDL receptor related protein
-FB:FBgn0010398	Lrr47	Leucine-rich repeat
+FB:FBgn0030706	Lrp4	LDL receptor related protein 4
+FB:FBgn0010398	Lrr47	Leucine-rich repeat 47
 FB:FBgn0004902	Lrr70C	Leucine-repeat-protein-70C
 FB:FBgn0033554	Lsm10	Lsm10
 FB:FBgn0033450	Lsm11	Lsm11
 FB:FBgn0030364	Lsm12a	LSM12 homolog a
-FB:FBgn0051184	LSm3	Like Sm
+FB:FBgn0051184	LSm3	Like Sm 3
 FB:FBgn0260940	lsn	larsen
 FB:FBgn0061491	lsr	loser
 FB:FBgn0034140	Lst	Limostatin
 FB:FBgn0264691	Lst8	Lst8
 FB:FBgn0002566	lt	light
-FB:FBgn0262517	Ltn1	Listerin E3 ubiquitin protein ligase
+FB:FBgn0262517	Ltn1	Listerin E3 ubiquitin protein ligase 1
 FB:FBgn0261866	ltr	loiterer
 FB:FBgn0027525	LTV1	LTV1 ribosome biogenesis factor
 FB:FBgn0024854	ltwt	lightweight
@@ -4232,7 +4242,7 @@ FB:FBgn0261864	lzb	lazybones
 FB:FBgn0010158	lzl	lozengelike
 FB:FBgn0002577	m	miniature
 FB:FBgn0017580	M(1)14E	M(1)14E
-FB:FBgn0002580	M(1)3E	Minute (1)
+FB:FBgn0002580	M(1)3E	Minute (1) 3E
 FB:FBgn0015257	M1-52	M1-52
 FB:FBgn0037621	M1BP	Motif 1 Binding Protein
 FB:FBgn0015253	M(2)105	M(2)105
@@ -4267,10 +4277,10 @@ FB:FBgn0032493	Mabi	Mabiki
 FB:FBgn0038345	maca	maca
 FB:FBgn0086301	mace	mace
 FB:FBgn0000037	mAChR-A	muscarinic Acetylcholine Receptor, A-type
-FB:FBgn0010100	mAcon1	Mitochondrial aconitase
+FB:FBgn0010100	mAcon1	Mitochondrial aconitase 1
 FB:FBgn0002725	macrofine	macrofine
 FB:FBgn0011648	Mad	Mothers against dpp
-FB:FBgn0026326	Mad1	Mitotic arrest-deficient
+FB:FBgn0026326	Mad1	Mitotic arrest-deficient 1
 FB:FBgn0035640	mad2	mad2
 FB:FBgn0027497	Madm	MLF1-adaptor molecule
 FB:FBgn0010071	Ma-dominigene	Ma dominigene
@@ -4301,19 +4311,19 @@ FB:FBgn0037215	?-Man	beta-Mannosidase
 FB:FBgn0034962	MAN1	MAN1
 FB:FBgn0027095	Manf	Mesencephalic astrocyte-derived neurotrophic factor
 FB:FBgn0011740	?-Man-IIa	alpha-Mannosidase class II a
-FB:FBgn0002645	Map205	Microtubule-associated protein
+FB:FBgn0002645	Map205	Microtubule-associated protein 205
 FB:FBgn0002646	mapA	midgut amylase pattern AMG
 FB:FBgn0013987	MAPk-Ak2	MAP kinase activated protein-kinase-2
 FB:FBgn0034282	Mapmodulin	Mapmodulin
 FB:FBgn0002648	mar	metaphase arrest
 FB:FBgn0031655	Marcal1	Marcal1
-FB:FBgn0039972	Marf1	Meiosis regulator and mRNA stability factor
+FB:FBgn0039972	Marf1	Meiosis regulator and mRNA stability factor 1
 FB:FBgn0002649	Margin	Margin
 FB:FBgn0033845	mars	mars
 FB:FBgn0011653	mas	masquerade
 FB:FBgn0044040	Masc29a	Masc29a
 FB:FBgn0035176	mat	materazzi
-FB:FBgn0024956	Mat1	Menage a trois
+FB:FBgn0024956	Mat1	Menage a trois 1
 FB:FBgn0261286	Mat89Ba	Maternal transcript 89Ba
 FB:FBgn0038965	mats	mob as tumor suppressor
 FB:FBgn0038300	Mau2	Mau2 sister chromatid cohesion factor
@@ -4323,18 +4333,18 @@ FB:FBgn0025744	maz	matzerath
 FB:FBgn0002685	mb	minus bar
 FB:FBgn0027950	MBD-like	Methyl-CpG binding domain protein-like
 FB:FBgn0038016	MBD-R2	MBD-R2
-FB:FBgn0262732	mbf1	multiprotein bridging factor
+FB:FBgn0262732	mbf1	multiprotein bridging factor 1
 FB:FBgn0265487	mbl	muscleblind
 FB:FBgn0002689	mbmC	mushroom body miniature C
 FB:FBgn0026207	mbo	members only
-FB:FBgn0025816	MBP1	MBT-binding protein
+FB:FBgn0025816	MBP1	MBT-binding protein 1
 FB:FBgn0002691	mc	microchaetae
 FB:FBgn0002915	mc-44A	mc-44A
 FB:FBgn0035811	Mcad	Medium-chain acyl-CoA dehydrogenase
 FB:FBgn0020406	Mcc	Mcc
-FB:FBgn0039877	Mccc1	Methylcrotonoyl-CoA carboxylase
+FB:FBgn0039877	Mccc1	Methylcrotonoyl-CoA carboxylase 1
 FB:FBgn0002455	mcd	microdiscs
-FB:FBgn0005678	mcd1	muscle cell death
+FB:FBgn0005678	mcd1	muscle cell death 1
 FB:FBgn0002693	mch	minute chaetae
 FB:FBgn0069185	mcl(2)Z0193	mcl(2)Z0193
 FB:FBgn0069184	mcl(2)Z0198	mcl(2)Z0198
@@ -4386,36 +4396,36 @@ FB:FBgn0069137	mcl(3)Z5860	mcl(3)Z5860
 FB:FBgn0069136	mcl(3)Z6256	mcl(3)Z6256
 FB:FBgn0069135	mcl(3)Z6257	mcl(3)Z6257
 FB:FBgn0069134	mcl(3)Z6259	mcl(3)Z6259
-FB:FBgn0014861	Mcm2	Minichromosome maintenance
-FB:FBgn0032116	Mco1	Multicopper oxidase
+FB:FBgn0014861	Mcm2	Minichromosome maintenance 2
+FB:FBgn0032116	Mco1	Multicopper oxidase 1
 FB:FBgn0066100	MCP-2.s	MCP-2.s
 FB:FBgn0066099	MCP-3.s	MCP-3.s
 FB:FBgn0066098	MCP-4.s	MCP-4.s
 FB:FBgn0260959	MCPH1	Microcephalin
 FB:FBgn0267488	Mcr	Macroglobulin complement-related
-FB:FBgn0023549	Mct1	Monocarboxylate transporter
-FB:FBgn0029833	MCTS1	Malignant T cell amplified sequence
+FB:FBgn0023549	Mct1	Monocarboxylate transporter 1
+FB:FBgn0029833	MCTS1	Malignant T cell amplified sequence 1
 FB:FBgn0038488	m-cup	mann-cup
 FB:FBgn0002694	md	melanotic lesions
 FB:FBgn0069133	mde	mesoderm-excluded
 FB:FBgn0002696	mdg	midgoid
-FB:FBgn0262559	Mdh2	Malate dehydrogenase
+FB:FBgn0262559	Mdh2	Malate dehydrogenase 2
 FB:FBgn0038772	mdlc	midlife crisis
 FB:FBgn0002454	mdm	many discs missing
 FB:FBgn0024331	Mdp-1	Macrophage derived proteoglycan-1
-FB:FBgn0004512	Mdr49	Multi drug resistance
+FB:FBgn0004512	Mdr49	Multi drug resistance 49
 FB:FBgn0030396	mdu	meduse
 FB:FBgn0004797	mdy	midway
 FB:FBgn0002704	Me	Moire
 FB:FBgn0030993	Mec2	Mec2
 FB:FBgn0043877	mecE	mechanosensory E
 FB:FBgn0288966	Med	Medea
-FB:FBgn0013531	MED20	Mediator complex subunit
+FB:FBgn0013531	MED20	Mediator complex subunit 20
 FB:FBgn0041110	medo	medo
 FB:FBgn0063667	meep	meep
-FB:FBgn0011656	Mef2	Myocyte enhancer factor
+FB:FBgn0011656	Mef2	Myocyte enhancer factor 2
 FB:FBgn0002705	meg	megaoculus
-FB:FBgn0002703	mei-1029	meiotic
+FB:FBgn0002703	mei-1029	meiotic 1029
 FB:FBgn0020811	mei-1223	mei-1223
 FB:FBgn0025919	mei-160	mei-160
 FB:FBgn0020810	mei-1725	mei-1725
@@ -4451,38 +4461,38 @@ FB:FBgn0031855	meng	meng-po
 FB:FBgn0035357	MEP-1	MEP-1
 FB:FBgn0086384	Mer	Merlin
 FB:FBgn0011658	meringue	meringue
-FB:FBgn0041733	mer-on-3	merlin on
+FB:FBgn0041733	mer-on-3	merlin on 3
 FB:FBgn0052150	meru	meru
-FB:FBgn0037207	Mes2	Mesoderm-expressed
+FB:FBgn0037207	Mes2	Mesoderm-expressed 2
 FB:FBgn0002720	mesA	messy A
 FB:FBgn0051004	mesh	mesh
 FB:FBgn0039650	Mesh1	Metazoan SpoT homolog-1
 FB:FBgn0024622	meso1	meso1
-FB:FBgn0010370	meso17A	mesoderm specific
+FB:FBgn0010370	meso17A	mesoderm specific 17A
 FB:FBgn0040089	meso18E	meso18E
 FB:FBgn0024621	meso2	meso2
 FB:FBgn0024620	meso3	meso3
 FB:FBgn0024619	meso4	meso4
-FB:FBgn0032694	MESR3	Misexpression suppressor of ras
-FB:FBgn0002722	m(Est-6)	modifier of Esterase
+FB:FBgn0032694	MESR3	Misexpression suppressor of ras 3
+FB:FBgn0002722	m(Est-6)	modifier of Esterase 6
 FB:FBgn0002723	Met	Methoprene-tolerant
 FB:FBgn0028416	Met75Ca	Met75Ca
 FB:FBgn0028415	Met75Cb	Met75Cb
 FB:FBgn0010073	Metatarsi-irregular	Metatarsi irregular
 FB:FBgn0050021	metro	menage a trois
 FB:FBgn0027083	MetRS-m	Methionyl-tRNA synthetase, mitochondrial
-FB:FBgn0015351	Mettl4	Methyltransferase like
+FB:FBgn0015351	Mettl4	Methyltransferase like 4
 FB:FBgn0039851	mey	morpheyus
 FB:FBgn0067727	mez	mertz
 FB:FBgn0038294	Mf	Myofilin
-FB:FBgn0035294	Mfap1	Microfibril-associated protein
+FB:FBgn0035294	Mfap1	Microfibril-associated protein 1
 FB:FBgn0260745	mfas	midline fasciclin
 FB:FBgn0002726	Mfcp	Myofibrillar contractile protein
-FB:FBgn0030731	Mfe2	peroxisomal Multifunctional enzyme type
+FB:FBgn0030731	Mfe2	peroxisomal Multifunctional enzyme type 2
 FB:FBgn0266757	mfr	misfire
 FB:FBgn0039561	mfrn	mitoferrin
-FB:FBgn0010651	MFS14	Major Facilitator Superfamily Transporter
-FB:FBgn0065114	mfs(1)6E	male-female-sterile in region
+FB:FBgn0010651	MFS14	Major Facilitator Superfamily Transporter 14
+FB:FBgn0065114	mfs(1)6E	male-female-sterile in region 6E
 FB:FBgn0013644	mfs(2)ry10	mfs(2)ry10
 FB:FBgn0013645	mfs(3)1	mfs(3)1
 FB:FBgn0013646	mfs(3)8	mfs(3)8
@@ -4504,7 +4514,7 @@ FB:FBgn0015759	MHC95F-associated-protein	MHC95F-associated protein
 FB:FBgn0028712	MI02	MI02
 FB:FBgn0262519	Mi-2	Mi-2
 FB:FBgn0014342	mia	meiosis I arrest
-FB:FBgn0086442	mib2	mind bomb
+FB:FBgn0086442	mib2	mind bomb 2
 FB:FBgn0038400	Mic26-27	MICOS subunit 26/27
 FB:FBgn0053208	Mical	Molecule interacting with CasL
 FB:FBgn0036333	MICAL-like	MICAL-like
@@ -4521,9 +4531,9 @@ FB:FBgn0041732	mini-dumpy	mini-dumpy
 FB:FBgn0027579	mino	minotaur
 FB:FBgn0036262	Miox	Myo-inositol oxygenase
 FB:FBgn0036713	Mip	Myoinhibiting peptide precursor
-FB:FBgn0023509	mip130	Myb-interacting protein
-FB:FBgn0027111	miple1	midkine and pleiotrophin
-FB:FBgn0026060	Mipp2	Multiple inositol polyphosphate phosphatase
+FB:FBgn0023509	mip130	Myb-interacting protein 130
+FB:FBgn0027111	miple1	midkine and pleiotrophin 1
+FB:FBgn0026060	Mipp2	Multiple inositol polyphosphate phosphatase 2
 FB:FBgn0262455	mir-1	mir-1 stem loop
 FB:FBgn0262424	mir-10	mir-10 stem loop
 FB:FBgn0262463	mir-100	mir-100 stem loop
@@ -4801,12 +4811,12 @@ FB:FBgn0019960	Mitofilin	Mitofilin
 FB:FBgn0002770	mk	murky
 FB:FBgn0026203	mkf	mokkaife
 FB:FBgn0035889	mkg-p	monkey king protein
-FB:FBgn0036844	Mkp3	Mitogen-activated protein kinase phosphatase
-FB:FBgn0031044	MKP-4	MAPK Phosphatase
-FB:FBgn0029152	Mkrn1	Makorin
-FB:FBgn0030395	Mks1	Meckel syndrome, type
+FB:FBgn0036844	Mkp3	Mitogen-activated protein kinase phosphatase 3
+FB:FBgn0031044	MKP-4	MAPK Phosphatase 4
+FB:FBgn0029152	Mkrn1	Makorin 1
+FB:FBgn0030395	Mks1	Meckel syndrome, type 1
 FB:FBgn0002771	ml	minute-like
-FB:FBgn0002772	Mlc1	Myosin alkali light chain
+FB:FBgn0002772	Mlc1	Myosin alkali light chain 1
 FB:FBgn0263490	mld	molting defective
 FB:FBgn0029858	mldr	mulder
 FB:FBgn0002774	mle	maleless
@@ -4814,16 +4824,16 @@ FB:FBgn0034051	Mlf	Myelodysplasia/myeloid leukemia factor
 FB:FBgn0011659	Mlh1	Mlh1
 FB:FBgn0004796	mln	muslin
 FB:FBgn0265512	mlt	mulet
-FB:FBgn0067071	Mmap370	microtuble/microfilament-associated protein
+FB:FBgn0067071	Mmap370	microtuble/microfilament-associated protein 370
 FB:FBgn0259110	mmd	mind-meld
 FB:FBgn0021775	mmei-1	mmei-1
 FB:FBgn0066340	mmp	mampus
-FB:FBgn0033438	Mmp2	Matrix metalloproteinase
+FB:FBgn0033438	Mmp2	Matrix metalloproteinase 2
 FB:FBgn0044866	MMS-1	MMS-1
 FB:FBgn0037301	Mms19	Mms19
 FB:FBgn0044865	MMS-2	MMS-2
 FB:FBgn0044864	MMS-3	MMS-3
-FB:FBgn0033549	mms4	Methyl methanesulfonate sensitivity
+FB:FBgn0033549	mms4	Methyl methanesulfonate sensitivity 4
 FB:FBgn0044863	MMS-4	MMS-4
 FB:FBgn0044862	MMS-6	MMS-6
 FB:FBgn0259749	mmy	mummy
@@ -4833,7 +4843,7 @@ FB:FBgn0259168	mnb	minibrain
 FB:FBgn0002778	mnd	minidiscs
 FB:FBgn0019683	mng	mango
 FB:FBgn0035410	MnM	myomesin and myosin binding protein
-FB:FBgn0031885	Mnn1	Menin
+FB:FBgn0031885	Mnn1	Menin 1
 FB:FBgn0052521	Mnr	Membrane-bound Notch regulator
 FB:FBgn0067072	Mns	Microtubule nucleation suppressor
 FB:FBgn0023215	Mnt	Mnt
@@ -4841,10 +4851,10 @@ FB:FBgn0002779	mo	micro-oculus
 FB:FBgn0017572	Mo25	Mo25
 FB:FBgn0020271	moa	moa
 FB:FBgn0259481	Mob2	Mob2
-FB:FBgn0259482	Mob3	MOB kinase activator
+FB:FBgn0259482	Mob3	MOB kinase activator 3
 FB:FBgn0039581	Moca-cyp	Moca-cyp
 FB:FBgn0026202	moch	mochtegern
-FB:FBgn0039280	Mocs2B	Molybdenum cofactor synthesis
+FB:FBgn0039280	Mocs2B	Molybdenum cofactor synthesis 2B
 FB:FBgn0002780	mod	modulo
 FB:FBgn0067886	Mod(Prat:bw)1-1	Mod(Prat:bw)1-1
 FB:FBgn0067885	Mod(Prat:bw)1-2	Mod(Prat:bw)1-2
@@ -4868,7 +4878,7 @@ FB:FBgn0067868	Mod(Prat:bw)3-7	Mod(Prat:bw)3-7
 FB:FBgn0067867	Mod(Prat:bw)3-8	Mod(Prat:bw)3-8
 FB:FBgn0067866	Mod(Prat:bw)3-9	Mod(Prat:bw)3-9
 FB:FBgn0067865	Mod(Prat:bw)Y-1	Mod(Prat:bw)Y-1
-FB:FBgn0010306	mod(r)1	modulator of rudimentary
+FB:FBgn0010306	mod(r)1	modulator of rudimentary 1
 FB:FBgn0044037	Mod(rst)B42	Mod(rst)B42
 FB:FBgn0044036	Mod(rst)D252	Mod(rst)D252
 FB:FBgn0044035	Mod(rst)D264	Mod(rst)D264
@@ -4947,8 +4957,8 @@ FB:FBgn0026201	mog	mogura
 FB:FBgn0261019	moi	modigliani
 FB:FBgn0065113	mok	mimic of kojak
 FB:FBgn0086711	mol	moladietz
-FB:FBgn0031640	Mon1	Monensin sensitivity
-FB:FBgn0031985	mon2	monensin sensitivity
+FB:FBgn0031640	Mon1	Monensin sensitivity 1
+FB:FBgn0031985	mon2	monensin sensitivity 2
 FB:FBgn0032940	Mondo	Mondo
 FB:FBgn0002782	moo	moorish
 FB:FBgn0025631	moody	moody
@@ -4960,32 +4970,32 @@ FB:FBgn0029503	mora	morgana
 FB:FBgn0033773	Mos	Mos oncogene
 FB:FBgn0002784	Mosaic	Mosaic
 FB:FBgn0004555	mosaic-wings	mosaic wings
-FB:FBgn0002785	mot-28	mottled
+FB:FBgn0002785	mot-28	mottled 28
 FB:FBgn0005303	Mot-K	Mottled K
 FB:FBgn0011662	mousse	mousse
 FB:FBgn0034187	Mov10	Mov10 RISC complex RNA helicase
 FB:FBgn0024853	moz	mozzarella
 FB:FBgn0260660	Mp	Multiplexin
-FB:FBgn0027930	MP1	Melanization Protease
-FB:FBgn0002789	Mp20	Muscle protein
+FB:FBgn0027930	MP1	Melanization Protease 1
+FB:FBgn0002789	Mp20	Muscle protein 20
 FB:FBgn0002790	Mpe	Monoplane
 FB:FBgn0286506	Mpi	Mannose phosphate isomerase
 FB:FBgn0067070	Mpp10	Mpp10
-FB:FBgn0032921	Mpp6	M-phase phosphoprotein
+FB:FBgn0032921	Mpp6	M-phase phosphoprotein 6
 FB:FBgn0259985	Mppe	Metallophosphoesterase
-FB:FBgn0000063	Mps1	Monopolar spindle
+FB:FBgn0000063	Mps1	Monopolar spindle 1
 FB:FBgn0015515	mpt-1	mpt-1
 FB:FBgn0002791	mr	morula
 FB:FBgn0002792	MRF	Male recombination factor
-FB:FBgn0027378	MRG15	MORF-related gene
+FB:FBgn0027378	MRG15	MORF-related gene 15
 FB:FBgn0033341	MrgBP	MRG/MORF4L binding protein
-FB:FBgn0030514	Mrgn1	Mahogunin ring finger
+FB:FBgn0030514	Mrgn1	Mahogunin ring finger 1
 FB:FBgn0035107	mri	mrityu
 FB:FBgn0034091	mrj	mrj
 FB:FBgn0261109	mrn	marionette
 FB:FBgn0030556	mRNA-cap	mRNA-capping-enzyme
-FB:FBgn0032456	MRP	Multidrug-Resistance like Protein
-FB:FBgn0038740	Mrp5	Multidrug resistance protein
+FB:FBgn0032456	MRP	Multidrug-Resistance like Protein 1
+FB:FBgn0038740	Mrp5	Multidrug resistance protein 5
 FB:FBgn0016682	Mrp53	Mrp53
 FB:FBgn0001995	mRpL4	mitochondrial ribosomal protein L4
 FB:FBgn0011663	mrr	myosin rod-related
@@ -5092,16 +5102,16 @@ FB:FBgn0002848	msg	missing
 FB:FBgn0036486	Msh6	Msh6
 FB:FBgn0011666	msi	musashi
 FB:FBgn0026252	msk	moleskin
-FB:FBgn0002775	msl-3	male-specific lethal
+FB:FBgn0002775	msl-3	male-specific lethal 3
 FB:FBgn0010909	msn	misshapen
 FB:FBgn0002853	Msp	Muscle-specific protein
 FB:FBgn0020269	mspo	M-spondin
 FB:FBgn0015766	Msr-110	Msr-110
 FB:FBgn0000565	MsrA	Methionine sulfoxide reductase A
 FB:FBgn0020272	mst	misato
-FB:FBgn0002854	Mst25F	Male-specific RNA
+FB:FBgn0002854	Mst25F	Male-specific RNA 25F
 FB:FBgn0028412	Mst33A	Mst33A
-FB:FBgn0010243	Mst77F-?Y1	Mst77F pseudogene on Y
+FB:FBgn0010243	Mst77F-?Y1	Mst77F pseudogene on Y 1
 FB:FBgn0023492	Mst78D	Mst78D
 FB:FBgn0028708	Mst85C	Mst85C
 FB:FBgn0020399	Mst89B	Mst89B
@@ -5116,16 +5126,16 @@ FB:FBgn0040305	MTF-1	Metal response element-binding Transcription Factor-1
 FB:FBgn0259735	mtgo	miles to go
 FB:FBgn0023000	mth	methuselah
 FB:FBgn0085453	Mthfs	Methenyltetrahydrofolate synthetase
-FB:FBgn0028956	mthl3	methuselah-like
+FB:FBgn0028956	mthl3	methuselah-like 3
 FB:FBgn0069362	MTIP	motif 2 interacting protein
 FB:FBgn0014865	Mtk	Metchnikowin
 FB:FBgn0262881	Mtkl	Mtk-like
 FB:FBgn0039532	Mtl	Mig-2-like
 FB:FBgn0025742	mtm	myotubularin
-FB:FBgn0028497	Mtmr6	Myotubularin related protein
+FB:FBgn0028497	Mtmr6	Myotubularin related protein 6
 FB:FBgn0002868	MtnA	Metallothionein A
 FB:FBgn0021796	mTor	mechanistic Target of rapamycin
-FB:FBgn0028705	Mtr1	Methyltransferase-related protein
+FB:FBgn0028705	Mtr1	Methyltransferase-related protein 1
 FB:FBgn0036916	Mtr3	Mtr3
 FB:FBgn0001986	Mtr4	Mtr4 helicase
 FB:FBgn0010431	mtrm	matrimony
@@ -5133,7 +5143,7 @@ FB:FBgn0004177	mts	microtubule star
 FB:FBgn0262598	mtsh	mitoshell
 FB:FBgn0050361	mtt	mangetout
 FB:FBgn0002870	mu	mussed
-FB:FBgn0002871	mu1	mutator
+FB:FBgn0002871	mu1	mutator 1
 FB:FBgn0063921	M(UAS-dsh)8-3	M(UAS-dsh)8-3
 FB:FBgn0063920	M(UAS-dsh)8-4	M(UAS-dsh)8-4
 FB:FBgn0262737	mub	mushroom-body expressed
@@ -5144,9 +5154,9 @@ FB:FBgn0002875	Mu(f<sup>3N</sup>)	Mutator of forked-3N
 FB:FBgn0002876	mul	multiple
 FB:FBgn0260750	Mulk	Multi-substrate lipid kinase
 FB:FBgn0002877	mur	murrey
-FB:FBgn0025390	Mur2B	Mucin related
+FB:FBgn0025390	Mur2B	Mucin related 2B
 FB:FBgn0037705	mura	murashka
-FB:FBgn0002878	mus101	mutagen-sensitive
+FB:FBgn0002878	mus101	mutagen-sensitive 101
 FB:FBgn0024851	mus113	mus113
 FB:FBgn0024850	mus114	mus114
 FB:FBgn0020268	mus115	mus115
@@ -5157,7 +5167,7 @@ FB:FBgn0033757	muskelin	muskelin
 FB:FBgn0024322	Mut181	Mutant-181
 FB:FBgn0083967	Muted	Muted
 FB:FBgn0288310	mv	mauve
-FB:FBgn0030894	Mvb12	Multivesicular body subunit
+FB:FBgn0030894	Mvb12	Multivesicular body subunit 12
 FB:FBgn0030683	Mvd	Mevalonate diphosphate decarboxylase
 FB:FBgn0011672	Mvl	Malvolio
 FB:FBgn0002910	mw	mottler of white
@@ -5167,14 +5177,14 @@ FB:FBgn0019668	mwr	more wright
 FB:FBgn0260789	mxc	multi sex combs
 FB:FBgn0031637	mxt	mextli
 FB:FBgn0002914	Myb	Myb oncogene-like
-FB:FBgn0001341	Mybbp1A	MYB binding protein
+FB:FBgn0001341	Mybbp1A	MYB binding protein 1a
 FB:FBgn0262656	Myc	Myc
 FB:FBgn0051475	myd	mayday
 FB:FBgn0033402	Myd88	Myd88
 FB:FBgn0026199	myo	myoglianin
 FB:FBgn0014364	myoblast-specific	myoblast specific
 FB:FBgn0004657	mys	myospheroid
-FB:FBgn0033379	Mys45A	Mystery
+FB:FBgn0033379	Mys45A	Mystery 45A
 FB:FBgn0040298	Myt1	Myt1
 FB:FBgn0004647	N	Notch
 FB:FBgn0067069	N12	N12
@@ -5182,13 +5192,13 @@ FB:FBgn0013990	N52	N52
 FB:FBgn0067068	N9	N9
 FB:FBgn0002917	na	narrow abdomen
 FB:FBgn0024362	Naa30A	N(alpha)-acetyltransferase 30 A
-FB:FBgn0029762	NAAT1	Nutrient Amino Acid Transporter
+FB:FBgn0029762	NAAT1	Nutrient Amino Acid Transporter 1
 FB:FBgn0259986	nab	nab
 FB:FBgn0265351	nac	neuronally altered carbohydrate
 FB:FBgn0086904	Nac?	Nascent polypeptide associated complex protein alpha subunit
 FB:FBgn0024319	Nach	Nach
 FB:FBgn0000036	nAChR?1	nicotinic Acetylcholine Receptor alpha1
-FB:FBgn0030538	?NACtes1	Nascent-associated complex beta-subunit-like, testis
+FB:FBgn0030538	?NACtes1	Nascent-associated complex beta-subunit-like, testis 1
 FB:FBgn0030512	Nadsyn	NAD synthetase
 FB:FBgn0038321	Nagk	N-acetylglucosamine kinase
 FB:FBgn0014417	Naglu	N-acetyl-alpha-glucosaminidase
@@ -5201,7 +5211,7 @@ FB:FBgn0002962	nanos	nanos
 FB:FBgn0038045	NANS	N-acetylneuraminic acid synthase
 FB:FBgn0067675	nansen	nansen
 FB:FBgn0069096	nap	napoleon
-FB:FBgn0015268	Nap1	Nucleosome assembly protein
+FB:FBgn0015268	Nap1	Nucleosome assembly protein 1
 FB:FBgn0016684	NaPi-T	Na[+]-dependent inorganic phosphate cotransporter
 FB:FBgn0031589	Naprt	Nicotinate phosphoribosyltransferase
 FB:FBgn0031018	narya	narya
@@ -5214,15 +5224,15 @@ FB:FBgn0030178	Naxe	NAD(P)HX epimerase
 FB:FBgn0286852	naz	nazgul
 FB:FBgn0032924	Nbr	Nibbler
 FB:FBgn0261530	nbs	nbs
-FB:FBgn0005689	Nc18A	Neural conserved at
+FB:FBgn0005689	Nc18A	Neural conserved at 18A
 FB:FBgn0013303	Nca	Neurocalcin
-FB:FBgn0036279	Ncc69	sodium chloride cotransporter
+FB:FBgn0036279	Ncc69	sodium chloride cotransporter 69
 FB:FBgn0002924	ncd	non-claret disjunctional
 FB:FBgn0028704	Nckx30C	Nckx30C
 FB:FBgn0086707	ncm	nucampholin
 FB:FBgn0002925	ncn	nurse cell number
 FB:FBgn0039234	Nct	Nicastrin
-FB:FBgn0259111	Ndae1	Na[+]-driven anion exchanger
+FB:FBgn0259111	Ndae1	Na[+]-driven anion exchanger 1
 FB:FBgn0001989	ND-B17	NADH dehydrogenase (ubiquinone) B17 subunit
 FB:FBgn0030500	Ndc80	Ndc80
 FB:FBgn0043456	Ndf	Nucleosome-destabilizing factor
@@ -5246,11 +5256,11 @@ FB:FBgn0017430	Nelf-E	Negative elongation factor E
 FB:FBgn0051053	nenya	nenya
 FB:FBgn0039704	neo	neyo
 FB:FBgn0024542	Neos	Neosin
-FB:FBgn0027570	Nep2	Neprilysin
-FB:FBgn0027578	Nepl21	Neprilysin-like
+FB:FBgn0027570	Nep2	Neprilysin 2
+FB:FBgn0027578	Nepl21	Neprilysin-like 21
 FB:FBgn0011675	ner	nervig
 FB:FBgn0020523	nerd	nerd
-FB:FBgn0028999	nerfin-1	nervous fingers
+FB:FBgn0028999	nerfin-1	nervous fingers 1
 FB:FBgn0261479	nero	nero
 FB:FBgn0043873	nertoo	nertoo
 FB:FBgn0026630	nes	nessy
@@ -5260,17 +5270,17 @@ FB:FBgn0015773	NetA	Netrin-A
 FB:FBgn0015774	NetB	Netrin-B
 FB:FBgn0265416	Neto	Neuropilin and tolloid-like
 FB:FBgn0005319	neu	neuter
-FB:FBgn0037085	Neu2	Neuroectoderm-expressed
+FB:FBgn0037085	Neu2	Neuroectoderm-expressed 2
 FB:FBgn0002932	neur	neuralized
-FB:FBgn0283503	Neurl4	Neuralized E3 ubiquitin protein ligase
+FB:FBgn0283503	Neurl4	Neuralized E3 ubiquitin protein ligase 4
 FB:FBgn0037447	Neurochondrin	Neurochondrin
 FB:FBgn0041104	neuro-d4	neuro-d4
-FB:FBgn0063903	Neurodegeneration-9	Neurodegeneration
-FB:FBgn0015269	Nf1	Neurofibromin
+FB:FBgn0063903	Neurodegeneration-9	Neurodegeneration 9
+FB:FBgn0015269	Nf1	Neurofibromin 1
 FB:FBgn0030505	NFAT	NFAT nuclear factor
 FB:FBgn0032393	Nfs1	Nfs1 cysteine desulfurase
-FB:FBgn0002933	ng1	new glue
-FB:FBgn0026787	Nhe1	Na[+]/H[+] hydrogen exchanger
+FB:FBgn0002933	ng1	new glue 1
+FB:FBgn0026787	Nhe1	Na[+]/H[+] hydrogen exchanger 1
 FB:FBgn0029148	NHP2	NHP2
 FB:FBgn0002934	ni-B	nicked of Bridges
 FB:FBgn0036101	NijA	Ninjurin A
@@ -5293,12 +5303,12 @@ FB:FBgn0002945	nkd	naked cuticle
 FB:FBgn0024849	nkg	nanking
 FB:FBgn0036146	nkt	noktochor
 FB:FBgn0021874	Nle	Notchless
-FB:FBgn0031866	Nlg2	Neuroligin
+FB:FBgn0031866	Nlg2	Neuroligin 2
 FB:FBgn0016685	Nlp	Nucleoplasmin
 FB:FBgn0020798	nls	nineless
-FB:FBgn0023542	Nmd3	Nonsense-mediated mRNA
+FB:FBgn0023542	Nmd3	Nonsense-mediated mRNA 3
 FB:FBgn0013305	Nmda1	N-methyl-D-aspartate receptor-associated protein
-FB:FBgn0010399	Nmdar1	NMDA receptor
+FB:FBgn0010399	Nmdar1	NMDA receptor 1
 FB:FBgn0010222	Nmdmc	NAD-dependent methylenetetrahydrofolate dehydrogenase
 FB:FBgn0030573	nmdyn-D6	nmdyn-D6
 FB:FBgn0028997	nmdyn-D7	nmdyn-D7
@@ -5313,12 +5323,12 @@ FB:FBgn0022069	Nnp-1	Nnp-1
 FB:FBgn0026400	Noa36	Noa36
 FB:FBgn0016046	noah	noah
 FB:FBgn0002946	nob	no bridge
-FB:FBgn0032925	Noc2	Nucleolar complex protein
+FB:FBgn0032925	Noc2	Nucleolar complex protein 2
 FB:FBgn0026628	noco	noco
 FB:FBgn0014366	noi	noisette
 FB:FBgn0014367	nok	next-of-kin
 FB:FBgn0037617	nom	numerous disordered muscles
-FB:FBgn0028473	Non1	Novel nucleolar protein
+FB:FBgn0028473	Non1	Novel nucleolar protein 1
 FB:FBgn0015520	nonA-l	nonA-like
 FB:FBgn0263968	nonC	no-on-and-no-off transient C
 FB:FBgn0016048	noose	noose
@@ -5334,7 +5344,7 @@ FB:FBgn0011676	Nos	Nitric oxide synthase
 FB:FBgn0259734	Nost	Nostrin
 FB:FBgn0013717	not	non-stop
 FB:FBgn0085436	Not1	Not1
-FB:FBgn0033029	Not3	CCR4-NOT transcription complex subunit
+FB:FBgn0033029	Not3	CCR4-NOT transcription complex subunit 3
 FB:FBgn0044028	Notum	Notum
 FB:FBgn0066338	nov	novichok
 FB:FBgn0085428	Nox	NADPH oxidase
@@ -5344,9 +5354,9 @@ FB:FBgn0024320	Npc1a	Niemann-Pick type C-1a
 FB:FBgn0027109	NPF	neuropeptide F
 FB:FBgn0037408	NPFR	Neuropeptide F receptor
 FB:FBgn0039735	Nph	Nucleophosmin
-FB:FBgn0035092	Nplp1	Neuropeptide-like precursor
-FB:FBgn0002965	npr3	non-pupariating
-FB:FBgn0030800	Nprl2	Nitrogen permease regulator-like
+FB:FBgn0035092	Nplp1	Neuropeptide-like precursor 1
+FB:FBgn0002965	npr3	non-pupariating 3
+FB:FBgn0030800	Nprl2	Nitrogen permease regulator-like 2
 FB:FBgn0002966	nr	nesher
 FB:FBgn0002967	nrd	neural disrupted
 FB:FBgn0030344	Nrd1	Nardilysin
@@ -5354,35 +5364,35 @@ FB:FBgn0264975	Nrg	Neuroglian
 FB:FBgn0020391	Nrk	Neurospecific receptor kinase
 FB:FBgn0262509	nrm	neuromusculin
 FB:FBgn0004108	Nrt	Neurotactin
-FB:FBgn0015776	nrv1	nervana
+FB:FBgn0015776	nrv1	nervana 1
 FB:FBgn0013997	Nrx-IV	Neurexin IV
-FB:FBgn0032882	Ns4	Nucleostemin
-FB:FBgn0031848	Nse1	Non-SMC element
-FB:FBgn0266464	Nsf2	N-ethylmaleimide-sensitive factor
-FB:FBgn0262527	nsl1	non-specific lethal
+FB:FBgn0032882	Ns4	Nucleostemin 4
+FB:FBgn0031848	Nse1	Non-SMC element 1
+FB:FBgn0266464	Nsf2	N-ethylmaleimide-sensitive factor 2
+FB:FBgn0262527	nsl1	non-specific lethal 1
 FB:FBgn0035421	nSMase	neutral sphingomyelinase
 FB:FBgn0034740	nsr	novel spermatogenesis regulator
 FB:FBgn0011679	NssBF	Nuclear single stranded DNA-binding factor
 FB:FBgn0036298	nst	nesthocker
-FB:FBgn0026079	Nsun2	NOP2-Sun domain family, member
-FB:FBgn0259704	Nsun5	Nop2/Sun-like domain containing protein
+FB:FBgn0026079	Nsun2	NOP2-Sun domain family, member 2
+FB:FBgn0259704	Nsun5	Nop2/Sun-like domain containing protein 5
 FB:FBgn0013342	nSyb	neuronal Synaptobrevin
-FB:FBgn0261526	NT1	Neurotrophin
+FB:FBgn0261526	NT1	Neurotrophin 1
 FB:FBgn0033426	Nt5c	5' nucleotidase C
-FB:FBgn0050104	NT5E-2	Ecto-5'-nucleotidase
+FB:FBgn0050104	NT5E-2	Ecto-5'-nucleotidase 2
 FB:FBgn0035461	ntc	nutcracker
-FB:FBgn0032907	Nthl1	Nth-like DNA glycosylase
+FB:FBgn0032907	Nthl1	Nth-like DNA glycosylase 1
 FB:FBgn0267326	Ntl	Neurotransmitter transporter-like
 FB:FBgn0033457	Ntmt	N-terminal methyltransferase
 FB:FBgn0024947	NTPase	NTPase
 FB:FBgn0029147	NtR	NtR
-FB:FBgn0005324	Nu	Nude on 2 or
+FB:FBgn0005324	Nu	Nude on 2 or 3
 FB:FBgn0262617	Nuak	Nuak family kinase
 FB:FBgn0085424	nub	nubbin
-FB:FBgn0032597	Nubp1	NUBP iron-sulfur cluster assembly factor
+FB:FBgn0032597	Nubp1	NUBP iron-sulfur cluster assembly factor 1
 FB:FBgn0002971	Nuc	Nuclease
-FB:FBgn0002972	nuc1	nucleoside auxotroph
-FB:FBgn0052190	NUCB1	Nucleobindin
+FB:FBgn0002972	nuc1	nucleoside auxotroph 1
+FB:FBgn0052190	NUCB1	Nucleobindin 1
 FB:FBgn0021768	nudC	nudC
 FB:FBgn0036059	nudE	nudE
 FB:FBgn0013718	nuf	nuclear fallout
@@ -5395,7 +5405,7 @@ FB:FBgn0010660	Nup214	Nucleoporin 214kD
 FB:FBgn0051813	nur	nemuri
 FB:FBgn0287185	nvd	neverland
 FB:FBgn0005636	nvy	nervy
-FB:FBgn0028411	Nxt1	NTF2-related export protein
+FB:FBgn0028411	Nxt1	NTF2-related export protein 1
 FB:FBgn0002975	ny	notchy
 FB:FBgn0039852	nyo	nyobe
 FB:FBgn0067063	O18	O18
@@ -5407,7 +5417,7 @@ FB:FBgn0020265	oap	ombre-a-paupieres
 FB:FBgn0002976	ob	oblique
 FB:FBgn0038344	obe	obelus
 FB:FBgn0024208	obk	obake
-FB:FBgn0010403	Obp83b	Odorant-binding protein
+FB:FBgn0010403	Obp83b	Odorant-binding protein 83b
 FB:FBgn0053519	Obsc	Obscurin
 FB:FBgn0031097	obst-A	obstructor-A
 FB:FBgn0027600	obst-B	obstructor-B
@@ -5428,14 +5438,14 @@ FB:FBgn0023508	Ocrl	Oculocerebrorenal syndrome of Lowe
 FB:FBgn0038653	Oct?2R	alpha2-adrenergic-like octopamine receptor
 FB:FBgn0004514	Oct-TyrR	Octopamine-Tyramine receptor
 FB:FBgn0023183	Ocu	Oculess
-FB:FBgn0013307	Odc1	Ornithine decarboxylase
+FB:FBgn0013307	Odc1	Ornithine decarboxylase 1
 FB:FBgn0002985	odd	odd skipped
 FB:FBgn0014370	odd-striped	odd-striped
 FB:FBgn0038551	Odj	Oddjob
 FB:FBgn0026058	OdsH	Ods-site homeobox
-FB:FBgn0017562	Oef2	oe1 binding factor
+FB:FBgn0017562	Oef2	oe1 binding factor 2
 FB:FBgn0002987	Off	Off
-FB:FBgn0027791	O-fut2	O-fucosyltransferase
+FB:FBgn0027791	O-fut2	O-fucosyltransferase 2
 FB:FBgn0038870	Oga	O-GlcNAcase
 FB:FBgn0010352	Ogdh	Oxoglutarate dehydrogenase
 FB:FBgn0027864	Ogg1	8-oxoguanine DNA glycosylase
@@ -5443,7 +5453,7 @@ FB:FBgn0004646	ogre	optic ganglion reduced
 FB:FBgn0037780	ohgt	ohgata
 FB:FBgn0010332	oho31	overgrown hematopoietic organs-31
 FB:FBgn0002989	okr	okra
-FB:FBgn0024204	ol4	oocyte localisation
+FB:FBgn0024204	ol4	oocyte localisation 4
 FB:FBgn0015522	olf186-M	olf186-M
 FB:FBgn0037153	olf413	olf413
 FB:FBgn0002990	olfA	olfactory A
@@ -5460,7 +5470,7 @@ FB:FBgn0015780	Onf-AATAA	Ovarian nuclear factor-AATAA
 FB:FBgn0020794	oo	oculus obscurus
 FB:FBgn0003001	op	opaque
 FB:FBgn0013999	Op29	Ovary protein-29kD
-FB:FBgn0261276	Opa1	Optic atrophy
+FB:FBgn0261276	Opa1	Optic atrophy 1
 FB:FBgn0050443	Opbp	Optix-binding protein
 FB:FBgn0003004	oph	ophthalmopedia
 FB:FBgn0003005	opht	opthalmoptera
@@ -5470,11 +5480,11 @@ FB:FBgn0264389	opm	opossum
 FB:FBgn0003006	Opt	Ophthalmoptera
 FB:FBgn0025360	Optix	Optix
 FB:FBgn0003008	or	orange
-FB:FBgn0023523	Or2a	Odorant receptor
+FB:FBgn0023523	Or2a	Odorant receptor 2a
 FB:FBgn0041585	Orai	Orai
 FB:FBgn0004882	orb	oo18 RNA-binding protein
 FB:FBgn0264307	orb2	orb2
-FB:FBgn0005654	Orc3	Origin recognition complex subunit
+FB:FBgn0005654	Orc3	Origin recognition complex subunit 3
 FB:FBgn0034935	Orcokinin	Orcokinin
 FB:FBgn0019952	Orct	Organic cation transporter
 FB:FBgn0003009	ord	orientation disruptor
@@ -5484,20 +5494,20 @@ FB:FBgn0027280	orion	orion
 FB:FBgn0037110	ORMDL	Orosomucoid 1-like
 FB:FBgn0003010	orn	ornamented
 FB:FBgn0020263	oro	oroshigane
-FB:FBgn0261550	Orp8	Oxysterol-binding protein-related protein
+FB:FBgn0261550	Orp8	Oxysterol-binding protein-related protein 8
 FB:FBgn0022993	ors	outer rhabdomeres small
 FB:FBgn0003011	ort	ora transientless
 FB:FBgn0046323	ORY	Occludin-Related Y
-FB:FBgn0042129	OS9	Olfactory-specific
+FB:FBgn0042129	OS9	Olfactory-specific 9
 FB:FBgn0261885	osa	osa
 FB:FBgn0020626	Osbp	Oxysterol binding protein
 FB:FBgn0010401	Os-C	Os-C
 FB:FBgn0031717	Oscillin	Oscillin
-FB:FBgn0032891	Oseg5	Outer segment
+FB:FBgn0032891	Oseg5	Outer segment 5
 FB:FBgn0003014	osh	outshifted
 FB:FBgn0014369	osho	one shot
 FB:FBgn0040985	osi	orsai
-FB:FBgn0027527	Osi6	Osiris
+FB:FBgn0027527	Osi6	Osiris 6
 FB:FBgn0003015	osk	oskar
 FB:FBgn0003016	osp	outspread
 FB:FBgn0020915	Ost	Ostrich
@@ -5506,7 +5516,7 @@ FB:FBgn0014868	Ost48	Oligosaccharyltransferase 48kD subunit
 FB:FBgn0005326	Osw	Outspreadwing
 FB:FBgn0053970	osy	oskyddad
 FB:FBgn0003017	ot	outheld
-FB:FBgn0003019	Ota3	Olfactory trap abnormal
+FB:FBgn0003019	Ota3	Olfactory trap abnormal 3
 FB:FBgn0024202	otb	outback
 FB:FBgn0266420	Ote	Otefin
 FB:FBgn0004839	otk	off-track
@@ -5584,9 +5594,9 @@ FB:FBgn0067667	p55M	p55M
 FB:FBgn0019666	p56	p56
 FB:FBgn0067666	p58	p58
 FB:FBgn0037718	P58IPK	P58IPK
-FB:FBgn0037138	P5CDh1	delta-1-Pyrroline-5-carboxylate dehydrogenase
+FB:FBgn0037138	P5CDh1	delta-1-Pyrroline-5-carboxylate dehydrogenase 1
 FB:FBgn0015781	P5cr	Pyrroline 5-carboyxlate reductase
-FB:FBgn0038516	P5cr-2	Pyrroline-5-carboxylate reductase-like
+FB:FBgn0038516	P5cr-2	Pyrroline-5-carboxylate reductase-like 2
 FB:FBgn0037146	P5CS	Delta[1]-pyrroline-5-carboxylate synthase
 FB:FBgn0067058	P61	P61
 FB:FBgn0024843	p68	p68
@@ -5604,7 +5614,7 @@ FB:FBgn0040081	p88	p88
 FB:FBgn0022990	p94	p94
 FB:FBgn0263859	P95	P95
 FB:FBgn0015782	Pa	Puffrmel
-FB:FBgn0287454	Pa1	PTIP associated
+FB:FBgn0287454	Pa1	PTIP associated 1
 FB:FBgn0265297	pAbp	poly(A) binding protein
 FB:FBgn0005648	Pabp2	Pabp2
 FB:FBgn0038418	pad	poils au dos
@@ -5613,11 +5623,11 @@ FB:FBgn0025809	Paf-AH?	Platelet-activating factor acetylhydrolase alpha
 FB:FBgn0259976	pag	parva germina
 FB:FBgn0020513	Paics	PAICS bifunctional enzyme
 FB:FBgn0060296	pain	painless
-FB:FBgn0038100	Paip2	polyA-binding protein interacting protein
+FB:FBgn0038100	Paip2	polyA-binding protein interacting protein 2
 FB:FBgn0267698	Pak	p21-activated kinase
 FB:FBgn0044826	Pak3	Pak3
 FB:FBgn0003033	pal	paternal loss inducer
-FB:FBgn0262728	Pal2	Peptidyl-alpha-hydroxyglycine-alpha-amidating lyase
+FB:FBgn0262728	Pal2	Peptidyl-alpha-hydroxyglycine-alpha-amidating lyase 2
 FB:FBgn0005327	Pale	Pale
 FB:FBgn0043866	palido	palido
 FB:FBgn0036005	pall	pallbearer
@@ -5625,7 +5635,7 @@ FB:FBgn0020792	palla	palla
 FB:FBgn0003108	pallid	pallid
 FB:FBgn0264656	paltry	paltry
 FB:FBgn0085432	pan	pangolin
-FB:FBgn0033352	PAN2	Poly(A)-binding protein-dependent poly(A) ribonuclease
+FB:FBgn0033352	PAN2	Poly(A)-binding protein-dependent poly(A) ribonuclease 2
 FB:FBgn0035397	PAN3	Poly(A) specific ribonuclease subunit PAN3
 FB:FBgn0026194	pana	pollyanna
 FB:FBgn0264657	panting	panting
@@ -5640,12 +5650,12 @@ FB:FBgn0285944	para	paralytic
 FB:FBgn0023216	Parg	Poly(ADP-ribose) glycohydrolase
 FB:FBgn0031610	Paris	Parkin Interacting Substrate
 FB:FBgn0041100	park	parkin
-FB:FBgn0010247	Parp1	Poly-(ADP-ribose) polymerase
+FB:FBgn0010247	Parp1	Poly-(ADP-ribose) polymerase 1
 FB:FBgn0052528	parvin	parvin
 FB:FBgn0016692	Pas	Partial sevenless
-FB:FBgn0037680	pasi2	pasiflora
+FB:FBgn0037680	pasi2	pasiflora 2
 FB:FBgn0034950	Pask	PAS kinase
-FB:FBgn0016693	Past1	Putative Achaete Scute Target
+FB:FBgn0016693	Past1	Putative Achaete Scute Target 1
 FB:FBgn0003038	pat	patchytergum
 FB:FBgn0003039	patch	patched of Bridges
 FB:FBgn0036007	path	pathetic
@@ -5667,8 +5677,8 @@ FB:FBgn0003042	Pc	Polycomb
 FB:FBgn0024841	Pcd	pterin-4a-carbinolamine dehydratase
 FB:FBgn0264962	Pcf11	Pcf11 cleavage and polyadenylation factor subunit
 FB:FBgn0005398	pch	parched
-FB:FBgn0051453	pch2	pachytene checkpoint
-FB:FBgn0036184	PCID2	PCI domain-containing protein
+FB:FBgn0051453	pch2	pachytene checkpoint 2
+FB:FBgn0036184	PCID2	PCI domain-containing protein 2
 FB:FBgn0013720	pck	pickel
 FB:FBgn0003044	Pcl	Polycomblike
 FB:FBgn0020261	pcm	pacman
@@ -5687,16 +5697,16 @@ FB:FBgn0033988	pcs	parcas
 FB:FBgn0030840	p-cup	presidents-cup
 FB:FBgn0003047	pcv	posterior crossvein
 FB:FBgn0003048	pcx	pecanex
-FB:FBgn0035231	Pcyt2	Phosphocholine cytidylyltransferase
+FB:FBgn0035231	Pcyt2	Phosphocholine cytidylyltransferase 2
 FB:FBgn0003049	pd	purpleoid
-FB:FBgn0030520	Pdcd4	Programmed cell death
-FB:FBgn0038237	Pde6	Phosphodiesterase
+FB:FBgn0030520	Pdcd4	Programmed cell death 4
+FB:FBgn0038237	Pde6	Phosphodiesterase 6
 FB:FBgn0023178	Pdf	Pigment-dispersing factor
 FB:FBgn0015526	pdg	pigment cell degeneration
 FB:FBgn0027601	pdgy	pudgy
 FB:FBgn0011693	Pdh	Photoreceptor dehydrogenase
 FB:FBgn0017558	Pdk	Pyruvate dehydrogenase kinase
-FB:FBgn0020386	Pdk1	Phosphoinositide-dependent kinase
+FB:FBgn0020386	Pdk1	Phosphoinositide-dependent kinase 1
 FB:FBgn0045979	PdL14B1	PdL14B1
 FB:FBgn0045978	PdL2B1	PdL2B1
 FB:FBgn0045977	PdL35B1	PdL35B1
@@ -5706,21 +5716,21 @@ FB:FBgn0045974	PdL45C1	PdL45C1
 FB:FBgn0045973	PdL72A3	PdL72A3
 FB:FBgn0045972	PdL73A1	PdL73A1
 FB:FBgn0045971	PdL75A3	PdL75A3
-FB:FBgn0004394	pdm2	POU domain protein
-FB:FBgn0261588	pdm3	pou domain motif
-FB:FBgn0016694	Pdp1	PAR-domain protein
+FB:FBgn0004394	pdm2	POU domain protein 2
+FB:FBgn0261588	pdm3	pou domain motif 3
+FB:FBgn0016694	Pdp1	PAR-domain protein 1
 FB:FBgn0003051	Pdr	Purpleoider
 FB:FBgn0033467	Pdrg1	Pdrg1 prefoldin-like subunit
-FB:FBgn0260012	pds5	precocious dissociation of sisters
-FB:FBgn0037044	Pdss2	Decaprenyl diphosphate synthase subunit
+FB:FBgn0260012	pds5	precocious dissociation of sisters 5
+FB:FBgn0037044	Pdss2	Decaprenyl diphosphate synthase subunit 2
 FB:FBgn0085484	Pdxk	Pyridoxal kinase
 FB:FBgn0020387	Pdz	Pdz
-FB:FBgn0030358	Pdzd8	PDZ domain containing
+FB:FBgn0030358	Pdzd8	PDZ domain containing 8
 FB:FBgn0003052	pe	petit
 FB:FBgn0086895	pea	peanuts
 FB:FBgn0003096	Pearl	Pearl
 FB:FBgn0003053	peb	pebbled
-FB:FBgn0038973	Pebp1	Phosphatidylethanolamine-binding protein
+FB:FBgn0038973	Pebp1	Phosphatidylethanolamine-binding protein 1
 FB:FBgn0011696	Pebp2?	Pebp2beta
 FB:FBgn0003054	Pec	Pupilla eccentrica
 FB:FBgn0032482	Pect	Phosphoethanolamine cytidylyltransferase
@@ -5733,47 +5743,47 @@ FB:FBgn0287720	Pen	Pendulin
 FB:FBgn0053198	pen-2	presenilin enhancer
 FB:FBgn0015527	peng	penguin
 FB:FBgn0288856	peo	pendolino
-FB:FBgn0003067	Pepck1	Phosphoenolpyruvate carboxykinase
+FB:FBgn0003067	Pepck1	Phosphoenolpyruvate carboxykinase 1
 FB:FBgn0003068	per	period
 FB:FBgn0040959	Peritrophin-15a	Peritrophin-15a
 FB:FBgn0040958	Peritrophin-15b	Peritrophin-15b
 FB:FBgn0022770	Peritrophin-A	Peritrophin A
 FB:FBgn0003069	pers	persimmon
 FB:FBgn0031969	pes	peste
-FB:FBgn0013563	Pex1	Peroxin
+FB:FBgn0013563	Pex1	Peroxin 1
 FB:FBgn0031799	Pez	Pez
 FB:FBgn0043858	pf-8	pairing failure-8
 FB:FBgn0000052	Pfas	Phosphoribosylformylglycinamidine synthase
 FB:FBgn0003070	Pfd	Pufdi
-FB:FBgn0010741	Pfdn2	Prefoldin
+FB:FBgn0010741	Pfdn2	Prefoldin 2
 FB:FBgn0015528	pff	parallel fused fascicles
 FB:FBgn0003071	Pfk	Phosphofructokinase
 FB:FBgn0027621	Pfrx	6-phosphofructo-2-kinase
 FB:FBgn0013723	pfy	puffy
 FB:FBgn0003072	pg	prong
-FB:FBgn0023517	Pgam5	Phosphoglycerate mutase
-FB:FBgn0001970	Pgant35A	Polypeptide N-acetylgalactosaminyltransferase
-FB:FBgn0029789	PGAP1	Post-GPI attachment to proteins
+FB:FBgn0023517	Pgam5	Phosphoglycerate mutase 5
+FB:FBgn0001970	Pgant35A	Polypeptide N-acetylgalactosaminyltransferase 35A
+FB:FBgn0029789	PGAP1	Post-GPI attachment to proteins 1
 FB:FBgn0016053	pgc	polar granule component
 FB:FBgn0011822	Pgcl	Pepsinogen C-like
 FB:FBgn0004654	Pgd	Phosphogluconate dehydrogenase
 FB:FBgn0003074	Pgi	Phosphoglucose isomerase
 FB:FBgn0030239	Pgls	6-phosphogluconolactonase
-FB:FBgn0011270	Pglym87	Phosphoglyceromutase
-FB:FBgn0033377	Pgm2a	Phosphoglucomutase
+FB:FBgn0011270	Pglym87	Phosphoglyceromutase 87
+FB:FBgn0033377	Pgm2a	Phosphoglucomutase 2a
 FB:FBgn0030310	PGRP-SA	Peptidoglycan recognition protein SA
-FB:FBgn0038649	PGS1	Phosphatidylglycerophosphate synthase
+FB:FBgn0038649	PGS1	Phosphatidylglycerophosphate synthase 1
 FB:FBgn0026190	PH4?MP	prolyl-4-hydroxylase-alpha MP
 FB:FBgn0041197	PH4?-RP	prolyl-4-hydroxylase-a related protein
-FB:FBgn0263234	Phae1	Phaedra
+FB:FBgn0263234	Phae1	Phaedra 1
 FB:FBgn0033380	Phax	Phosphorylated adaptor for RNA export
-FB:FBgn0002031	Phb1	Prohibitin
-FB:FBgn0039840	pHCl-2	pH-sensitive chloride channel
+FB:FBgn0002031	Phb1	Prohibitin 1
+FB:FBgn0039840	pHCl-2	pH-sensitive chloride channel 2
 FB:FBgn0004860	ph-d	polyhomeotic distal
 FB:FBgn0030007	?-PheRS	Phenylalanyl-tRNA synthetase, alpha-subunit
-FB:FBgn0031091	Phf7	PHD finger protein
+FB:FBgn0031091	Phf7	PHD finger protein 7
 FB:FBgn0011754	PhK?	Phosphorylase kinase gamma
-FB:FBgn0035089	Phk-3	Pherokine
+FB:FBgn0035089	Phk-3	Pherokine 3
 FB:FBgn0032749	Phlpp	PH domain leucine-rich repeat protein phosphatase
 FB:FBgn0283509	Phm	Peptidylglycine-alpha-hydroxylating monooxygenase
 FB:FBgn0002521	pho	pleiohomeotic
@@ -5784,11 +5794,11 @@ FB:FBgn0036522	Phs	Phaser
 FB:FBgn0028579	phtf	phtf
 FB:FBgn0004959	phtm	phantom
 FB:FBgn0043791	phu	phurba tashi
-FB:FBgn0037819	Phyhd1	Phytanoyl-CoA dioxygenase domain containing
+FB:FBgn0037819	Phyhd1	Phytanoyl-CoA dioxygenase domain containing 1
 FB:FBgn0013725	phyl	phyllopod
 FB:FBgn0003083	pi	pied
 FB:FBgn0020622	Pi3K21B	Pi3K21B
-FB:FBgn0015277	Pi3K59F	Phosphatidylinositol 3-kinase
+FB:FBgn0015277	Pi3K59F	Phosphatidylinositol 3-kinase 59F
 FB:FBgn0260962	pic	piccolo
 FB:FBgn0261811	pico	pico
 FB:FBgn0024315	Picot	Picot
@@ -5797,16 +5807,16 @@ FB:FBgn0264658	piddling	piddling
 FB:FBgn0005683	pie	pineapple eye
 FB:FBgn0264953	Piezo	Piezo
 FB:FBgn0031540	Pif1	Pif1 DNA helicase
-FB:FBgn0046873	Pif2	PFTAIRE-interacting factor
+FB:FBgn0046873	Pif2	PFTAIRE-interacting factor 2
 FB:FBgn0003085	pig	pigmy
-FB:FBgn0003086	Pig1	Pre-intermoult gene
+FB:FBgn0003086	Pig1	Pre-intermoult gene 1
 FB:FBgn0010309	pigeon	pigeon
 FB:FBgn0003152	Pigmentless	Pigmentless
 FB:FBgn0029881	pigs	pickled eggs
-FB:FBgn0032455	Pih1D1	PIH1 domain containing
-FB:FBgn0005331	pil3	pilosus on chromosome
+FB:FBgn0032455	Pih1D1	PIH1 domain containing 1
+FB:FBgn0005331	pil3	pilosus on chromosome 3
 FB:FBgn0003087	pim	pimples
-FB:FBgn0029891	Pink1	PTEN-induced putative kinase
+FB:FBgn0029891	Pink1	PTEN-induced putative kinase 1
 FB:FBgn0003171	pink-wing	pink wing
 FB:FBgn0016926	Pino	Pinocchio
 FB:FBgn0038966	pinta	prolonged depolarization afterpotential (PDA) is not apparent
@@ -5826,11 +5836,11 @@ FB:FBgn0004872	piwi	P-element induced wimpy testis
 FB:FBgn0086706	pix	pixie
 FB:FBgn0028578	pjc-16	pjc-16
 FB:FBgn0003090	pk	prickle
-FB:FBgn0038139	PK2-R2	Pyrokinin 2 receptor
-FB:FBgn0044024	PK4	Pocket
+FB:FBgn0038139	PK2-R2	Pyrokinin 2 receptor 2
+FB:FBgn0044024	PK4	Pocket 4
 FB:FBgn0040079	pkaap	pkaap
-FB:FBgn0000273	Pka-C1	Protein kinase, cAMP-dependent, catalytic subunit
-FB:FBgn0041195	Pkd2	Polycystic kidney disease
+FB:FBgn0000273	Pka-C1	Protein kinase, cAMP-dependent, catalytic subunit 1
+FB:FBgn0041195	Pkd2	Polycystic kidney disease 2
 FB:FBgn0082165	pkdt	polka dots
 FB:FBgn0003094	pkh	pinkish
 FB:FBgn0030317	pkm	Pinkman
@@ -5838,7 +5848,7 @@ FB:FBgn0261870	pky	pokey
 FB:FBgn0003095	pl	pleated
 FB:FBgn0003097	PL(1)sp-S1	Polygenic locus sternopleural S1
 FB:FBgn0015785	Pla	Plane
-FB:FBgn0004611	Plc21C	Phospholipase C at
+FB:FBgn0004611	Plc21C	Phospholipase C at 21C
 FB:FBgn0032402	PLCXD	Phosphatidylinositol-specific phospholipase C X domain containing
 FB:FBgn0036192	Pldn	Pallidin
 FB:FBgn0034694	Plekhm1	Pleckstrin homology and RUN domain containing M1
@@ -5862,8 +5872,8 @@ FB:FBgn0019663	ply	paisley
 FB:FBgn0032401	Plzf	Promyelocytic leukemia zinc finger
 FB:FBgn0259214	PMCA	plasma membrane calcium ATPase
 FB:FBgn0044419	Pmi	Pmi
-FB:FBgn0036300	Pmm2	Phosphomannomutase type
-FB:FBgn0052250	PMP34	Peroxisomal Membrane Protein
+FB:FBgn0036300	Pmm2	Phosphomannomutase type 2
+FB:FBgn0052250	PMP34	Peroxisomal Membrane Protein 34
 FB:FBgn0011660	Pms2	Pms2
 FB:FBgn0004437	pmst	pmst
 FB:FBgn0032811	Pmvk	Phosphomevalonate kinase
@@ -5877,7 +5887,7 @@ FB:FBgn0035229	pns	pinstripe
 FB:FBgn0003118	pnt	pointed
 FB:FBgn0013726	pnut	peanut
 FB:FBgn0067663	poached	poached
-FB:FBgn0036354	Poc1	Proteome of centrioles
+FB:FBgn0036354	Poc1	Proteome of centrioles 1
 FB:FBgn0003121	pod	podgy
 FB:FBgn0029903	pod1	pod1 coronin
 FB:FBgn0003050	pod-foot	pod foot
@@ -5885,12 +5895,12 @@ FB:FBgn0005333	podG	podoptera of Goldschmidt
 FB:FBgn0011230	poe	purity of essence
 FB:FBgn0035047	Pof	Painting of fourth
 FB:FBgn0014373	poil-rare	poil-rare
-FB:FBgn0037329	POLDIP2	Polymerase (DNA-directed), delta interacting protein
+FB:FBgn0037329	POLDIP2	Polymerase (DNA-directed), delta interacting protein 2
 FB:FBgn0003124	polo	polo
 FB:FBgn0003275	Polr2F	RNA polymerase II, I and III subunit F
 FB:FBgn0039227	polybromo	polybromo
 FB:FBgn0033572	polyph	polyphemus
-FB:FBgn0002891	PolZ1	DNA polymerase zeta subunit
+FB:FBgn0002891	PolZ1	DNA polymerase zeta subunit 1
 FB:FBgn0005687	pom	pomegranate
 FB:FBgn0032884	Pomp	Pomp
 FB:FBgn0025739	pon	partner of numb
@@ -5919,18 +5929,18 @@ FB:FBgn0035632	Ppat-Dpck	Bifunctional Phosphopantetheine adenylyltransferase - D
 FB:FBgn0003078	Ppb	Photophobe
 FB:FBgn0050290	Ppcdc	Phosphopantothenoylcysteine decarboxylase
 FB:FBgn0003135	pph	polyphenic
-FB:FBgn0023489	Pph13	PvuII-PstI homology
+FB:FBgn0023489	Pph13	PvuII-PstI homology 13
 FB:FBgn0020258	ppk	pickpocket
 FB:FBgn0027945	ppl	pumpless
 FB:FBgn0035143	Ppm1	Ppm1
 FB:FBgn0003137	Ppn	Papilin
 FB:FBgn0041099	ppo	poco pelo
-FB:FBgn0033367	PPO2	Prophenoloxidase
+FB:FBgn0033367	PPO2	Prophenoloxidase 2
 FB:FBgn0020018	Ppox	Protoporphyrinogen oxidase
 FB:FBgn0046697	Ppr-Y	Ppr-Y
 FB:FBgn0082831	pps	protein partner of snf
-FB:FBgn0030057	Ppt1	Palmitoyl-protein thioesterase
-FB:FBgn0039270	PQBP1	Poly-glutamine tract binding protein
+FB:FBgn0030057	Ppt1	Palmitoyl-protein thioesterase 1
+FB:FBgn0039270	PQBP1	Poly-glutamine tract binding protein 1
 FB:FBgn0003141	pr	purple
 FB:FBgn0003143	pra	prawny abdomen
 FB:FBgn0283741	prage	prage
@@ -5940,8 +5950,8 @@ FB:FBgn0003144	pratf	pratfall
 FB:FBgn0032059	PrBP	Prenyl-binding protein
 FB:FBgn0028573	prc	pericardin
 FB:FBgn0003145	prd	paired
-FB:FBgn0037949	prd1	pruning defect
-FB:FBgn0035687	Prdm13	PR/SET domain
+FB:FBgn0037949	prd1	pruning defect 1
+FB:FBgn0035687	Prdm13	PR/SET domain 13
 FB:FBgn0003148	pre	presto
 FB:FBgn0033413	prel	preli-like
 FB:FBgn0264817	pre-lola-G	pre-lola-G
@@ -5968,18 +5978,18 @@ FB:FBgn0002284	Pros?6	Proteasome beta6 subunit
 FB:FBgn0040752	Prosap	Prosap
 FB:FBgn0013300	ProtA	Protamine A
 FB:FBgn0011698	prp	prickly pear
-FB:FBgn0026713	Prp16	pre-mRNA processing factor
+FB:FBgn0026713	Prp16	pre-mRNA processing factor 16
 FB:FBgn0027784	Prp18	Prp18
-FB:FBgn0261119	Prp19	Pre-RNA processing factor
-FB:FBgn0036915	Prp3	Precursor RNA processing
+FB:FBgn0261119	Prp19	Pre-RNA processing factor 19
+FB:FBgn0036915	Prp3	Precursor RNA processing 3
 FB:FBgn0027587	Prp4k	Pre-mRNA processing factor 4 kinase
 FB:FBgn0036030	Prps	Phosphoribosyl pyrophosphate synthetase
 FB:FBgn0043005	prt	portabella
-FB:FBgn0039707	Prtl99C	Protamine-like
+FB:FBgn0039707	Prtl99C	Protamine-like 99C
 FB:FBgn0030329	prtp	pretaporter
 FB:FBgn0027943	pru	perugino
 FB:FBgn0066331	prx	Pavlov's Rex
-FB:FBgn0031479	Prx6a	Peroxiredoxin
+FB:FBgn0031479	Prx6a	Peroxiredoxin 6a
 FB:FBgn0267489	PRY	polycystine-related-Y
 FB:FBgn0261552	ps	pasilla
 FB:FBgn0261243	Psa	Puromycin sensitive aminopeptidase
@@ -5989,7 +5999,7 @@ FB:FBgn0086265	psd	palisade
 FB:FBgn0010166	pseudoscute	pseudoscute
 FB:FBgn0264598	PsGEF	Protostome-specific GEF
 FB:FBgn0030926	psh	persephone
-FB:FBgn0003155	psi3	phase angle
+FB:FBgn0003155	psi3	phase angle 3
 FB:FBgn0243511	psidin	phagocyte signaling impaired
 FB:FBgn0026187	pskl	pop-sickle
 FB:FBgn0284421	Psn	Presenilin
@@ -6029,9 +6039,9 @@ FB:FBgn0010167	pur1	purine requiring
 FB:FBgn0035802	Pura	Puratrophin-1-like
 FB:FBgn0025736	puri	puri
 FB:FBgn0003168	Pur-r	Purine-resistant
-FB:FBgn0031227	Pus10	Pseudouridine synthase
+FB:FBgn0031227	Pus10	Pseudouridine synthase 10
 FB:FBgn0003169	put	punt
-FB:FBgn0030964	Pvf1	PDGF- and VEGF-related factor
+FB:FBgn0030964	Pvf1	PDGF- and VEGF-related factor 1
 FB:FBgn0052406	PVRAP	PVR adaptor protein
 FB:FBgn0003170	pvt	postverticalless
 FB:FBgn0003172	Pw	Pointed wing
@@ -6049,7 +6059,7 @@ FB:FBgn0020790	pyg	pygoscelis
 FB:FBgn0043900	pygo	pygopus
 FB:FBgn0003180	pyp	polyphene
 FB:FBgn0033649	pyr	pyramus
-FB:FBgn0032846	Pyroxd1	Pyridine nucleotide-disulfide oxidoreductase domain
+FB:FBgn0032846	Pyroxd1	Pyridine nucleotide-disulfide oxidoreductase domain 1
 FB:FBgn0003181	pys	polychaetous
 FB:FBgn0035113	pyx	pyrexia
 FB:FBgn0020624	PZ22	PZ22
@@ -6071,7 +6081,7 @@ FB:FBgn0019662	qm	quemao
 FB:FBgn0003185	qrt	quartet
 FB:FBgn0003186	qs	quicksilver
 FB:FBgn0028622	qsm	quasimodo
-FB:FBgn0033814	Qsox1	Quiescin sulfhydryl oxidase
+FB:FBgn0033814	Qsox1	Quiescin sulfhydryl oxidase 1
 FB:FBgn0028572	qtc	quick-to-court
 FB:FBgn0051864	Qtzl	Quetzalcoatl
 FB:FBgn0003187	qua	quail
@@ -6103,7 +6113,7 @@ FB:FBgn0031882	Rab30	Rab30
 FB:FBgn0002567	Rab32	Rab32
 FB:FBgn0031090	Rab35	Rab35
 FB:FBgn0029959	Rab39	Rab39
-FB:FBgn0051935	Rab3GAP1	RAB3 GTPase activating protein subunit
+FB:FBgn0051935	Rab3GAP1	RAB3 GTPase activating protein subunit 1
 FB:FBgn0016701	Rab4	Rab4
 FB:FBgn0030391	Rab40	Rab40
 FB:FBgn0014010	Rab5	Rab5
@@ -6112,7 +6122,7 @@ FB:FBgn0015795	Rab7	Rab7
 FB:FBgn0262518	Rab8	Rab8
 FB:FBgn0032782	Rab9	Rab9
 FB:FBgn0262937	Rabex-5	Rabaptin-5-associated exchange factor for Rab5
-FB:FBgn0020788	rABP70	ribosomal 'Alu-repeat' binding protein
+FB:FBgn0020788	rABP70	ribosomal 'Alu-repeat' binding protein 70
 FB:FBgn0015372	RabX1	RabX1
 FB:FBgn0030200	RabX2	RabX2
 FB:FBgn0051118	RabX4	RabX4
@@ -6120,9 +6130,9 @@ FB:FBgn0035255	RabX5	RabX5
 FB:FBgn0035155	RabX6	RabX6
 FB:FBgn0010333	Rac1	Rac1
 FB:FBgn0014011	Rac2	Rac2
-FB:FBgn0045843	RacGAP84C	Rac GTPase activating protein at
+FB:FBgn0045843	RacGAP84C	Rac GTPase activating protein at 84C
 FB:FBgn0015533	rack	on-the-rack
-FB:FBgn0026778	Rad1	Radiation insensitive
+FB:FBgn0026778	Rad1	Radiation insensitive 1
 FB:FBgn0025808	Rad17	Rad17
 FB:FBgn0026777	Rad23	Rad23
 FB:FBgn0034728	rad50	rad50
@@ -6132,13 +6142,13 @@ FB:FBgn0025807	Rad9	Rad9
 FB:FBgn0003195	r(ADH)	regulator of ADH
 FB:FBgn0034646	Rae1	Rae1
 FB:FBgn0003079	Raf	Raf oncogene
-FB:FBgn0036624	RAF2	RING-associated factor
+FB:FBgn0036624	RAF2	RING-associated factor 2
 FB:FBgn0066330	rafl	rafael
 FB:FBgn0003197	rag	ragged
 FB:FBgn0033272	RagC-D	Ras-related GTP binding C/D
 FB:FBgn0003198	rags	rags
 FB:FBgn0003199	rai	raisin
-FB:FBgn0030793	Rai1	Rat1 Interacting Protein
+FB:FBgn0030793	Rai1	Rat1 Interacting Protein 1
 FB:FBgn0003305	raised-wing	raised wing
 FB:FBgn0015286	Rala	Ras-like protein A
 FB:FBgn0026377	RalBp-like	Retinal-binding protein like
@@ -6151,12 +6161,12 @@ FB:FBgn0036497	Ran-like	Ran-like
 FB:FBgn0037620	ranshi	ranshi
 FB:FBgn0004636	Rap1	Rap1 GTPase
 FB:FBgn0283666	Rap2l	Ras-associated protein 2-like
-FB:FBgn0264895	RapGAP1	Rap GTPase activating protein
+FB:FBgn0264895	RapGAP1	Rap GTPase activating protein 1
 FB:FBgn0003238	rapid-exhaustion	rapid exhaustion
 FB:FBgn0029840	raptor	raptor
-FB:FBgn0003201	rar1	radiation-resistant on
+FB:FBgn0003201	rar1	radiation-resistant on 1
 FB:FBgn0003204	ras	raspberry
-FB:FBgn0003205	Ras85D	Ras oncogene at
+FB:FBgn0003205	Ras85D	Ras oncogene at 85D
 FB:FBgn0261570	raskol	raskol
 FB:FBgn0024194	rasp	rasp
 FB:FBgn0062260	Rasta	Rasta
@@ -6166,29 +6176,29 @@ FB:FBgn0003209	raw	raw
 FB:FBgn0004791	ray	rayon
 FB:FBgn0014378	raz	razorback
 FB:FBgn0003210	rb	ruby
-FB:FBgn0004903	Rb97D	Ribonuclear protein at
-FB:FBgn0036973	Rbbp5	Retinoblastoma binding protein
+FB:FBgn0004903	Rb97D	Ribonuclear protein at 97D
+FB:FBgn0036973	Rbbp5	Retinoblastoma binding protein 5
 FB:FBgn0023458	Rbcn-3A	Rabconnectin-3A
 FB:FBgn0023510	Rbcn-3B	Rabconnectin-3B
 FB:FBgn0015799	Rbf	Retinoblastoma-family protein
 FB:FBgn0003211	rbl	reduced bristles
 FB:FBgn0262483	Rbp	RIM-binding protein
 FB:FBgn0030479	Rbp1-like	Rbp1-like
-FB:FBgn0010258	Rbp4	RNA-binding protein
+FB:FBgn0010258	Rbp4	RNA-binding protein 4
 FB:FBgn0034585	Rbpn-5	Rabaptin-5
 FB:FBgn0261064	Rbsn-5	Rabenosyn-5
 FB:FBgn0003212	rc	red cells
-FB:FBgn0002638	Rcc1	Regulator of chromosome condensation
-FB:FBgn0031047	Rcd-1	Required for cell differentiation
+FB:FBgn0002638	Rcc1	Regulator of chromosome condensation 1
+FB:FBgn0031047	Rcd-1	Required for cell differentiation 1
 FB:FBgn0032089	Rcd-1r	Rcd-1 related
-FB:FBgn0032034	Rcd4	Reduction in Cnn dots
+FB:FBgn0032034	Rcd4	Reduction in Cnn dots 4
 FB:FBgn0031142	r-cup	ryder cup
-FB:FBgn0003214	RD(1)	Recovery disrupter of
+FB:FBgn0003214	RD(1)	Recovery disrupter of 1
 FB:FBgn0003215	rdb	reddish brown
 FB:FBgn0003218	rdgB	retinal degeneration B
 FB:FBgn0027872	rdgB?	rdgBbeta
 FB:FBgn0064227	Rdh	Red herring
-FB:FBgn0033205	Rdh1	Retinol dehydrogenase
+FB:FBgn0033205	Rdh1	Retinol dehydrogenase 1
 FB:FBgn0038946	rdhB	retinol dehydrogenase B
 FB:FBgn0003221	rdp	reduplicated
 FB:FBgn0264493	rdx	roadkill
@@ -6201,8 +6211,8 @@ FB:FBgn0027375	RecQ5	RecQ5 helicase
 FB:FBgn0038209	Recs1	Recs1
 FB:FBgn0041722	red-shirt	rsh
 FB:FBgn0003229	ref(1)H	refractory to sigma H
-FB:FBgn0015801	Reg-5	Rhythmically expressed gene
-FB:FBgn0038769	Regnase-1	Regnase
+FB:FBgn0015801	Reg-5	Rhythmically expressed gene 5
+FB:FBgn0038769	Regnase-1	Regnase 1
 FB:FBgn0030362	regucalcin	regucalcin
 FB:FBgn0014018	Rel	Relish
 FB:FBgn0030466	Remo	Remoulade
@@ -6236,11 +6246,11 @@ FB:FBgn0020379	Rfx	Rfx
 FB:FBgn0082304	Rfx2	Rfx2
 FB:FBgn0266098	rg	rugose
 FB:FBgn0017550	Rga	Regena
-FB:FBgn0085419	Rgk2	Rad, Gem/Kir family member
+FB:FBgn0085419	Rgk2	Rad, Gem/Kir family member 2
 FB:FBgn0261258	rgn	regeneration
 FB:FBgn0267792	rgr	regular
 FB:FBgn0003247	rh	roughish
-FB:FBgn0003248	Rh2	Rhodopsin
+FB:FBgn0003248	Rh2	Rhodopsin 2
 FB:FBgn0028699	Rh50	Rh50
 FB:FBgn0027376	rha	rha
 FB:FBgn0032883	Rhau	RHAU helicase
@@ -6254,7 +6264,7 @@ FB:FBgn0032415	rho-6	rhomboid-6
 FB:FBgn0033672	rho-7	rhomboid-7
 FB:FBgn0036980	RhoBTB	Rho-related BTB domain containing
 FB:FBgn0036921	RhoGDI	RhoGDI
-FB:FBgn0023172	RhoGEF2	Rho guanine nucleotide exchange factor
+FB:FBgn0023172	RhoGEF2	Rho guanine nucleotide exchange factor 2
 FB:FBgn0014380	RhoL	Rho-like
 FB:FBgn0083940	RhoU	RhoU
 FB:FBgn0026374	Rhp	Rhophilin
@@ -6270,8 +6280,8 @@ FB:FBgn0066328	rijiy	rijiy
 FB:FBgn0024985	Rilpl	Rab interacting lysosomal protein like
 FB:FBgn0015778	rin	rasputin
 FB:FBgn0266417	ringer	ringmaker
-FB:FBgn0035762	Rint1	RAD50 interactor
-FB:FBgn0036187	RIOK1	RIO kinase
+FB:FBgn0035762	Rint1	RAD50 interactor 1
+FB:FBgn0036187	RIOK1	RIO kinase 1
 FB:FBgn0014381	rip	ripcord
 FB:FBgn0032189	Rip?	RPA-interacting protein alpha
 FB:FBgn0026623	ripp	rippchen
@@ -6284,16 +6294,16 @@ FB:FBgn0003256	rl	rolled
 FB:FBgn0014022	Rlb1	Rlb1
 FB:FBgn0026056	Rlip	Ral interacting protein
 FB:FBgn0004917	rls	restless
-FB:FBgn0032256	RluA-2	RluA pseudouridine synthase
+FB:FBgn0032256	RluA-2	RluA pseudouridine synthase 2
 FB:FBgn0003258	rm	rimy
-FB:FBgn0003259	Rm2	Ring magnifier on
+FB:FBgn0003259	Rm2	Ring magnifier on 2
 FB:FBgn0003261	Rm62	Rm62
-FB:FBgn0015477	Rme-8	Receptor mediated endocytosis
+FB:FBgn0015477	Rme-8	Receptor mediated endocytosis 8
 FB:FBgn0003262	rmp	rumpled
 FB:FBgn0267337	rn	rotund
-FB:FBgn0003264	Rnase1	Ribonuclease
+FB:FBgn0003264	Rnase1	Ribonuclease 1
 FB:FBgn0039696	Rnb	R and B
-FB:FBgn0039013	RNF220	ring finger protein
+FB:FBgn0039013	RNF220	ring finger protein 220
 FB:FBgn0069089	rng	rung
 FB:FBgn0030753	rngo	rings lost
 FB:FBgn0023171	rnh1	ribonuclease H1
@@ -6306,7 +6316,7 @@ FB:FBgn0028570	robl22E	robl22E
 FB:FBgn0028569	robl37BC	robl37BC
 FB:FBgn0028568	robl60C	robl60C
 FB:FBgn0028567	robl62A	robl62A
-FB:FBgn0002543	robo2	roundabout
+FB:FBgn0002543	robo2	roundabout 2
 FB:FBgn0014877	Roe1	Roe1
 FB:FBgn0036697	rogdi	rogdi
 FB:FBgn0250838	roh	reduction of Rh1
@@ -6327,10 +6337,10 @@ FB:FBgn0050410	Rpi	Ribose-5-phosphate isomerase
 FB:FBgn0022981	rpk	ripped pocket
 FB:FBgn0000100	RpLP0	Ribosomal protein LP0
 FB:FBgn0083065	rpn	rantanplan
-FB:FBgn0002787	Rpn8	Regulatory particle non-ATPase
+FB:FBgn0002787	Rpn8	Regulatory particle non-ATPase 8
 FB:FBgn0283652	Rpp30	RNaseP protein p30
 FB:FBgn0011706	rpr	reaper
-FB:FBgn0004584	Rrp1	Recombination repair protein
+FB:FBgn0004584	Rrp1	Recombination repair protein 1
 FB:FBgn0034879	Rrp4	Rrp4
 FB:FBgn0034065	Rrp42	Rrp42
 FB:FBgn0030789	Rrp45	Rrp45
@@ -6338,9 +6348,9 @@ FB:FBgn0037815	Rrp46	Rrp46
 FB:FBgn0038269	Rrp6	Rrp6
 FB:FBgn0003281	rs	rose
 FB:FBgn0021995	Rs1	Rs1
-FB:FBgn0011305	Rsf1	Repressor splicing factor
+FB:FBgn0011305	Rsf1	Repressor splicing factor 1
 FB:FBgn0265597	rsh	radish
-FB:FBgn0032478	Rsph1	Radial spoke head protein
+FB:FBgn0032478	Rsph1	Radial spoke head protein 1
 FB:FBgn0003285	rst	roughest
 FB:FBgn0005343	Rst(1)mth	Resistance to malathion
 FB:FBgn0003286	Rst(1)str	Resistant to streptomycin
@@ -6391,7 +6401,7 @@ FB:FBgn0085113	S53.1	S53.1
 FB:FBgn0008647	S63	S63
 FB:FBgn0283473	S6KL	S6 Kinase Like
 FB:FBgn0002842	sa	spermatocyte arrest
-FB:FBgn0020616	SA1	Stromalin
+FB:FBgn0020616	SA1	Stromalin 1
 FB:FBgn0003311	sab	straight abdomen
 FB:FBgn0019658	sAB1	sAB1
 FB:FBgn0037254	sac	sterile affecting ciliogenesis
@@ -6418,23 +6428,23 @@ FB:FBgn0033257	sand	sandman
 FB:FBgn0034408	sano	serrano
 FB:FBgn0033785	Sans	Scaffold protein containing ankyrin repeats and SAM domain
 FB:FBgn0025697	santa-maria	scavenger receptor acting in neural tissue and majority of rhodopsin is absent
-FB:FBgn0262714	Sap130	Sin3A-associated protein
-FB:FBgn0030788	Sap30	SIN3-associated polypeptide
+FB:FBgn0262714	Sap130	Sin3A-associated protein 130
+FB:FBgn0030788	Sap30	SIN3-associated polypeptide 30
 FB:FBgn0013334	Sap47	Synapse-associated protein 47kD
 FB:FBgn0000416	Sap-r	Saposin-related
-FB:FBgn0038947	Sar1	Secretion-associated Ras-related
+FB:FBgn0038947	Sar1	Secretion-associated Ras-related 1
 FB:FBgn0034276	Sardh	Sarcosine dehydrogenase
 FB:FBgn0262579	Sarm	Sterile alpha and Armadillo motif
 FB:FBgn0002306	sas	stranded at second
-FB:FBgn0029755	Sas10	Something about silencing
-FB:FBgn0011020	Sas-4	Spindle assembly abnormal
+FB:FBgn0029755	Sas10	Something about silencing 10
+FB:FBgn0011020	Sas-4	Spindle assembly abnormal 4
 FB:FBgn0052141	saturn	saturn
 FB:FBgn0267378	sau	sauron
 FB:FBgn0023426	sauf	sauf
 FB:FBgn0053193	sav	salvador
 FB:FBgn0003316	saw	sawtooth
 FB:FBgn0003317	sax	saxophone
-FB:FBgn0039291	Saysd1	SAYSVFN motif domain containing
+FB:FBgn0039291	Saysd1	SAYSVFN motif domain containing 1
 FB:FBgn0003319	Sb	Stubble
 FB:FBgn0016754	sba	six-banded
 FB:FBgn0051950	Sbat	Sabbat
@@ -6444,16 +6454,16 @@ FB:FBgn0069084	sbe	schraube
 FB:FBgn0067659	sbg	strindberg
 FB:FBgn0030574	sbm	sobremesa
 FB:FBgn0011267	sbn	scatterbrained
-FB:FBgn0087039	Sbp2	SECIS-binding protein
-FB:FBgn0024302	Sbp3	Su(H)-binding protein
-FB:FBgn0286878	sbRNA:1	stem-bulge RNA
+FB:FBgn0087039	Sbp2	SECIS-binding protein 2
+FB:FBgn0024302	Sbp3	Su(H)-binding protein 3
+FB:FBgn0286878	sbRNA:1	stem-bulge RNA 1
 FB:FBgn0003322	sbs	stubs
 FB:FBgn0004170	sc	scute
 FB:FBgn0035471	Sc2	Sc2
 FB:FBgn0265298	SC35	SR family splicing factor SC35
 FB:FBgn0003326	sca	scabrous
 FB:FBgn0033033	scaf	scarface
-FB:FBgn0261872	scaf6	SR-related CTD associated factor
+FB:FBgn0261872	scaf6	SR-related CTD associated factor 6
 FB:FBgn0003327	scal	scabrous-like
 FB:FBgn0052103	SCaMC	Short Calcium-binding Mitochondrial Carrier
 FB:FBgn0040285	Scamp	Scamp
@@ -6463,17 +6473,17 @@ FB:FBgn0005346	Scarred	Scarred
 FB:FBgn0011232	scat	scattered
 FB:FBgn0286785	scb	scab
 FB:FBgn0022360	Scbp	Soluble calcium-binding protein
-FB:FBgn0033784	SCCRO3	Squamous cell carcinoma-related oncogene
+FB:FBgn0033784	SCCRO3	Squamous cell carcinoma-related oncogene 3
 FB:FBgn0003329	scd	sex combs distal
 FB:FBgn0025682	scf	supercoiling factor
 FB:FBgn0003331	scg	scrambled egg
 FB:FBgn0025391	Scg?	Sarcoglycan delta
 FB:FBgn0003332	sch	slender chaetae
-FB:FBgn0032221	Schip1	Schwannomin interacting protein
+FB:FBgn0032221	Schip1	Schwannomin interacting protein 1
 FB:FBgn0040918	schlank	schlank
 FB:FBgn0026165	schmalspur	schmalspur
 FB:FBgn0036925	schuy	schumacher-levy
-FB:FBgn0044385	Scim9	Sensitized chromosome inheritance modifier
+FB:FBgn0044385	Scim9	Sensitized chromosome inheritance modifier 9
 FB:FBgn0266491	SclA	Sarcolamban A
 FB:FBgn0030357	Sclp	Sclp
 FB:FBgn0003335	Scn	Scutenick
@@ -6484,11 +6494,11 @@ FB:FBgn0035298	SCOT	Succinyl-CoA:3-ketoacid CoA transferase
 FB:FBgn0003325	Scotched-eye	Scotched eye
 FB:FBgn0262467	Scox	Synthesis of cytochrome c oxidase
 FB:FBgn0003336	scp	scooped
-FB:FBgn0020907	Scp2	Sarcoplasmic calcium-binding protein
+FB:FBgn0020907	Scp2	Sarcoplasmic calcium-binding protein 2
 FB:FBgn0037879	scpr-C	SCP-containing protein C
 FB:FBgn0015808	ScpX	Sterol carrier protein X-related thiolase
 FB:FBgn0261385	scra	scraps
-FB:FBgn0035390	scramb2	scramblase
+FB:FBgn0035390	scramb2	scramblase 2
 FB:FBgn0044346	scratch-like1	scratch-like1
 FB:FBgn0044345	scratch-like2	scratch-like2
 FB:FBgn0263289	scrib	scribble
@@ -6498,7 +6508,7 @@ FB:FBgn0004880	scrt	scratch
 FB:FBgn0264659	scrub	scrub
 FB:FBgn0003338	scruff	scruff
 FB:FBgn0022765	Scruffy	Scruffy
-FB:FBgn0004888	Scs?1	Succinyl-coenzyme A synthetase alpha subunit
+FB:FBgn0004888	Scs?1	Succinyl-coenzyme A synthetase alpha subunit 1
 FB:FBgn0021765	scu	scully
 FB:FBgn0050044	s-cup	stanley-cup
 FB:FBgn0005590	scw	screw
@@ -6541,7 +6551,7 @@ FB:FBgn0050069	Sdb	SAXO downstream of blistered
 FB:FBgn0020784	sDBP-X	satellite DNA binding protein X
 FB:FBgn0010415	Sdc	Syndecan
 FB:FBgn0014028	SdhB	Succinate dehydrogenase, subunit B (iron-sulfur)
-FB:FBgn0052823	Sdic3	Sperm-specific dynein intermediate chain
+FB:FBgn0052823	Sdic3	Sperm-specific dynein intermediate chain 3
 FB:FBgn0021764	sdk	sidekick
 FB:FBgn0011231	sdl	seedless
 FB:FBgn0003348	sdp	sandpaper
@@ -6551,8 +6561,8 @@ FB:FBgn0067646	sdv	sedov
 FB:FBgn0003350	sdx	spreadex
 FB:FBgn0086348	se	sepia
 FB:FBgn0037912	sea	scheggia
-FB:FBgn0010331	Sebp344	Secretion enhancer-binding protein
-FB:FBgn0024509	Sec13	Secretory
+FB:FBgn0010331	Sebp344	Secretion enhancer-binding protein 344
+FB:FBgn0024509	Sec13	Secretory 13
 FB:FBgn0010638	Sec61?	Sec61 beta subunit
 FB:FBgn0031607	Secp43	tRNA Selenocysteine associated protein
 FB:FBgn0037347	SecS	Sec synthetase
@@ -6561,19 +6571,19 @@ FB:FBgn0003353	sei	seizure
 FB:FBgn0040336	Seipin	Seipin
 FB:FBgn0263260	sel	seele
 FB:FBgn0030350	SelG	Selenoprotein G
-FB:FBgn0011259	Sema1a	Semaphorin
+FB:FBgn0011259	Sema1a	Semaphorin 1a
 FB:FBgn0005347	semi-f	semi-forked
 FB:FBgn0028944	Semp1	Seminal metalloprotease-1
 FB:FBgn0037036	Sems	Seminase
-FB:FBgn0031406	Send1	Spermathecal endopeptidase
+FB:FBgn0031406	Send1	Spermathecal endopeptidase 1
 FB:FBgn0031676	senju	senju
 FB:FBgn0002573	sens	senseless
 FB:FBgn0051632	sens-2	senseless-2
 FB:FBgn0003354	sens(3)str	sensitive to streptomycin
-FB:FBgn0011710	Septin1	Septin
+FB:FBgn0011710	Septin1	Septin 1
 FB:FBgn0028991	seq	sequoia
 FB:FBgn0004197	Ser	Serrate
-FB:FBgn0011832	Ser12	Serine protease
+FB:FBgn0011832	Ser12	Serine protease 12
 FB:FBgn0019929	Ser7	Ser7
 FB:FBgn0019928	Ser8	Ser8
 FB:FBgn0263006	SERCA	Sarco/endoplasmic reticulum Ca(2+)-ATPase
@@ -6583,7 +6593,7 @@ FB:FBgn0010414	SerT	Serotonin transporter
 FB:FBgn0003359	sesA	stress-sensitive A
 FB:FBgn0034897	Sesn	Sestrin
 FB:FBgn0014879	Set	Set
-FB:FBgn0011474	Set8	SET domain containing
+FB:FBgn0011474	Set8	SET domain containing 8
 FB:FBgn0035842	Setx	Senataxin
 FB:FBgn0003366	sev	sevenless
 FB:FBgn0010171	sey	scratched eyes
@@ -6595,7 +6605,7 @@ FB:FBgn0003368	sfc	stiff chaetae
 FB:FBgn0036544	sff	sugar-free frosting
 FB:FBgn0020251	sfl	sulfateless
 FB:FBgn0032475	Sfmbt	Scm-related gene containing four mbt domains
-FB:FBgn0036843	Sfxn2	Sideroflexin
+FB:FBgn0036843	Sfxn2	Sideroflexin 2
 FB:FBgn0003369	sg	shortened wing
 FB:FBgn0003370	sge	shifted genitals
 FB:FBgn0050390	Sgf29	SAGA-associated factor 29kDa
@@ -6604,12 +6614,12 @@ FB:FBgn0261445	sgl	sugarless
 FB:FBgn0051472	sgll	sugarlethal
 FB:FBgn0083062	sgo	smeagol
 FB:FBgn0032055	Sgp	Sgroppino
-FB:FBgn0003372	Sgs1	Salivary gland secretion
+FB:FBgn0003372	Sgs1	Salivary gland secretion 1
 FB:FBgn0038660	Sgsh	N-sulfoglucosamine sulfohydrolase
 FB:FBgn0265101	Sgt1	suppressor-of-G2-allele-of-skp1
 FB:FBgn0003380	Sh	Shaker
 FB:FBgn0035772	Sh3?	Sh3beta
-FB:FBgn0040475	SH3PX1	SH3 and PX domain containing
+FB:FBgn0040475	SH3PX1	SH3 and PX domain containing 1
 FB:FBgn0003382	sha	shavenoid
 FB:FBgn0003384	shakA	shaking A
 FB:FBgn0039273	shams	shams
@@ -6639,7 +6649,7 @@ FB:FBgn0003401	shu	shutdown
 FB:FBgn0031256	shv	shriveled
 FB:FBgn0003403	shy	shy
 FB:FBgn0003404	Si	Ski
-FB:FBgn0003405	si3	ski
+FB:FBgn0003405	si3	ski 3
 FB:FBgn0035050	SiaT	Sialyltransferase
 FB:FBgn0010373	sib	sibless
 FB:FBgn0003406	sic	sichel
@@ -6652,28 +6662,28 @@ FB:FBgn0003407	sie	sieve
 FB:FBgn0085447	sif	still life
 FB:FBgn0038880	SIFaR	SIFamide receptor
 FB:FBgn0034894	sigmar	salivary glands marred
-FB:FBgn0025625	Sik2	Salt-inducible kinase
+FB:FBgn0025625	Sik2	Salt-inducible kinase 2
 FB:FBgn0003408	Sil	Skilike
 FB:FBgn0039296	Sil1	Sil1 nucleotide exchange factor
 FB:FBgn0004666	sim	single-minded
 FB:FBgn0010762	simj	simjang
-FB:FBgn0033935	Sin1	SAPK-interacting protein
+FB:FBgn0033935	Sin1	SAPK-interacting protein 1
 FB:FBgn0022764	Sin3A	Sin3A
 FB:FBgn0003410	sina	seven in absentia
 FB:FBgn0259794	sinah	sina homologue
 FB:FBgn0261245	sing	singles bar
 FB:FBgn0010894	sinu	sinuous
-FB:FBgn0024191	sip1	septin interacting protein
-FB:FBgn0260029	siren5	siren
+FB:FBgn0024191	sip1	septin interacting protein 1
+FB:FBgn0260029	siren5	siren 5
 FB:FBgn0069082	sirio	sirio
-FB:FBgn0024291	Sirt1	Sirtuin
+FB:FBgn0024291	Sirt1	Sirtuin 1
 FB:FBgn0031971	Sirup	Starvation-upregulated protein
 FB:FBgn0003411	sisA	sisterless A
-FB:FBgn0285959	sisRNA:1	stable intronic sequence RNA
+FB:FBgn0285959	sisRNA:1	stable intronic sequence RNA 1
 FB:FBgn0003413	siw	side wings
 FB:FBgn0027364	Six4	Six4
 FB:FBgn0026179	siz	schizo
-FB:FBgn0030300	Sk1	Sphingosine kinase
+FB:FBgn0030300	Sk1	Sphingosine kinase 1
 FB:FBgn0043571	SK2-3	SK2-3
 FB:FBgn0259922	Skadu	Skadu
 FB:FBgn0020782	skarped-wing	skarped wing
@@ -6683,18 +6693,18 @@ FB:FBgn0262600	skf	skiff
 FB:FBgn0032487	Ski6	Ski6
 FB:FBgn0036786	skl	sickle
 FB:FBgn0026177	skn	skinhead
-FB:FBgn0037236	Skp2	S-phase kinase-associated protein
+FB:FBgn0037236	Skp2	S-phase kinase-associated protein 2
 FB:FBgn0025637	SkpA	SKP1-related A
 FB:FBgn0016984	sktl	skittles
 FB:FBgn0032901	sky	skywalker
 FB:FBgn0064141	sl(2)AG2	sl(2)AG2
 FB:FBgn0064140	sl(2)AM1	sl(2)AM1
 FB:FBgn0003418	sla	slimma
-FB:FBgn0033860	S-Lap5	Sperm-Leucylaminopeptidase
+FB:FBgn0033860	S-Lap5	Sperm-Leucylaminopeptidase 5
 FB:FBgn0003419	slb	slim body
 FB:FBgn0041186	Slbp	Stem-loop binding protein
 FB:FBgn0037140	SLC22A	SLC22A family member
-FB:FBgn0030717	Slc25A46a	Solute carrier family 25 member
+FB:FBgn0030717	Slc25A46a	Solute carrier family 25 member 46a
 FB:FBgn0031998	SLC5A11	Sodium/solute co-transporter-like 5A11
 FB:FBgn0039403	Sld5	Sld5
 FB:FBgn0287234	slf	schlaff
@@ -6706,8 +6716,8 @@ FB:FBgn0035001	Slik	Sterile20-like kinase
 FB:FBgn0261477	slim	scruin like at the midline
 FB:FBgn0016069	slinky	slinky
 FB:FBgn0003426	slip	slipshod
-FB:FBgn0024728	Slip1	SLo interacting protein
-FB:FBgn0037602	SLIRP2	SRA stem-loop interacting RNA binding protein
+FB:FBgn0024728	Slip1	SLo interacting protein 1
+FB:FBgn0037602	SLIRP2	SRA stem-loop interacting RNA binding protein 2
 FB:FBgn0014386	slk	schluckless
 FB:FBgn0038524	sll	slalom
 FB:FBgn0040011	Slmap	Sarcolemma associated protein
@@ -6716,10 +6726,10 @@ FB:FBgn0029161	slmo	slowmo
 FB:FBgn0033657	Sln	Silnoon
 FB:FBgn0003429	slo	slowpoke
 FB:FBgn0264087	Slob	Slowpoke binding protein
-FB:FBgn0052736	sloth1	sloth
+FB:FBgn0052736	sloth1	sloth 1
 FB:FBgn0002941	slou	slouch
 FB:FBgn0035539	slow	slowdown
-FB:FBgn0003430	slp1	sloppy paired
+FB:FBgn0003430	slp1	sloppy paired 1
 FB:FBgn0030018	slpr	slipper
 FB:FBgn0003431	slrp	slow receptor potential
 FB:FBgn0086906	sls	sallimus
@@ -6740,14 +6750,14 @@ FB:FBgn0003436	sma	smaller
 FB:FBgn0044014	Smac49a	Smac49a
 FB:FBgn0085409	smal	smoke alarm
 FB:FBgn0263346	smash	smallish
-FB:FBgn0015615	SMC3	Structural maintenance of chromosomes
+FB:FBgn0015615	SMC3	Structural maintenance of chromosomes 3
 FB:FBgn0003438	smd	smalloid
 FB:FBgn0060293	smet	smetana
 FB:FBgn0000426	SmF	Small ribonucleoprotein particle protein SmF
 FB:FBgn0016070	smg	smaug
 FB:FBgn0019890	Smg5	Smg5 nonsense mediated mRNA decay factor
 FB:FBgn0039260	Smg6	Smg6
-FB:FBgn0016927	smi26D	smell impaired
+FB:FBgn0016927	smi26D	smell impaired 26D
 FB:FBgn0016983	smid	smallminded
 FB:FBgn0003441	smk	smoky
 FB:FBgn0036641	Smn	survival motor neuron
@@ -6766,7 +6776,7 @@ FB:FBgn0003447	sn	singed
 FB:FBgn0003448	sna	snail
 FB:FBgn0061481	snafu	snafu
 FB:FBgn0086129	snama	something that sticks like glue
-FB:FBgn0028552	?Snap1	gamma Soluble NSF attachment protein
+FB:FBgn0028552	?Snap1	gamma Soluble NSF attachment protein 1
 FB:FBgn0011288	Snap25	Synaptosomal-associated protein 25kDa
 FB:FBgn0031455	Snapin	SNAP associated protein
 FB:FBgn0004693	Snb	Snowblind
@@ -6778,7 +6788,7 @@ FB:FBgn0003450	snk	snake
 FB:FBgn0086916	snky	sneaky
 FB:FBgn0003451	snl	sonless
 FB:FBgn0037338	Snm1	Snm1
-FB:FBgn0035815	Snmp2	Sensory neuron membrane protein
+FB:FBgn0035815	Snmp2	Sensory neuron membrane protein 2
 FB:FBgn0265630	sno	strawberry notch
 FB:FBgn0085450	Snoo	Sno oncogene
 FB:FBgn0086663	snoRNA:?18S-1275	snoRNA:Psi18S-1275
@@ -6843,7 +6853,7 @@ FB:FBgn0065047	snoRNA:U3:54Ab	snoRNA:U3:54Ab
 FB:FBgn0065046	snoRNA:U3:9B	snoRNA:U3:9B
 FB:FBgn0011713	snowballs	snowballs
 FB:FBgn0265192	Snp	Snipper
-FB:FBgn0011715	Snr1	Snf5-related
+FB:FBgn0011715	Snr1	Snf5-related 1
 FB:FBgn0033915	Snrk	SNF related kinase
 FB:FBgn0000001	snRNA:4.5S	small nuclear RNA 4.5S
 FB:FBgn0022975	snRNP105K	snRNP105K
@@ -6858,14 +6868,14 @@ FB:FBgn0022965	snRNPF	snRNPF
 FB:FBgn0024189	sns	sticks and stones
 FB:FBgn0031646	snsl	snustorr snarlik
 FB:FBgn0259199	Snup	Snurportin
-FB:FBgn0031457	Snx21	Sorting nexin
+FB:FBgn0031457	Snx21	Sorting nexin 21
 FB:FBgn0029976	snz	snazarus
 FB:FBgn0003460	so	sine oculis
 FB:FBgn0004892	sob	sister of odd and bowl
 FB:FBgn0002285	soba	suppressor of bulge and argos
 FB:FBgn0033654	Sobp	Sine oculis-binding protein
-FB:FBgn0003462	Sod1	Superoxide dismutase
-FB:FBgn0022359	Sodh2	Sorbitol dehydrogenase
+FB:FBgn0003462	Sod1	Superoxide dismutase 1
+FB:FBgn0022359	Sodh2	Sorbitol dehydrogenase 2
 FB:FBgn0039386	Sodq	Sodesque
 FB:FBgn0003318	soft-brown	soft brown
 FB:FBgn0085431	Sol1	Sol1
@@ -6873,7 +6883,7 @@ FB:FBgn0003465	som	sombre
 FB:FBgn0061480	somatostatin	somatostatin
 FB:FBgn0034903	sona	sol narae
 FB:FBgn0061479	sorc	sorciere
-FB:FBgn0030693	sordd1	suppression of retinal degeneration disease 1 upon overexpression
+FB:FBgn0030693	sordd1	suppression of retinal degeneration disease 1 upon overexpression 1
 FB:FBgn0001965	Sos	Son of sevenless
 FB:FBgn0039232	sosie	sosie
 FB:FBgn0038225	soti	scotti
@@ -6883,7 +6893,7 @@ FB:FBgn0036302	sowah	sosondowah
 FB:FBgn0037460	sowi	solwind
 FB:FBgn0024288	Sox100B	Sox100B
 FB:FBgn0039938	Sox102F	Sox102F
-FB:FBgn0005612	Sox14	Sox box protein
+FB:FBgn0005612	Sox14	Sox box protein 14
 FB:FBgn0036411	Sox21a	Sox21a
 FB:FBgn0042630	Sox21b	Sox21b
 FB:FBgn0029123	SoxN	SoxNeuro
@@ -6893,13 +6903,13 @@ FB:FBgn0003034	SP	Sex Peptide
 FB:FBgn0020378	Sp1	Sp1
 FB:FBgn0263236	SP1029	SP1029
 FB:FBgn0035710	SP1173	SP1173
-FB:FBgn0053329	Sp212	Serine-peptidase
+FB:FBgn0053329	Sp212	Serine-peptidase 212
 FB:FBgn0034070	SP2353	SP2353
 FB:FBgn0038890	sp3	spermathreecae
 FB:FBgn0260470	SP555	SP555
 FB:FBgn0033358	spab	space blanket
 FB:FBgn0039463	Spag1	Spag1 axonemal dynein assembly factor
-FB:FBgn0032368	spag4	sperm-associated antigen
+FB:FBgn0032368	spag4	sperm-associated antigen 4
 FB:FBgn0026562	SPARC	Secreted protein, acidic, cysteine-rich
 FB:FBgn0037265	spartin	spartin
 FB:FBgn0039141	spas	spastin
@@ -6957,7 +6967,7 @@ FB:FBgn0036218	Sprn	Spermitin
 FB:FBgn0082585	sprt	sprite
 FB:FBgn0003488	sprw	spread wings
 FB:FBgn0003491	sps	spastic
-FB:FBgn0032224	Sps2	Selenophosphate synthetase
+FB:FBgn0032224	Sps2	Selenophosphate synthetase 2
 FB:FBgn0033348	Spt	Spitting Image
 FB:FBgn0036374	Spt20	Spt20
 FB:FBgn0037981	Spt3	Spt3
@@ -6984,18 +6994,18 @@ FB:FBgn0016737	SR3-7	SR3-7
 FB:FBgn0016738	SR3-8	SR3-8
 FB:FBgn0086370	sra	sarah
 FB:FBgn0029121	Sras	severas
-FB:FBgn0262733	Src64B	Src oncogene at
+FB:FBgn0262733	Src64B	Src oncogene at 64B
 FB:FBgn0014033	Sr-CI	Scavenger receptor class C, type I
 FB:FBgn0003505	Srf	Surf wings
 FB:FBgn0015547	srg	semirough
-FB:FBgn0039239	Srg1	Sting-regulated gene
+FB:FBgn0039239	Srg1	Sting-regulated gene 1
 FB:FBgn0037248	srl	spargel
 FB:FBgn0038049	Srlp	Spliceosome-ribosome linker protein
 FB:FBgn0041716	srn	stern
 FB:FBgn0262112	sro	shroud
 FB:FBgn0003507	srp	serpent
-FB:FBgn0024285	Srp54	Splicing regulatory protein
-FB:FBgn0025702	Srpk79D	Serine-arginine protein kinase at
+FB:FBgn0024285	Srp54	Splicing regulatory protein 54
+FB:FBgn0025702	Srpk79D	Serine-arginine protein kinase at 79D
 FB:FBgn0019933	S(rux)2C	S(rux)2C
 FB:FBgn0261952	srw	shrew
 FB:FBgn0030876	Srx	Sulfiredoxin
@@ -7016,7 +7026,7 @@ FB:FBgn0041783	S(Sev-CycE)D28	S(Sev-CycE)D28
 FB:FBgn0041782	S(Sev-CycE)D30	S(Sev-CycE)D30
 FB:FBgn0029157	ssh	slingshot
 FB:FBgn0036945	Ssk	Snakeskin
-FB:FBgn0041780	Ssl2	Strictosidine synthase-like
+FB:FBgn0041780	Ssl2	Strictosidine synthase-like 2
 FB:FBgn0036248	ssp	sunspot
 FB:FBgn0041189	SSP6107	SSP6107
 FB:FBgn0010278	Ssrp	Structure specific recognition protein
@@ -7024,7 +7034,7 @@ FB:FBgn0036476	sstn	stepping stone
 FB:FBgn0031054	Ssu72	Ssu72 CTD phosphatase
 FB:FBgn0024987	ssx	sister-of-Sex-lethal
 FB:FBgn0003515	st	scarlet
-FB:FBgn0033887	St4	Sulfotransferase
+FB:FBgn0033887	St4	Sulfotransferase 4
 FB:FBgn0003517	sta	stubarista
 FB:FBgn0266719	stac	staccato
 FB:FBgn0263980	Stacl	Stac-like
@@ -7032,7 +7042,7 @@ FB:FBgn0266521	stai	stathmin
 FB:FBgn0024836	stan	starry night
 FB:FBgn0035028	Start1	Start1
 FB:FBgn0030850	stas	Stasimon
-FB:FBgn0016917	Stat92E	Signal-transducer and activator of transcription protein at
+FB:FBgn0016917	Stat92E	Signal-transducer and activator of transcription protein at 92E
 FB:FBgn0003520	stau	staufen
 FB:FBgn0001978	stc	shuttle craft
 FB:FBgn0020249	stck	steamer duck
@@ -7066,7 +7076,7 @@ FB:FBgn0003518	Stigmata	Stigmata
 FB:FBgn0003527	stil	stand still
 FB:FBgn0045073	Stim	Stromal interaction molecule
 FB:FBgn0033453	Sting	Sting
-FB:FBgn0024352	Stip1	Stress induced phosphoprotein
+FB:FBgn0024352	Stip1	Stress induced phosphoprotein 1
 FB:FBgn0261041	stj	straightjacket
 FB:FBgn0064138	stkr	stalker
 FB:FBgn0086408	stl	stall
@@ -7077,11 +7087,11 @@ FB:FBgn0016975	stnB	stoned B
 FB:FBgn0003534	sto	stocky
 FB:FBgn0069079	stoc	stocherkahn
 FB:FBgn0028863	stol	stolid
-FB:FBgn0034936	Stoml2	Stomatin like
+FB:FBgn0034936	Stoml2	Stomatin like 2
 FB:FBgn0003535	stop	stopped
 FB:FBgn0001428	stout	strung out
 FB:FBgn0003536	stp	silver tips
-FB:FBgn0003537	Stp-1	Strapped on
+FB:FBgn0003537	Stp-1	Strapped on 1
 FB:FBgn0003539	Str	Stretched wings
 FB:FBgn0032020	strat	stratum
 FB:FBgn0016943	strb	starburst
@@ -7095,7 +7105,7 @@ FB:FBgn0003540	sts	streaked sterni
 FB:FBgn0003541	St(SD)	Stabilizer of Segregation Distorter
 FB:FBgn0003542	stt	spotty
 FB:FBgn0011336	Stt3B	Catalytic subunit 3B of the oligosaccharyltransferase complex
-FB:FBgn0027052	STUB1	STIP1 homology and U-box containing protein
+FB:FBgn0027052	STUB1	STIP1 homology and U-box containing protein 1
 FB:FBgn0005349	stuck	stuck
 FB:FBgn0045036	stuk	stuk
 FB:FBgn0050263	stum	stumble
@@ -7154,7 +7164,7 @@ FB:FBgn0026345	Su(rdgB)116	Su(rdgB)116
 FB:FBgn0026166	su(rdgB)82	su(rdgB)82
 FB:FBgn0026344	Su(rdgB)83	Su(rdgB)83
 FB:FBgn0040272	Su(Rex)	Su(Rex)
-FB:FBgn0019925	Surf4	Surfeit
+FB:FBgn0019925	Surf4	Surfeit 4
 FB:FBgn0043559	Su(ro<sup>DOM</sup>)1480	Su(ro[DOM])1480
 FB:FBgn0043558	Su(ro<sup>DOM</sup>)1993	Su(ro[DOM])1993
 FB:FBgn0043557	Su(ro<sup>DOM</sup>)2014	Su(ro[DOM])2014
@@ -7256,7 +7266,7 @@ FB:FBgn0026352	Su(SuRaf1)A2-1	Su(SuRaf1)A2-1
 FB:FBgn0026351	Su(SuRaf1)IV	Su(SuRaf1)IV
 FB:FBgn0029120	Su(Sxl<sup>fs</sup>)46	Su(Sxl[fs])46
 FB:FBgn0029119	Su(Sxl<sup>fs</sup>)X2	Su(Sxl[fs])X2
-FB:FBgn0028560	sut4	sugar transporter
+FB:FBgn0028560	sut4	sugar transporter 4
 FB:FBgn0026343	Su(tkv*)3-3	Su(tkv*)3-3
 FB:FBgn0014038	Su(tor)1-1	Su(tor)1-1
 FB:FBgn0014039	Su(tor)1-106	Su(tor)1-106
@@ -7343,19 +7353,19 @@ FB:FBgn0030739	SWIP	Strumpellin and WASH-interacting protein
 FB:FBgn0032731	Swip-1	Swiprosin-1
 FB:FBgn0002044	swm	second mitotic wave missing
 FB:FBgn0003656	sws	swiss cheese
-FB:FBgn0085343	Sws1	SWIM domain containing Srs2 interacting protein
+FB:FBgn0085343	Sws1	SWIM domain containing Srs2 interacting protein 1
 FB:FBgn0030892	Swt1	Swt1 RNA endoribonuclease
 FB:FBgn0003657	swy	swarthy
 FB:FBgn0005361	sx	sexcombless
 FB:FBgn0261403	sxc	super sex combs
-FB:FBgn0038398	sxe2	sex-specific enzyme
+FB:FBgn0038398	sxe2	sex-specific enzyme 2
 FB:FBgn0005362	Sy	Stubby
 FB:FBgn0044018	SY2-2	SY2-2
 FB:FBgn0003660	Syb	Synaptobrevin
 FB:FBgn0024187	syd	sunday driver
 FB:FBgn0037371	Sym	Symplekin
 FB:FBgn0004575	Syn	Synapsin
-FB:FBgn0034135	Syn2	Syntrophin-like
+FB:FBgn0034135	Syn2	Syntrophin-like 2
 FB:FBgn0053094	Synd	Syndapin
 FB:FBgn0003661	syndrome	syndrome
 FB:FBgn0033876	Syngr	Synaptogyrin
@@ -7363,29 +7373,29 @@ FB:FBgn0034691	Synj	Synaptojanin
 FB:FBgn0031650	synr	sayonara
 FB:FBgn0038826	Syp	Syncrip
 FB:FBgn0037603	Sys1	Sys1 golgi trafficking protein
-FB:FBgn0004242	Syt1	Synaptotagmin
-FB:FBgn0011708	Syx5	Syntaxin
+FB:FBgn0004242	Syt1	Synaptotagmin 1
+FB:FBgn0011708	Syx5	Syntaxin 5
 FB:FBgn0086367	t	tan
 FB:FBgn0017482	T3dh	Type III alcohol dehydrogenase
-FB:FBgn0004359	T48	Transcript
+FB:FBgn0004359	T48	Transcript 48
 FB:FBgn0015822	T-A7.1	T-A7.1
 FB:FBgn0011720	TA7-1a	TA7-1a
-FB:FBgn0086358	Tab2	TAK1-associated binding protein
+FB:FBgn0086358	Tab2	TAK1-associated binding protein 2
 FB:FBgn0024281	Tabp	Truncated actin binding protein
 FB:FBgn0026620	tacc	transforming acidic coiled-coil protein
 FB:FBgn0039734	Tace	Tace
 FB:FBgn0032911	tadr	torn and diminished rhabdomeres
 FB:FBgn0261880	Taf	Tripped-and-fell
-FB:FBgn0000617	Taf9	TBP-associated factor
+FB:FBgn0000617	Taf9	TBP-associated factor 9
 FB:FBgn0041092	tai	taiman
 FB:FBgn0037470	Tailor	Tailor
 FB:FBgn0020777	tak	takahe
-FB:FBgn0026323	Tak1	TGF-beta activated kinase
-FB:FBgn0039015	Takl2	Tak1-like
-FB:FBgn0259730	tal-1A	tarsal-less
+FB:FBgn0026323	Tak1	TGF-beta activated kinase 1
+FB:FBgn0039015	Takl2	Tak1-like 2
+FB:FBgn0259730	tal-1A	tarsal-less 1A
 FB:FBgn0023477	Taldo	Transaldolase
 FB:FBgn0041582	tamo	tamo
-FB:FBgn0030330	Tango10	Transport and Golgi organization
+FB:FBgn0030330	Tango10	Transport and Golgi organization 10
 FB:FBgn0031635	tank	tank
 FB:FBgn0028980	tant	tantalus
 FB:FBgn0031030	Tao	Tao
@@ -7396,9 +7406,9 @@ FB:FBgn0003665	tar	tarry
 FB:FBgn0040071	tara	taranis
 FB:FBgn0022961	tardiness	tardiness
 FB:FBgn0033955	Targ	Tarag
-FB:FBgn0053054	Targ1	Terminal ADP-ribose protein glycohydrolase
-FB:FBgn0037690	Task7	TWIK-related acid-sensitive K[+] channel
-FB:FBgn0263602	Tasp1	Taspase
+FB:FBgn0053054	Targ1	Terminal ADP-ribose protein glycohydrolase 1
+FB:FBgn0037690	Task7	TWIK-related acid-sensitive K[+] channel 7
+FB:FBgn0263602	Tasp1	Taspase 1
 FB:FBgn0266579	tau	tau
 FB:FBgn0003666	taw	tawny
 FB:FBgn0260938	tay	tay bridge
@@ -7412,7 +7422,7 @@ FB:FBgn0052506	tbc	trabuco
 FB:FBgn0031233	Tbc1d15-17	TBC1 domain family member 15/17
 FB:FBgn0027509	Tbcd	Tubulin-binding cofactor D
 FB:FBgn0032163	TbCMF46	TbCMF46
-FB:FBgn0020885	Tbf1	TE1 binding factor
+FB:FBgn0020885	Tbf1	TE1 binding factor 1
 FB:FBgn0010329	Tbh	Tyramine beta hydroxylase
 FB:FBgn0025730	tbi	tibi
 FB:FBgn0003670	tbl	tasteblind
@@ -7423,7 +7433,7 @@ FB:FBgn0034423	tbrd-2	testis-specifically expressed bromodomain containing prote
 FB:FBgn0015826	T-C9.12	T-C9.12
 FB:FBgn0003674	Tch	Thin chaetae
 FB:FBgn0003675	Tcp	Third cold paralytic
-FB:FBgn0031060	Tcs4	Threonyl-carbamoyl synthesis
+FB:FBgn0031060	Tcs4	Threonyl-carbamoyl synthesis 4
 FB:FBgn0261697	tctn	tectonic
 FB:FBgn0037874	Tctp	Translationally controlled tumor protein
 FB:FBgn0051858	t-cup	tetleys-cup
@@ -7436,7 +7446,7 @@ FB:FBgn0003680	ted	trapped
 FB:FBgn0086350	tef	teflon
 FB:FBgn0045035	tefu	telomere fusion
 FB:FBgn0015552	teg	tegamino
-FB:FBgn0035504	Teh4	tipE homolog
+FB:FBgn0035504	Teh4	tipE homolog 4
 FB:FBgn0026760	Tehao	Tehao
 FB:FBgn0000633	tei	teiresias
 FB:FBgn0033921	tej	tejas
@@ -7445,12 +7455,12 @@ FB:FBgn0003690	telegraph	telegraph
 FB:FBgn0003864	telescope	telescope
 FB:FBgn0027296	temp	tempura
 FB:FBgn0003681	ten	tenuis chaetae
-FB:FBgn0037857	Tengl4	Testis EndoG-Like
+FB:FBgn0037857	Tengl4	Testis EndoG-Like 4
 FB:FBgn0004449	Ten-m	Tenascin major
-FB:FBgn0041180	Tep4	Thioester-containing protein
+FB:FBgn0041180	Tep4	Thioester-containing protein 4
 FB:FBgn0023479	teq	Tequila
 FB:FBgn0003682	ter	terraced
-FB:FBgn0286784	TER94	Transitional endoplasmic reticulum
+FB:FBgn0286784	TER94	Transitional endoplasmic reticulum 94
 FB:FBgn0003683	term	terminus
 FB:FBgn0034223	Tes	Testin
 FB:FBgn0263392	Tet	Ten-Eleven Translocation (TET) family protein
@@ -7470,8 +7480,8 @@ FB:FBgn0031975	Tg	Transglutaminase
 FB:FBgn0036373	Tgi	Tondu-domain-containing Growth Inhibitor
 FB:FBgn0084120	tgl	tangled
 FB:FBgn0264075	tgo	tango
-FB:FBgn0028901	t-Grip91	testis-specific gamma-tubulin ring protein
-FB:FBgn0266195	Tgs1	Trimethylguanosine synthase
+FB:FBgn0028901	t-Grip91	testis-specific gamma-tubulin ring protein 91
+FB:FBgn0266195	Tgs1	Trimethylguanosine synthase 1
 FB:FBgn0031321	Tgt	tRNA-guanine transglycosylase
 FB:FBgn0030984	tgy	twiggy
 FB:FBgn0010416	TH1	TH1
@@ -7485,7 +7495,7 @@ FB:FBgn0003696	thi	thickhead
 FB:FBgn0003697	thic	thickened aristae
 FB:FBgn0020884	Thin-wing	Thin-wing
 FB:FBgn0003699	thl	thick legs
-FB:FBgn0038978	tHMG1	testis-enriched HMG-box-containing protein
+FB:FBgn0038978	tHMG1	testis-enriched HMG-box-containing protein 1
 FB:FBgn0011233	tho	thousand points of light
 FB:FBgn0031390	tho2	tho2
 FB:FBgn0034939	thoc5	thoc5
@@ -7525,7 +7535,7 @@ FB:FBgn0000964	tj	traffic jam
 FB:FBgn0037976	Tk	Tachykinin
 FB:FBgn0003713	tkd	thickoid
 FB:FBgn0003714	tko	technical knockout
-FB:FBgn0004622	TkR99D	Tachykinin-like receptor at
+FB:FBgn0004622	TkR99D	Tachykinin-like receptor at 99D
 FB:FBgn0003716	tkv	thickveins
 FB:FBgn0262473	Tl	Toll
 FB:FBgn0003718	tlc	tender little chaetae
@@ -7533,15 +7543,15 @@ FB:FBgn0003719	tld	tolloid
 FB:FBgn0283657	Tlk	Tousled-like kinase
 FB:FBgn0003720	tll	tailless
 FB:FBgn0014998	tlr-2	tld-related-2
-FB:FBgn0003721	Tm1	Tropomyosin
+FB:FBgn0003721	Tm1	Tropomyosin 1
 FB:FBgn0262624	Tmhs	Tetraspan membrane protein in hair cell stereocilia
 FB:FBgn0038795	Tmlh	Trimethyllysine hydroxylase
 FB:FBgn0014999	tmo	tammo
 FB:FBgn0082582	tmod	tropomodulin
 FB:FBgn0003725	tms	tumorous
-FB:FBgn0020312	Tmtc3	Transmembrane O-mannosyltransferase targeting cadherins
+FB:FBgn0020312	Tmtc3	Transmembrane O-mannosyltransferase targeting cadherins 3
 FB:FBgn0011234	tmx	trail mix
-FB:FBgn0036579	Tmx3	Thioredoxin-related transmembrane protein
+FB:FBgn0036579	Tmx3	Thioredoxin-related transmembrane protein 3
 FB:FBgn0026160	tna	tonalli
 FB:FBgn0039257	tnc	tenectin
 FB:FBgn0004408	tnk	tonock
@@ -7563,7 +7573,7 @@ FB:FBgn0034476	Toll-7	Toll-7
 FB:FBgn0036978	Toll-9	Toll-9
 FB:FBgn0029114	Tollo	Tollo
 FB:FBgn0026320	Tom	Twin of m4
-FB:FBgn0016041	Tom40	Translocase of outer membrane
+FB:FBgn0016041	Tom40	Translocase of outer membrane 40
 FB:FBgn0031715	tomb	tombola
 FB:FBgn0037828	tomboy20	tomboy20
 FB:FBgn0033074	tomboy40	tomboy40
@@ -7571,30 +7581,30 @@ FB:FBgn0030412	Tomosyn	Tomosyn
 FB:FBgn0003730	ton	tonochaetae
 FB:FBgn0020776	tondo	tondo
 FB:FBgn0003723	tonomacrochaetae	tonomacrochaetae
-FB:FBgn0004924	Top1	Topoisomerase
+FB:FBgn0004924	Top1	Topoisomerase 1
 FB:FBgn0037751	topi	matotopetli
 FB:FBgn0264667	topiary	topiary
 FB:FBgn0003733	tor	torso
 FB:FBgn0003734	torp	torpid
 FB:FBgn0025615	Torsin	Torsin
-FB:FBgn0067642	tortuous-trachea-1	tortuous trachea
+FB:FBgn0067642	tortuous-trachea-1	tortuous trachea 1
 FB:FBgn0015553	tos	tosca
 FB:FBgn0028396	TotA	Turandot A
 FB:FBgn0016973	toto	toto
 FB:FBgn0033636	tou	toutatis
 FB:FBgn0034745	tous	testes of unusual size
 FB:FBgn0035542	TP53INP	Tumor protein p53 inducible nuclear protein
-FB:FBgn0035078	Tpc2	Thiamine pyrophosphate carrier protein
+FB:FBgn0035078	Tpc2	Thiamine pyrophosphate carrier protein 2
 FB:FBgn0086355	Tpi	Triose phosphate isomerase
 FB:FBgn0003739	Tpl	Triplolethal
-FB:FBgn0051281	Tpl94D	Transition protein-like
-FB:FBgn0010423	TpnC47D	Troponin C at
+FB:FBgn0051281	Tpl94D	Transition protein-like 94D
+FB:FBgn0010423	TpnC47D	Troponin C at 47D
 FB:FBgn0020370	TppII	Tripeptidyl-peptidase II
 FB:FBgn0034661	tpr	tracheal-prostasin
-FB:FBgn0027560	Tps1	Trehalose-6-phosphate synthase
+FB:FBgn0027560	Tps1	Trehalose-6-phosphate synthase 1
 FB:FBgn0086674	Tpst	Tyrosylprotein sulfotransferase
 FB:FBgn0003741	tra	transformer
-FB:FBgn0026319	Traf4	TNF-receptor-associated factor
+FB:FBgn0026319	Traf4	TNF-receptor-associated factor 4
 FB:FBgn0041775	tral	trailer hitch
 FB:FBgn0040340	TRAM	TRAM
 FB:FBgn0003752	translucent	translucent
@@ -7607,7 +7617,7 @@ FB:FBgn0003744	trc	tricornered
 FB:FBgn0039668	Trc8	TRC8 ring finger protein
 FB:FBgn0003745	trd	tridenticle
 FB:FBgn0003746	tre	triangle eye
-FB:FBgn0046687	Tre1	Trapped in endoderm
+FB:FBgn0046687	Tre1	Trapped in endoderm 1
 FB:FBgn0003748	Treh	Trehalase
 FB:FBgn0038767	trem	trade embargo
 FB:FBgn0033644	Tret1-2	Trehalose transporter 1-2
@@ -7616,7 +7626,7 @@ FB:FBgn0024185	trg	trithoraxgleich
 FB:FBgn0262139	trh	trachealess
 FB:FBgn0035187	Trhn	Tryptophan hydroxylase neuronal
 FB:FBgn0003750	tri	trident
-FB:FBgn0051721	Trim9	Tripartite motif containing
+FB:FBgn0051721	Trim9	Tripartite motif containing 9
 FB:FBgn0014400	trimmed	trimmed
 FB:FBgn0260015	trin	trinidad
 FB:FBgn0024277	trio	trio
@@ -7630,10 +7640,10 @@ FB:FBgn0067641	trou	trou
 FB:FBgn0260017	troya	troya
 FB:FBgn0003861	trp	transient receptor potential
 FB:FBgn0032593	Trp?	Transient receptor potential cation channel gamma
-FB:FBgn0011584	Trp1	Translocation protein
+FB:FBgn0011584	Trp1	Translocation protein 1
 FB:FBgn0010803	TrpRS	Tryptophanyl-tRNA synthetase
 FB:FBgn0023518	trr	trithorax-related
-FB:FBgn0260861	Trs23	TRAPP subunit
+FB:FBgn0260861	Trs23	TRAPP subunit 23
 FB:FBgn0033528	trsn	translin
 FB:FBgn0027938	trt	trt
 FB:FBgn0014401	tru	troupa
@@ -7641,7 +7651,7 @@ FB:FBgn0264668	truncated	truncated
 FB:FBgn0038055	trus	toys are us
 FB:FBgn0085391	trv	trivet
 FB:FBgn0003862	trx	trithorax
-FB:FBgn0020653	Trxr1	Thioredoxin reductase
+FB:FBgn0020653	Trxr1	Thioredoxin reductase 1
 FB:FBgn0003863	?Try	alphaTrypsin
 FB:FBgn0010357	?Try	betaTrypsin
 FB:FBgn0010358	?Try	deltaTrypsin
@@ -7653,16 +7663,16 @@ FB:FBgn0011556	?Try	zetaTrypsin
 FB:FBgn0015001	?Try	iotaTrypsin
 FB:FBgn0043470	?Try	lambdaTry
 FB:FBgn0043471	?Try	kappaTry
-FB:FBgn0015316	Try29F	Trypsin
+FB:FBgn0015316	Try29F	Trypsin 29F
 FB:FBgn0024920	Ts	Thymidylate synthase
 FB:FBgn0014074	Tsc	Triple sex combs
 FB:FBgn0026317	Tsc1	Tsc1
-FB:FBgn0022355	Tsf1	Transferrin
+FB:FBgn0022355	Tsf1	Transferrin 1
 FB:FBgn0003865	tsg	twisted gastrulation
 FB:FBgn0003866	tsh	teashirt
 FB:FBgn0003867	tsl	torso-like
 FB:FBgn0031850	Tsp	Thrombospondin
-FB:FBgn0024361	Tsp2A	Tetraspanin
+FB:FBgn0024361	Tsp2A	Tetraspanin 2A
 FB:FBgn0031263	Tspo	Translocator protein
 FB:FBgn0011726	tsr	twinstar
 FB:FBgn0037073	Tsr1	Tsr1 ribosome assembly factor
@@ -7672,13 +7682,13 @@ FB:FBgn0039117	tst	twister
 FB:FBgn0033378	tsu	tsunagi
 FB:FBgn0003868	tt	tilt
 FB:FBgn0003869	tta	tetanic
-FB:FBgn0021847	Ttc7	Tetratricopeptide repeat domain
-FB:FBgn0259939	ttd1	TRPL translocation defect
+FB:FBgn0021847	Ttc7	Tetratricopeptide repeat domain 7
+FB:FBgn0259939	ttd1	TRPL translocation defect 1
 FB:FBgn0069075	ttf	tintenfisch
 FB:FBgn0030502	tth	toothrin
-FB:FBgn0037741	Tti1	Telo2 interacting protein
+FB:FBgn0037741	Tti1	Telo2 interacting protein 1
 FB:FBgn0003870	ttk	tramtrack
-FB:FBgn0026147	TTLL4A	Tubulin tyrosine ligase-like
+FB:FBgn0026147	TTLL4A	Tubulin tyrosine ligase-like 4A
 FB:FBgn0015554	ttp	tip-tap
 FB:FBgn0003871	ttr	tetrapter
 FB:FBgn0265974	ttv	tout-velu
@@ -7701,16 +7711,16 @@ FB:FBgn0010183	tu(2)K	tu(2)K
 FB:FBgn0003879	tu(2)W	tumor(2)W
 FB:FBgn0010185	tu(3)1b	tu(3)1b
 FB:FBgn0010188	tu-36e	tu-36e
-FB:FBgn0003880	tu(3)be	benign tumor in chromosome
+FB:FBgn0003880	tu(3)be	benign tumor in chromosome 3
 FB:FBgn0003881	tu(3)C4	tumor(3)C4
 FB:FBgn0010186	tu(3)mt	tu(3)mt
 FB:FBgn0010187	tu(3)pb	tu(3)pb
 FB:FBgn0010189	tu-47	tu-47
 FB:FBgn0010190	tu-54e	tu-54e
 FB:FBgn0003882	tub	tube
-FB:FBgn0010097	?Tub37C	gamma-Tubulin at
-FB:FBgn0003884	?Tub84B	alpha-Tubulin at
-FB:FBgn0003889	?Tub85D	beta-Tubulin at
+FB:FBgn0010097	?Tub37C	gamma-Tubulin at 37C
+FB:FBgn0003884	?Tub84B	alpha-Tubulin at 84B
+FB:FBgn0003889	?Tub85D	beta-Tubulin at 85D
 FB:FBgn0003891	tud	tudor
 FB:FBgn0035121	Tudor-SN	Tudor staphylococcal nuclease
 FB:FBgn0003894	Tul	Turneduplike
@@ -7768,29 +7778,29 @@ FB:FBgn0003907	tyl	tinylike
 FB:FBgn0031038	Tyler	Tyler
 FB:FBgn0082580	tym	thyme
 FB:FBgn0284435	tyn	trynity
-FB:FBgn0003910	tyr1	tyrosine
-FB:FBgn0003911	Tyr2	Tyrosine
+FB:FBgn0003910	tyr1	tyrosine 1
+FB:FBgn0003911	Tyr2	Tyrosine 2
 FB:FBgn0027080	TyrRS	Tyrosyl-tRNA synthetase
 FB:FBgn0037024	tzn	tenzing norgay
 FB:FBgn0003914	U	Upturned
 FB:FBgn0067045	U12	U12
 FB:FBgn0067044	U14	U14
 FB:FBgn0033210	U2A	U2A
-FB:FBgn0005411	U2af50	U2 small nuclear riboprotein auxiliary factor
-FB:FBgn0053505	U3-55K	U3 small nuclear riboprotein factor
+FB:FBgn0005411	U2af50	U2 small nuclear riboprotein auxiliary factor 50
+FB:FBgn0053505	U3-55K	U3 small nuclear riboprotein factor 55K
 FB:FBgn0067043	U4	U4
-FB:FBgn0036733	U4-U6-60K	U4-U6 small nuclear riboprotein factor
+FB:FBgn0036733	U4-U6-60K	U4-U6 small nuclear riboprotein factor 60K
 FB:FBgn0043968	U5E3	U5E3
 FB:FBgn0043967	U5E3sis	U5E3sis
 FB:FBgn0005365	UB597	UB597
-FB:FBgn0004436	Ubc6	Ubiquitin conjugating enzyme
+FB:FBgn0004436	Ubc6	Ubiquitin conjugating enzyme 6
 FB:FBgn0035853	UbcE2M	NEDD8-conjugating enzyme UbcE2M
 FB:FBgn0028467	Ube4A	Ubiquitination factor E4A
 FB:FBgn0041091	ubi-d4	ubi-d4
 FB:FBgn0086558	Ubi-p5E	Ubiquitin-5E
 FB:FBgn0003943	Ubi-p63E	Ubiquitin-63E
 FB:FBgn0022224	ubl	ubiquitin like
-FB:FBgn0027526	Ublcp1	Ubiquitin-like domain-containing C-terminal domain phosphatase
+FB:FBgn0027526	Ublcp1	Ubiquitin-like domain-containing C-terminal domain phosphatase 1
 FB:FBgn0031057	Ubqn	Ubiquilin
 FB:FBgn0030809	Ubr1	Ubr1 ubiquitin ligase
 FB:FBgn0260970	Ubr3	Ubr3 ubiquitin ligase
@@ -7798,21 +7808,21 @@ FB:FBgn0003944	Ubx	Ultrabithorax
 FB:FBgn0026014	UC119	UC119
 FB:FBgn0030370	Uch-L5R	Uch-L5-related
 FB:FBgn0263398	Uck	Uridine-cytidine kinase
-FB:FBgn0030872	Ucp4A	Uncoupling protein
+FB:FBgn0030872	Ucp4A	Uncoupling protein 4A
 FB:FBgn0033261	udd	under-developed
 FB:FBgn0039226	Ude	Uracil-DNA degrading factor
 FB:FBgn0039113	udt	undicht
-FB:FBgn0035601	Uev1A	Ubiquitin-conjugating enzyme variant
+FB:FBgn0035601	Uev1A	Ubiquitin-conjugating enzyme variant 1A
 FB:FBgn0262124	uex	unextended
 FB:FBgn0003947	Uf	Unfolded
-FB:FBgn0034061	Ufc1	Ubiquitin-fold modifier conjugating enzyme
+FB:FBgn0034061	Ufc1	Ubiquitin-fold modifier conjugating enzyme 1
 FB:FBgn0020612	Ufo	Ultra female overexpression
-FB:FBgn0036512	Ufsp2	UFM1 specific peptidase
+FB:FBgn0036512	Ufsp2	UFM1 specific peptidase 2
 FB:FBgn0024994	Ugalt	UDP-galactose transporter
 FB:FBgn0014075	Uggt	UDP-glucose-glycoprotein glucosyltransferase
 FB:FBgn0035978	UGP	UDP-glucose pyrophosphorylase
 FB:FBgn0015663	Ugt36A1	UDP-glycosyltransferase family 36 member A1
-FB:FBgn0045800	Uhg1	U snoRNA host gene
+FB:FBgn0045800	Uhg1	U snoRNA host gene 1
 FB:FBgn0031879	uif	uninflatable
 FB:FBgn0086691	UK114	UK114
 FB:FBgn0027603	Ulp1	Ulp1
@@ -7826,7 +7836,7 @@ FB:FBgn0035756	unc-13-4A	unc-13-4A
 FB:FBgn0024184	unc-4	unc-4
 FB:FBgn0034013	unc-5	unc-5
 FB:FBgn0037609	Unc50	Unc50 RNA binding protein
-FB:FBgn0040395	Unc-76	Uncoordinated
+FB:FBgn0040395	Unc-76	Uncoordinated 76
 FB:FBgn0015559	unch	unchained
 FB:FBgn0003951	uncl	uncoordinated-like
 FB:FBgn0031264	uncNac?	uncharacterized nascent polypeptide-associated complex beta subunit
@@ -7839,7 +7849,7 @@ FB:FBgn0003953	unp	unexpanded
 FB:FBgn0015561	unpg	unplugged
 FB:FBgn0263352	Unr	Upstream of N-ras
 FB:FBgn0004169	up	upheld
-FB:FBgn0004956	upd1	unpaired
+FB:FBgn0004956	upd1	unpaired 1
 FB:FBgn0030354	Upf1	Upf1 RNA helicase
 FB:FBgn0029992	Upf2	Upf2
 FB:FBgn0034923	Upf3	Upf3
@@ -7851,16 +7861,16 @@ FB:FBgn0003959	upw	upward
 FB:FBgn0030733	UQCR-14	Ubiquinol-cytochrome c reductase 14 kDa subunit
 FB:FBgn0003960	urd	urdur
 FB:FBgn0035025	uri	unconventional prefoldin RPB5 interactor
-FB:FBgn0053276	Urm1	Ubiquitin-related modifier
+FB:FBgn0053276	Urm1	Ubiquitin-related modifier 1
 FB:FBgn0003961	Uro	Urate oxidase
-FB:FBgn0030066	Uros1	Uroporphyrinogen III synthase
+FB:FBgn0030066	Uros1	Uroporphyrinogen III synthase 1
 FB:FBgn0003962	us	undersized
 FB:FBgn0013739	usdy	unsteady
-FB:FBgn0035965	Use1	Unconventional SNARE in the ER
+FB:FBgn0035965	Use1	Unconventional SNARE in the ER 1
 FB:FBgn0029711	Usf	Usf
 FB:FBgn0003963	ush	u-shaped
 FB:FBgn0003964	usp	ultraspiracle
-FB:FBgn0030366	Usp7	Ubiquitin-specific protease
+FB:FBgn0030366	Usp7	Ubiquitin-specific protease 7
 FB:FBgn0260749	Utx	Utx histone demethylase
 FB:FBgn0010360	UVhs	UV and heat shock response
 FB:FBgn0032499	Uvrag	UV-resistance associated gene
@@ -7891,7 +7901,7 @@ FB:FBgn0261528	vainsE	vainsE
 FB:FBgn0066323	val	valiet
 FB:FBgn0027079	ValRS	Valyl-tRNA synthetase
 FB:FBgn0003967	vam	vacuolar medulla
-FB:FBgn0266186	Vamp7	Vesicle-associated membrane protein
+FB:FBgn0266186	Vamp7	Vesicle-associated membrane protein 7
 FB:FBgn0015838	Vang	Van Gogh
 FB:FBgn0040069	vanin-like	vanin-like
 FB:FBgn0003968	vao	varied outspread
@@ -7931,7 +7941,7 @@ FB:FBgn0022960	vimar	visceral mesodermal armadillo-repeats
 FB:FBgn0003976	vin	vin
 FB:FBgn0004397	Vinc	Vinculin
 FB:FBgn0003977	vir	virilizer
-FB:FBgn0043841	vir-1	virus-induced RNA
+FB:FBgn0043841	vir-1	virus-induced RNA 1
 FB:FBgn0033748	vis	vismay
 FB:FBgn0024274	Vitamin-D-hydroxylase	Vitamin D hydroxylase
 FB:FBgn0052418	vito	viriato
@@ -7952,16 +7962,16 @@ FB:FBgn0041088	volcano	volcano
 FB:FBgn0003989	vr	varnished
 FB:FBgn0263143	vret	vreteno
 FB:FBgn0016076	vri	vrille
-FB:FBgn0243516	Vrp1	Verprolin
+FB:FBgn0243516	Vrp1	Verprolin 1
 FB:FBgn0286507	vrs	versager
 FB:FBgn0003990	vs	vesiculated
 FB:FBgn0045823	vsg	visgun
 FB:FBgn0003991	vss	variable size and shape
 FB:FBgn0003992	vst	vestar
-FB:FBgn0263511	Vsx1	Visual system homeobox
+FB:FBgn0263511	Vsx1	Visual system homeobox 1
 FB:FBgn0004696	vt	verticals
 FB:FBgn0020772	vta	vena transversa interrupta
-FB:FBgn0035251	Vta1	Vesicle trafficking
+FB:FBgn0035251	Vta1	Vesicle trafficking 1
 FB:FBgn0260987	vtd	verthandi
 FB:FBgn0036905	Vtld	Viral tegument-like deubiquitinase
 FB:FBgn0084678	vto	vertigo
@@ -8006,7 +8016,7 @@ FB:FBgn0027492	wdb	widerborst
 FB:FBgn0027499	wde	windei
 FB:FBgn0004005	wdl	wavoid-like
 FB:FBgn0034718	wdp	windpipe
-FB:FBgn0027518	Wdr24	WD repeat domain
+FB:FBgn0027518	Wdr24	WD repeat domain 24
 FB:FBgn0267449	WDY	WD40 Y
 FB:FBgn0004007	we	wee
 FB:FBgn0259745	wech	wech
@@ -8014,7 +8024,7 @@ FB:FBgn0014891	Wedge	Wedge
 FB:FBgn0011737	Wee1	Wee1 kinase
 FB:FBgn0001990	wek	weckle
 FB:FBgn0067638	wey	weyprecht
-FB:FBgn0039003	wfs1	wolfram syndrome
+FB:FBgn0039003	wfs1	wolfram syndrome 1
 FB:FBgn0284084	wg	wingless
 FB:FBgn0051151	wge	winged eye
 FB:FBgn0030941	wgn	wengen
@@ -8038,10 +8048,10 @@ FB:FBgn0037917	wkd	whacked
 FB:FBgn0004017	wl	whirly
 FB:FBgn0026156	wlf	wolf
 FB:FBgn0036141	wls	wntless
-FB:FBgn0022757	Wmc5	Wee-Mik-Complementing
+FB:FBgn0022757	Wmc5	Wee-Mik-Complementing 5
 FB:FBgn0036896	wnd	wallenda
 FB:FBgn0037098	Wnk	Wnk kinase
-FB:FBgn0004360	Wnt2	Wnt oncogene analog
+FB:FBgn0004360	Wnt2	Wnt oncogene analog 2
 FB:FBgn0038134	wntD	wnt inhibitor of Dorsal
 FB:FBgn0004019	wobA	wobbly A
 FB:FBgn0010328	woc	without children
@@ -8054,7 +8064,7 @@ FB:FBgn0004022	Wr	Wrinkle
 FB:FBgn0025878	wrapper	wrapper
 FB:FBgn0042693	wrd	well-rounded
 FB:FBgn0004023	wrl	whirligig
-FB:FBgn0264302	wrm1	wurmchen
+FB:FBgn0264302	wrm1	wurmchen 1
 FB:FBgn0038608	WRNexo	WRN exonuclease
 FB:FBgn0051665	wry	weary
 FB:FBgn0004024	ws	waisted
@@ -8127,7 +8137,7 @@ FB:FBgn0039338	XNP	XNP
 FB:FBgn0004698	Xpc	Xeroderma pigmentosum, complementation group C
 FB:FBgn0038749	Xport-A	exit protein of rhodopsin and TRP A
 FB:FBgn0026751	XRCC1	XRCC1
-FB:FBgn0030931	Xrcc2	X-ray repair cross complementing
+FB:FBgn0030931	Xrcc2	X-ray repair cross complementing 2
 FB:FBgn0069301	XRCC4	XRCC4
 FB:FBgn0261113	Xrp1	Xrp1
 FB:FBgn0034959	Xxylt	Xyloside xylosyltransferase
@@ -8137,7 +8147,7 @@ FB:FBgn0020244	y5-5	y5-5
 FB:FBgn0026312	Y56	Y56
 FB:FBgn0260990	yata	yata
 FB:FBgn0016760	Ybb	Y-bobbed
-FB:FBgn0004035	yea1	yeast
+FB:FBgn0004035	yea1	yeast 1
 FB:FBgn0032601	yellow-b	yellow-b
 FB:FBgn0041713	yellow-c	yellow-c
 FB:FBgn0041712	yellow-d	yellow-d
@@ -8156,10 +8166,10 @@ FB:FBgn0005597	yemG9.5	yema gene 9.5
 FB:FBgn0267398	Yeti	Yeti
 FB:FBgn0042097	yeti-MBT	yeti Malignant Brain Tumor
 FB:FBgn0028973	yew	yew
-FB:FBgn0288631	Yif1	Yip1-interacting factor
+FB:FBgn0288631	Yif1	Yip1-interacting factor 1
 FB:FBgn0265575	yin	yin
-FB:FBgn0032465	Yip1d1	Yip1 domain-containing
-FB:FBgn0040060	yip7	yippee interacting protein
+FB:FBgn0032465	Yip1d1	Yip1 domain-containing 1
+FB:FBgn0040060	yip7	yippee interacting protein 7
 FB:FBgn0034970	yki	yorkie
 FB:FBgn0260858	Ykt6	YKT6 v-SNARE
 FB:FBgn0004649	yl	yolkless
@@ -8168,31 +8178,31 @@ FB:FBgn0034792	YME1L	YME1 like ATPase
 FB:FBgn0261287	ymp	yellow-emperor
 FB:FBgn0016082	ynd	yande
 FB:FBgn0035593	Yod1	Yod1 deubiquitinase
-FB:FBgn0004045	Yp1	Yolk protein
+FB:FBgn0004045	Yp1	Yolk protein 1
 FB:FBgn0288857	Ype	Yippee
 FB:FBgn0030183	Ypel	Yippee-like
 FB:FBgn0022959	yps	ypsilon schachtel
 FB:FBgn0004049	yrt	yurt
-FB:FBgn0027616	Ythdc1	YTH domain containing
+FB:FBgn0027616	Ythdc1	YTH domain containing 1
 FB:FBgn0021895	ytr	yantar
 FB:FBgn0045842	yuri	yuri gagarin
 FB:FBgn0004050	z	zeste
 FB:FBgn0016761	Z(400-600)	Z-band-protein-400/600
 FB:FBgn0004052	Z600	Z600
 FB:FBgn0023132	Z66	Z66
-FB:FBgn0037921	Zaf1	ZAD and Architectural Function
+FB:FBgn0037921	Zaf1	ZAD and Architectural Function 1
 FB:FBgn0052685	ZAP3	ZAP3
 FB:FBgn0015566	zaro	zarolho
 FB:FBgn0042625	zaro-4	zaro-4
-FB:FBgn0035917	Zasp66	Z band alternatively spliced PDZ-motif protein
+FB:FBgn0035917	Zasp66	Z band alternatively spliced PDZ-motif protein 66
 FB:FBgn0035900	ZC3H3	ZC3H3
 FB:FBgn0034368	zda	zonda
 FB:FBgn0004053	zen	zerknullt
 FB:FBgn0004054	zen2	zerknullt-related
 FB:FBgn0004051	Zerknittert	Zerknittert
 FB:FBgn0086219	zex	zexless
-FB:FBgn0270924	zf30C	zinc finger protein
-FB:FBgn0004606	zfh1	Zn finger homeodomain
+FB:FBgn0270924	zf30C	zinc finger protein 30C
+FB:FBgn0004606	zfh1	Zn finger homeodomain 1
 FB:FBgn0021875	Zfrp8	Zinc finger protein RP-8
 FB:FBgn0004840	Zhr	Zygotic hybrid rescue
 FB:FBgn0037446	Zif	Zinc-finger protein
@@ -8211,7 +8221,7 @@ FB:FBgn0024177	zpg	zero population growth
 FB:FBgn0030096	Zpr1	Zpr1
 FB:FBgn0261266	zuc	zucchini
 FB:FBgn0004057	Zw	Zwischenferment
-FB:FBgn0004643	Zw10	Zeste-white
+FB:FBgn0004643	Zw10	Zeste-white 10
 FB:FBgn0082579	zwi	zwirbel
 FB:FBgn0061476	Zwilch	Zwilch
 FB:FBgn0265767	zyd	zydeco
